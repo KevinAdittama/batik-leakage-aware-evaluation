@@ -1,0 +1,23 @@
+{
+  "analysis_role": "source-group adjudication; detects same-photo crops missed by pHash",
+  "population": {
+    "development_originals": 201,
+    "external": 60,
+    "pairs_tested": 33930
+  },
+  "canvas_px": 256,
+  "screen_patch_px": 96,
+  "screen_min_patch_corr": 0.6,
+  "align_score_min": 0.95,
+  "residual_max_rgb": 15.0,
+  "min_overlap_px": 40,
+  "random_seed": 42,
+  "detects": "translational overlap between crops of one photograph",
+  "does_not_detect": "non-overlapping crops, large rotation, large rescaling",
+  "assertions_passed": [
+    "setiap citra memperoleh group_id",
+    "tidak ada grup yang menggabungkan dua label kelas",
+    "tidak ada grup yang melintasi development dan eksternal",
+    "seluruh kombinasi pasangan diuji tanpa kecuali"
+  ]
+}

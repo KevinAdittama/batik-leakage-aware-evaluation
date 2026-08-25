@@ -1,0 +1,3 @@
+selected_feature_set,selected_model,outer_fold_selections
+Gabungan 6 Fitur,Random Forest,13
+Gabungan 6 Fitur,SVM (RBF),12

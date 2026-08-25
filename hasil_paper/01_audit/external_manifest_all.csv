@@ -1,0 +1,61 @@
+source_id,path,kelas,label,subjenis,source_set,sha256,file_size_bytes,readable,width,height,extension
+5e313c37e67c,uji_eksternal/batik/batik_betawi (1).jpg,batik,1,betawi,external,35a08c6078976928fc6bc88e0648a71c3644dc2b29106d455f2d2c07e878c813,46801,True,600,400,.jpg
+039e17bfd050,uji_eksternal/batik/batik_betawi (2).jpg,batik,1,betawi,external,8d3f580b2ee8abda31dbc2ea99edce2b555e75558514df2d550662310f4be480,61012,True,678,452,.jpg
+ff670d416aef,uji_eksternal/batik/batik_betawi (3).jpg,batik,1,betawi,external,7f72c77dcce1126197b3d6618653c51039684ec409e78e307a23eafe11c1307f,78763,True,626,313,.jpg
+4e986ca1be95,uji_eksternal/batik/batik_betawi (4).jpg,batik,1,betawi,external,db3ba39b7c24d418a6464a42b5c53e8dca431265c0d4b1ebcf3d07d53adf5fef,826773,True,1280,1707,.jpg
+f4bdf9026daa,uji_eksternal/batik/batik_betawi (5).jpg,batik,1,betawi,external,62cd849d23d8a78ac6f24af2d63891727d70f916d1e094f81e99f194a0e53b0f,301167,True,1280,960,.jpg
+59951c6bc4f8,uji_eksternal/batik/batik_kalimantan_dayak (1).jpg,batik,1,kalimantan_dayak,external,593e1bd7f4451ef011b644bfdeaec7159d9d39b9f5d69d426c5f94d283e8e2c5,246104,True,1024,683,.jpg
+ab70f9f67280,uji_eksternal/batik/batik_kalimantan_dayak (2).jpg,batik,1,kalimantan_dayak,external,67d7e23096ac9051a61d1bee15cf7aad56809ebf42f8d32ac241eda92c3006c2,78288,True,588,366,.jpg
+2c2e68b53f79,uji_eksternal/batik/batik_kalimantan_dayak (3).jpg,batik,1,kalimantan_dayak,external,a94fce291a1b80c8e98af8cd7e0555ed10bfa10ab126ab0c6cc8ae81c24a38e2,39448,True,450,443,.jpg
+ad545f1293fb,uji_eksternal/batik/batik_kalimantan_dayak (4).jpg,batik,1,kalimantan_dayak,external,8cd979fa1bb33a3148263e2f3ba68c45b53b691cbc4614fe9e958254276e5087,340074,True,1280,1280,.jpg
+3efb393bd163,uji_eksternal/batik/batik_kalimantan_dayak (5).jpg,batik,1,kalimantan_dayak,external,69a4f14168039077bb65e32a535d7d552ecc5ccf13f9de200b73f37dd0b42291,482639,True,1024,768,.jpg
+f5557f4df50d,uji_eksternal/batik/batik_kawung (2).jpg,batik,1,kawung,external,712fdb4e946ad017197956ad821f0e7468bb47a886e6a681fa0491981ebdb9a0,60068,True,447,447,.jpg
+a5540334496f,uji_eksternal/batik/batik_kawung (4).jpg,batik,1,kawung,external,1b8445e8a50e1fe8339ae971797c73929c247590e81c22655107ab7a8f8ff8d8,893843,True,1280,1280,.jpg
+502785cb65a6,uji_eksternal/batik/batik_kawung (5).jpg,batik,1,kawung,external,ad33b3c0229cb1ae9194b61957d46e91db0b01fee99da309419c18f2dcafecec,554229,True,1280,853,.jpg
+89c37681bdce,uji_eksternal/batik/batik_kawung.jpg,batik,1,kawung,external,790ebc9c43cfa87e5172fa79c7ed6f751648680881d49315a6cf4dff29ed0bc6,1052877,True,1200,1200,.jpg
+9ddb5031d344,uji_eksternal/batik/batik_kawung.png,batik,1,kawung,external,39124157b81b4b42ec9d24aa9263a822eb7bae6bd9331832039a976b8a4d7935,47688,True,554,554,.png
+2d90ff3d23ac,uji_eksternal/batik/batik_megamendung (1).jpg,batik,1,megamendung,external,2babae1a1d97d626c24926bfa51f118982f535a745d10e0beb0e0cb4b401f1bd,76510,True,709,433,.jpg
+683e695a74b3,uji_eksternal/batik/batik_megamendung (1).webp,batik,1,megamendung,external,729b512dc7cb69fda0b60dd282fdf14d1e9790c43982007931d63ae08098952f,24520,True,584,302,.webp
+4d377f1d5852,uji_eksternal/batik/batik_megamendung (2).jpg,batik,1,megamendung,external,008b57ef129e0d38768d31899e4720609494d1a1b7703e7419a15019a4473db9,43266,True,578,435,.jpg
+3c0cee524fa2,uji_eksternal/batik/batik_megamendung (4).jpg,batik,1,megamendung,external,6540061dd72a926685590d4286de0df2738237de1baa419ad0f9ea32c1e9b159,683702,True,1280,1716,.jpg
+3e23d6307120,uji_eksternal/batik/batik_megamendung (5).jpg,batik,1,megamendung,external,d4d1d172a4b194e2e591967e134c2fc4bce8998510ff535af1d0ba4f8718b05b,103789,True,762,1100,.jpg
+f84a7bc29c7a,uji_eksternal/batik/batik_parang (2).jpg,batik,1,parang,external,e049dedc923d36ddd2139ead8d2035c76c6adc60fe5ee1e6959686fd252cbebb,90141,True,480,640,.jpg
+098b89a01667,uji_eksternal/batik/batik_parang (3).jpg,batik,1,parang,external,1da949fd3247baccbc9859c96231c8aabe68728da7952e0bd6e6989c9a1339d1,73308,True,387,516,.jpg
+88b348474585,uji_eksternal/batik/batik_parang (4).jpg,batik,1,parang,external,d35aed7d9557f205bb3ad3c9b153ce6d395d2c7b0f39de5076792c6ed3ab8959,367002,True,1280,853,.jpg
+d4f5114d7f29,uji_eksternal/batik/batik_parang (5).jpg,batik,1,parang,external,d7c180bc88fc2706331e6adae57a91496d8dcd9d7a848a9f2a990aac71305502,594161,True,1280,1262,.jpg
+d9c7129b2e6d,uji_eksternal/batik/batik_parang.jpg,batik,1,parang,external,051819cc7f78a888750948feafea77ce5801b7f2a04854313a92912223bb1581,62597,True,554,554,.jpg
+e0afadad4217,uji_eksternal/batik/batik_sogan (1).jpg,batik,1,sogan,external,ac830df3c97bd6259b897ace3436dca0d101e9273337e880c328d339e4363209,69005,True,500,429,.jpg
+8de9e044b85d,uji_eksternal/batik/batik_sogan (2).jpg,batik,1,sogan,external,7bccaf0821496c49d3a6b745aecc7c3106b47f70db572d9af2179b0a392d48ab,75194,True,554,554,.jpg
+7bbeb917afc1,uji_eksternal/batik/batik_sogan (3).jpg,batik,1,sogan,external,7a0a2b46d21ac81e892d6c1e640ee6a24bd2c9d069e927a447b944162b057fe4,64697,True,399,501,.jpg
+2647481a9091,uji_eksternal/batik/batik_sogan (4).jpg,batik,1,sogan,external,fa0c681eab9a28b83886a6e73ad48906fae041be1a7c00073aee21182ecf210d,484148,True,1280,1028,.jpg
+6f79eddb99bb,uji_eksternal/batik/batik_sogan (5).jpg,batik,1,sogan,external,ee12381551e87a903a23fcd929f0f0645ef7206456fc20511fb4155d0b8026ca,429852,True,1280,1033,.jpg
+64e9d289ebb7,uji_eksternal/non_batik/flanel_kotak (1).jpg,non_batik,0,kotak,external,5075db8174746fb186d49fc3a1b96f141b2307df30bdeb33731bcf9201fb43f3,6396,True,225,225,.jpg
+a2035c59c173,uji_eksternal/non_batik/flanel_kotak (2).jpg,non_batik,0,kotak,external,3594349bdd655fcdde8fdb2b6b4eff5ec8c89a5d70e5e148a0e6326206cbe27f,21941,True,364,549,.jpg
+08877e0d0bd2,uji_eksternal/non_batik/flanel_kotak (3).jpg,non_batik,0,kotak,external,ddc1c54cd64bf4f78e897932c12d9eaee5af6ae9d5b04f423ab37d35c7e622b5,52318,True,554,554,.jpg
+e52e0d23ca2d,uji_eksternal/non_batik/kain_bunga (1).jpg,non_batik,0,bunga,external,d890bc5d88b986ab183f7c9e0fc42fbf936b9e5df96b835f19529b57ac1fece4,76822,True,550,550,.jpg
+1600b15747c7,uji_eksternal/non_batik/kain_bunga (2).jpg,non_batik,0,bunga,external,a876ba70e56ae4ff465d08addd1c0411660abde4de0ec9299fb782170b330fc9,60073,True,381,524,.jpg
+4d13e58e5a18,uji_eksternal/non_batik/kain_bunga (3).jpg,non_batik,0,bunga,external,b2937fbb1126076bb661eed86632f13914896bde579c8a42b0d756f5a634fc09,97842,True,466,659,.jpg
+8e95091d7820,uji_eksternal/non_batik/kain_bunga (4).jpg,non_batik,0,bunga,external,559465fb5078c35d1b4fe4a6435c9bd61a093316792ee8a9b790edf563c5dbac,11654,True,225,225,.jpg
+4f9c1a9eb14b,uji_eksternal/non_batik/kain_fabric (1).jpg,non_batik,0,fabric,external,78969f76557952625c67052727e166f4aa0b428ec1308ad3738726b0c10401f9,34887,True,280,280,.jpg
+a3e4b20c7284,uji_eksternal/non_batik/kain_fabric (2).jpg,non_batik,0,fabric,external,9d547ad356450cc34f487233344e59d035c42e5c7433abc679f0a3aaa588d703,29482,True,350,350,.jpg
+5a1eb2eb9bf9,uji_eksternal/non_batik/kain_fabric (3).jpg,non_batik,0,fabric,external,953884a718297acc8ca3dc86402f44a11d7bdb32cc6bab3d4e4efb62caa2227b,40881,True,350,350,.jpg
+c7b422c60277,uji_eksternal/non_batik/kain_kotak (1).jpg,non_batik,0,kotak,external,cb664ff2c66c20634f10333ff9e1da5a8352e6219151ae35935edb97c5ae5106,78246,True,738,414,.jpg
+e9dd024cd6bf,uji_eksternal/non_batik/kain_kotak (1).png,non_batik,0,kotak,external,ac54eec67ef79d9e17adc67eb241b21030cbe36e5fa5301617b2be38df429c01,4584,True,360,360,.png
+bd8dadf9fd4f,uji_eksternal/non_batik/kain_kotak (2).jpg,non_batik,0,kotak,external,8200b7f8f88d32583e7f3b217de78a65a2493ce1663cde47669306b54b6dd1c5,52926,True,515,388,.jpg
+28ba89a366ea,uji_eksternal/non_batik/kain_kotak (3).jpg,non_batik,0,kotak,external,03a46e4cd46b58424844cd1da6df2002c649554537c1d489f569da073fdac3e4,28106,True,626,351,.jpg
+0a91167e1694,uji_eksternal/non_batik/kain_salur (1).jpg,non_batik,0,salur,external,8e8350796a4a611af9e9ff22063717827d65029d94555dcfb614092c87801c28,23237,True,300,225,.jpg
+8fb2b9072c05,uji_eksternal/non_batik/kain_salur (2).jpg,non_batik,0,salur,external,c8f54b5a5a0fb79c66fc67409b682808640b52dc8e980129c092a79e7f46c128,47360,True,447,447,.jpg
+133e0acbdce7,uji_eksternal/non_batik/kain_salur (3).jpg,non_batik,0,salur,external,edb2cdc64aadc3c0159f0d677fd8dc940ca48cdcc28f416279d35251cdcb8903,82694,True,399,501,.jpg
+81ef06d4d813,uji_eksternal/non_batik/kain_salur (4).jpg,non_batik,0,salur,external,7e834d54c870b5159a3b65356edb702e10f65fc419526a3ad0f99129074f2d66,512337,True,1280,1707,.jpg
+fa69047f454b,uji_eksternal/non_batik/kain_tenun_ikat (1).jpg,non_batik,0,tenun_ikat,external,7740059d32408bf073123897b5e3cca31aad6d2d5390d12f3d01a27f77095a2f,22838,True,225,225,.jpg
+bbaec1c98b8c,uji_eksternal/non_batik/kain_tenun_ikat (1).webp,non_batik,0,tenun_ikat,external,34b81bf4623946485b6f5e382c6414ce52e66585847d5496be42abfb6d5d2c7b,100876,True,400,400,.webp
+19e1a072de19,uji_eksternal/non_batik/kain_tenun_ikat (2).jpg,non_batik,0,tenun_ikat,external,2c12ae72f684fece66fa3285e4547b871417c5533d23a0e3fb62a5e52ba943d3,52671,True,447,447,.jpg
+153a16fa7f5c,uji_eksternal/non_batik/kain_tenun_ikat (3).jpg,non_batik,0,tenun_ikat,external,8755b9ed0fac7ae1808e2e9aab7fd2ef660937c35c4aa161f2cfde92f65586ec,14315,True,225,225,.jpg
+ab6b26fd68ca,uji_eksternal/non_batik/polkadot1.jpg,non_batik,0,polkadot,external,3b2064dde9fe2ec694a486a7e952d8707044639a6d9c14ddaec707ef2a9db372,7892,True,197,256,.jpg
+4c01bf2a3e27,uji_eksternal/non_batik/polkadot2.jpg,non_batik,0,polkadot,external,110417799ce1c45cadcf039f9cb5a2334356fdaf34fa5cf85ed4d137f3764731,13058,True,259,194,.jpg
+ae195b3e40cc,uji_eksternal/non_batik/polkadot3.jpg,non_batik,0,polkadot,external,374f02410dfc820fa3b543e90c53ce2ca5369a2c6b3283738d57fc1db3291216,131194,True,509,339,.jpg
+d38bf600e463,uji_eksternal/non_batik/polos1.jpg,non_batik,0,polos,external,90ecb4d42c4ed6f9aeeb046444d28bc726cf1de5879a782dd90d54ac4417c773,7469,True,259,194,.jpg
+b9754262d30e,uji_eksternal/non_batik/polos2.jpg,non_batik,0,polos,external,38e1d2ff083475f09057b95dd172bdc112e0948a1d4cc2cbd2e867452b01e0e5,10036,True,225,225,.jpg
+200d4cd500e8,uji_eksternal/non_batik/polos3.webp,non_batik,0,polos,external,6ab74c920d68244c3bdf8e3a46a863f584844568f6e4ef4f929186aa928abebd,8818,True,700,700,.webp
+445c3072fd40,uji_eksternal/non_batik/polos4.webp,non_batik,0,polos,external,4aa7cc9f11756b076c3222b359b984a30ed769cfbe0242d70daa084f443f4055,17140,True,600,600,.webp
+cdd159fff7dc,uji_eksternal/non_batik/polos5.jpg,non_batik,0,polos,external,ace838bf7178f61a4fd80bd4fa40f2b319e9f3b6aaa53deb48699e45a73dd087,256165,True,1000,1000,.jpg

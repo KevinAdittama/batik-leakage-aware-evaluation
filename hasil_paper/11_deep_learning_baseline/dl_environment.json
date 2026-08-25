@@ -1,0 +1,18 @@
+{
+  "python": "3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch": "2.13.0+cpu",
+  "torchvision": "0.28.0+cpu",
+  "device": "cpu",
+  "random_seed": 42,
+  "n_splits": 5,
+  "target_per_class": 200,
+  "batch_size": 24,
+  "method": "Frozen ImageNet feature extractor + StandardScaler + LogisticRegression head",
+  "project_dir": "D:\\kuliah\\Arikel Publikasi\\10_batik pak feddy\\batik baru\\code",
+  "resnet18_weights": "ResNet18_Weights.IMAGENET1K_V1",
+  "resnet18_embedding_dim": 512,
+  "mobilenet_v2_weights": "MobileNet_V2_Weights.IMAGENET1K_V2",
+  "mobilenet_v2_embedding_dim": 1280,
+  "elapsed_seconds": 145.89
+}

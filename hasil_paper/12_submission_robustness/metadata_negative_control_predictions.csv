@@ -1,0 +1,262 @@
+source_set,path,kelas,label,evaluation,predicted_label,correct
+development,dataset_batik/batik/Batik Sekar Jagad/0.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Batik Sekar Jagad/1.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Batik Sekar Jagad/37.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Batik Sekar Jagad/38.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Batik Sekar Jagad/54.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/001.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0010.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0011.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0012.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0013.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0014.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0016.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0017.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0020.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0021.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0022.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0024.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0025.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0027.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0028.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0029.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0030.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0031.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0032.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0033.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0034.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0036.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0037.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0038.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0039.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/004.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/0040.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/007.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Solo_Parang/009.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/002.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/003.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/004.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/005.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/006.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/007.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/008.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/Yogyakarta_Parang/009.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,batik,1,development_oof,0,False
+development,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,batik,1,development_oof,0,False
+development,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik semarangan/semarangan1.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik semarangan/semarangan2.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik semarangan/semarangan3.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik semarangan/semarangan4.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik semarangan/semarangan5.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik solo/solo1.png,batik,1,development_oof,0,False
+development,dataset_batik/batik/batik solo/solo2.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik solo/solo4.jpg,batik,1,development_oof,1,True
+development,dataset_batik/batik/batik solo/solo5.jpg,batik,1,development_oof,1,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/garis/garis1 (1).jpg,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/garis/garis1 (2).jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/garis/garis1 (3).jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/garis/garis1 (4).jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/garis/garis1 (5).jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (10).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (3).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (8).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/geometris/geometris (9).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/kotak/kotak4.jpg,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/kotak/kotak5.jpg,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/modern/modern (1).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (10).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (2).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (3).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (4).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (5).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (6).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (7).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (8).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/modern/modern (9).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/polkadot/polkadot5.jpg,non_batik,0,development_oof,1,False
+development,dataset_batik/non_batik/polos/polos (1).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (10).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (2).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (3).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (4).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (5).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (6).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (8).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (1).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (10).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (2).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (5).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (6).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (7).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (8).png,non_batik,0,development_oof,0,True
+development,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,development_oof,0,True
+external,uji_eksternal/batik/batik_betawi (1).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_betawi (2).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_betawi (3).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_betawi (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_betawi (5).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kalimantan_dayak (1).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kalimantan_dayak (2).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_kalimantan_dayak (3).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_kalimantan_dayak (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kalimantan_dayak (5).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kawung (2).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_kawung (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kawung (5).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kawung.jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_kawung.png,batik,1,external,0,False
+external,uji_eksternal/batik/batik_megamendung (1).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_megamendung (1).webp,batik,1,external,1,True
+external,uji_eksternal/batik/batik_megamendung (2).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_megamendung (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_megamendung (5).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_parang (2).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_parang (3).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_parang (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_parang (5).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_parang.jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_sogan (1).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_sogan (2).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_sogan (3).jpg,batik,1,external,1,True
+external,uji_eksternal/batik/batik_sogan (4).jpg,batik,1,external,0,False
+external,uji_eksternal/batik/batik_sogan (5).jpg,batik,1,external,0,False
+external,uji_eksternal/non_batik/flanel_kotak (1).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/flanel_kotak (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/flanel_kotak (3).jpg,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_bunga (1).jpg,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_bunga (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_bunga (3).jpg,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_bunga (4).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_fabric (1).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_fabric (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_fabric (3).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_kotak (1).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_kotak (1).png,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_kotak (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_kotak (3).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_salur (1).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_salur (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_salur (3).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_salur (4).jpg,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_tenun_ikat (1).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_tenun_ikat (1).webp,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/kain_tenun_ikat (2).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/kain_tenun_ikat (3).jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polkadot1.jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polkadot2.jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polkadot3.jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polos1.jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polos2.jpg,non_batik,0,external,1,False
+external,uji_eksternal/non_batik/polos3.webp,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/polos4.webp,non_batik,0,external,0,True
+external,uji_eksternal/non_batik/polos5.jpg,non_batik,0,external,0,True

@@ -1,0 +1,24 @@
+condition,choice,count,of
+gray+pretrained+full512,SVM (RBF),11,25
+gray+pretrained+full512,Logistic Regression,8,25
+gray+pretrained+full512,Random Forest,6,25
+gray+pretrained+pca6,Logistic Regression,11,25
+gray+pretrained+pca6,SVM (RBF),10,25
+gray+pretrained+pca6,Random Forest,4,25
+gray+random+full512,SVM (RBF),11,25
+gray+random+full512,Random Forest,9,25
+gray+random+full512,Logistic Regression,5,25
+gray+random+pca6,Random Forest,23,25
+gray+random+pca6,Logistic Regression,2,25
+rgb+pretrained+full512,SVM (RBF),12,25
+rgb+pretrained+full512,Logistic Regression,7,25
+rgb+pretrained+full512,Random Forest,6,25
+rgb+pretrained+pca6,SVM (RBF),14,25
+rgb+pretrained+pca6,Logistic Regression,7,25
+rgb+pretrained+pca6,Random Forest,4,25
+rgb+random+full512,SVM (RBF),12,25
+rgb+random+full512,Logistic Regression,10,25
+rgb+random+full512,Random Forest,3,25
+rgb+random+pca6,Logistic Regression,19,25
+rgb+random+pca6,Random Forest,3,25
+rgb+random+pca6,SVM (RBF),3,25

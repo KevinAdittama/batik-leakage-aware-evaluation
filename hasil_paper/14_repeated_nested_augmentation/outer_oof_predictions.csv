@@ -1,0 +1,1006 @@
+repeat,outer_fold,path,source_id,kelas,label,subjenis,selected_feature_set,selected_model,predicted_label,correct
+1,1,dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+1,1,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+1,1,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+1,1,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+1,1,dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+1,1,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),1,False
+1,1,dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),1,False
+1,1,dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,1,dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+1,2,dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,0,False
+1,2,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,0,False
+1,2,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,0,False
+1,2,dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+1,2,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,1,False
+1,2,dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,1,False
+1,2,dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,1,False
+1,2,dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+1,2,dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+1,3,dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+1,3,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+1,3,dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+1,3,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,Gabungan 6 Fitur,SVM (RBF),1,False
+1,3,dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+1,3,dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+1,4,dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+1,4,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+1,4,dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+1,5,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,1,False
+1,5,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,1,False
+1,5,dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,1,False
+1,5,dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+1,5,dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,1,dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+2,1,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+2,1,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+2,1,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),1,False
+2,1,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+2,1,dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+2,2,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),1,False
+2,2,dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+2,2,dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+2,3,dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,0,False
+2,3,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,0,False
+2,3,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+2,3,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,1,False
+2,3,dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,3,dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,4,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,0,False
+2,4,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,1,False
+2,4,dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,1,False
+2,4,dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,1,False
+2,4,dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,4,dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+2,5,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,1,False
+2,5,dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,1,False
+2,5,dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+2,5,dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+3,1,dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+3,1,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),1,False
+3,1,dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,1,dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+3,2,dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+3,2,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+3,2,dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+3,2,dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),1,False
+3,2,dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+3,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+3,3,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+3,3,dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+3,3,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,3,dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+3,4,dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,0,False
+3,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+3,4,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,1,False
+3,4,dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,1,False
+3,4,dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,4,dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+3,5,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,1,False
+3,5,dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,1,False
+3,5,dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,1,False
+3,5,dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+3,5,dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+4,1,dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+4,1,dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+4,1,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),1,False
+4,1,dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),1,False
+4,1,dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),1,False
+4,1,dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,1,dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,2,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),1,False
+4,2,dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,2,dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),0,False
+4,3,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+4,3,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),0,False
+4,3,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+4,3,dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+4,3,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+4,3,dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+4,4,dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,0,False
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,0,False
+4,4,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,0,False
+4,4,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,0,False
+4,4,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+4,4,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,1,False
+4,4,dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+4,4,dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,0,False
+4,5,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+4,5,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,1,False
+4,5,dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,1,False
+4,5,dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,1,False
+4,5,dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+4,5,dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+5,1,dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,Gabungan 6 Fitur,SVM (RBF),1,True
+5,1,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+5,1,dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+5,2,dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,0,False
+5,2,dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+5,2,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,1,False
+5,2,dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,1,False
+5,2,dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,2,dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,0,False
+5,3,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+5,3,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,1,False
+5,3,dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,1,False
+5,3,dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+5,3,dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,0,False
+5,4,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,Gabungan 6 Fitur,Random Forest,1,True
+5,4,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,1,False
+5,4,dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,Gabungan 6 Fitur,Random Forest,1,False
+5,4,dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,Gabungan 6 Fitur,Random Forest,0,True
+5,4,dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,1,False
+5,4,dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,Gabungan 6 Fitur,Random Forest,0,True
+5,5,dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),0,False
+5,5,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),0,False
+5,5,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,Gabungan 6 Fitur,SVM (RBF),1,True
+5,5,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,Gabungan 6 Fitur,SVM (RBF),1,False
+5,5,dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True
+5,5,dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,Gabungan 6 Fitur,SVM (RBF),0,True

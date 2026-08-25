@@ -1,0 +1,8 @@
+{
+  "model": "MobileNetV2",
+  "model_slug": "mobilenet_v2",
+  "cv_f1_macro_mean": 0.9602927072927073,
+  "cv_f1_macro_std": 0.03848355617434875,
+  "selection_rule": "Highest mean macro-F1 among frozen deep feature baselines",
+  "note": "Baseline only; formal handcrafted model selection remains defined in stage 07."
+}

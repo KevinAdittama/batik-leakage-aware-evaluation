@@ -1,0 +1,38 @@
+left_set,left_path,left_class,left_subtype,right_set,right_path,right_class,right_subtype,phash_hamming,dhash_hamming,trigger,manual_status
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,batik,SumateraBarat_Rumah_Minang,development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,batik,SumateraBarat_Rumah_Minang,0,1,both,unreviewed_candidate
+development,dataset_batik/batik/batik semarangan/semarangan3.jpg,batik,batik semarangan,development,dataset_batik/batik/batik semarangan/semarangan5.jpg,batik,batik semarangan,2,0,both,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,6,25,phash,unreviewed_candidate
+development,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,batik,Yogyakarta_Kawung,development,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,geometris,6,34,phash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,8,7,both,unreviewed_candidate
+development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,batik,SumateraBarat_Rumah_Minang,development,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,batik,SumateraBarat_Rumah_Minang,8,15,phash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,8,21,phash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,12,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (10).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,14,4,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,14,5,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (10).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,14,7,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,16,3,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,16,7,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (10).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,18,4,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,18,4,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,20,5,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,20,6,dhash,unreviewed_candidate
+development,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,batik,Yogyakarta_Kawung,development,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,batik,Yogyakarta_Kawung,20,7,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,20,7,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,22,2,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,22,5,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (10).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,22,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,geometris,development,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,tenun,24,0,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,geometris,24,4,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (10).png,non_batik,polos,24,5,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,24,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (9).png,non_batik,polos,24,8,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (4).png,non_batik,polos,26,4,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,26,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (7).png,non_batik,polos,26,7,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,geometris,development,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,tenun,28,0,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,bunga_nonbatik,development,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,tenun,28,3,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (2).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,28,5,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,geometris,development,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,geometris,30,0,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/polos/polos (3).png,non_batik,polos,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,30,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,geometris,development,dataset_batik/non_batik/polos/polos (6).png,non_batik,polos,32,3,dhash,unreviewed_candidate
+development,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,batik,Yogyakarta_Kawung,development,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,kotak,34,8,dhash,unreviewed_candidate

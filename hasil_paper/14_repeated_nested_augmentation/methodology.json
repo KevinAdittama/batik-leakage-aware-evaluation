@@ -1,0 +1,20 @@
+{
+  "analysis_role": "submission sensitivity diagnostic; not external model selection",
+  "clean_development_originals": 201,
+  "class_counts": {
+    "batik": 137,
+    "non_batik": 64
+  },
+  "repeats": 5,
+  "outer_splits": 5,
+  "inner_splits": 4,
+  "candidate_space": "4 feature groups x 3 model families",
+  "training_target_per_class": 200,
+  "derivatives_per_original_in_pool": 9,
+  "split_grain": "development source photo group_id (tahap 24)",
+  "augmentation_rule": "only descendants of current inner/outer training sources",
+  "validation_rule": "inner validation and outer test use originals only",
+  "scaling_rule": "StandardScaler remains inside LR/SVM sklearn Pipeline",
+  "external_data_used": false,
+  "base_random_seed": 42
+}

@@ -1,0 +1,7 @@
+comparison,metric,mean_difference,std_difference,n_paired_folds,folds_better,folds_worse,folds_tied,min_difference,max_difference
+class_weighted_originals minus augmented_balanced,f1_macro,-0.008500453804974497,0.03195319378125442,25,8,11,6,-0.0698873196255192,0.06244227168712302
+class_weighted_originals minus augmented_balanced,balanced_accuracy,0.00036426536426536593,0.03469268684989353,25,9,10,6,-0.07692307692307687,0.07692307692307698
+class_weighted_originals minus augmented_balanced,mcc,-0.015585365197147073,0.05952578066912712,25,8,11,6,-0.11550031359591706,0.1114060587118827
+balanced_original_sampling minus augmented_balanced,f1_macro,-0.011155753804241973,0.04450249547600635,25,10,12,3,-0.10839463820595896,0.06244227168712302
+balanced_original_sampling minus augmented_balanced,balanced_accuracy,-0.0008791208791208671,0.04447747144991633,25,11,11,3,-0.0940170940170939,0.07692307692307698
+balanced_original_sampling minus augmented_balanced,mcc,-0.02167428622978211,0.08480468215528093,25,10,12,3,-0.21708923352362008,0.1114060587118827

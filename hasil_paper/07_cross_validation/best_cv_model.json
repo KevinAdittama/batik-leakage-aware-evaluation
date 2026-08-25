@@ -1,0 +1,8 @@
+{
+  "model": "SVM (RBF)",
+  "model_slug": "svm_rbf",
+  "feature_set": "Gabungan 6 Fitur",
+  "cv_f1_macro_mean": 0.9107600568663188,
+  "cv_f1_macro_std": 0.042887338287327645,
+  "selection_rule": "Highest mean macro-F1 among three models using all six features"
+}

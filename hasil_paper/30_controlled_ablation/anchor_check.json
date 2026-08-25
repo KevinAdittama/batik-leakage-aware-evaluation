@@ -1,0 +1,8 @@
+{
+  "embedding_dim_stage11": 512,
+  "embedding_dim_here": 512,
+  "n_originals_compared": 201,
+  "max_abs_deviation": 0.0,
+  "within_tolerance": true,
+  "tolerance": 1e-05
+}

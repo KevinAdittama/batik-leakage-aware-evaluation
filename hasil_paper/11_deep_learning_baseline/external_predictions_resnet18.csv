@@ -1,0 +1,61 @@
+path,source_id,kelas,label,subjenis,split,model,predicted_label,predicted_class,score_batik,correct
+uji_eksternal/batik/batik_betawi (1).jpg,5e313c37e67c,batik,1,betawi,external_original,ResNet18,1,batik,0.5124605,True
+uji_eksternal/batik/batik_betawi (2).jpg,039e17bfd050,batik,1,betawi,external_original,ResNet18,1,batik,0.9676771,True
+uji_eksternal/batik/batik_betawi (3).jpg,ff670d416aef,batik,1,betawi,external_original,ResNet18,1,batik,0.87367046,True
+uji_eksternal/batik/batik_betawi (4).jpg,4e986ca1be95,batik,1,betawi,external_original,ResNet18,1,batik,0.85402215,True
+uji_eksternal/batik/batik_betawi (5).jpg,f4bdf9026daa,batik,1,betawi,external_original,ResNet18,1,batik,0.99845815,True
+uji_eksternal/batik/batik_kalimantan_dayak (1).jpg,59951c6bc4f8,batik,1,kalimantan_dayak,external_original,ResNet18,1,batik,0.9980597,True
+uji_eksternal/batik/batik_kalimantan_dayak (2).jpg,ab70f9f67280,batik,1,kalimantan_dayak,external_original,ResNet18,1,batik,0.9670091,True
+uji_eksternal/batik/batik_kalimantan_dayak (3).jpg,2c2e68b53f79,batik,1,kalimantan_dayak,external_original,ResNet18,1,batik,0.8299419,True
+uji_eksternal/batik/batik_kalimantan_dayak (4).jpg,ad545f1293fb,batik,1,kalimantan_dayak,external_original,ResNet18,1,batik,0.9916905,True
+uji_eksternal/batik/batik_kalimantan_dayak (5).jpg,3efb393bd163,batik,1,kalimantan_dayak,external_original,ResNet18,1,batik,0.98881173,True
+uji_eksternal/batik/batik_kawung (2).jpg,f5557f4df50d,batik,1,kawung,external_original,ResNet18,1,batik,0.9316542,True
+uji_eksternal/batik/batik_kawung (4).jpg,a5540334496f,batik,1,kawung,external_original,ResNet18,1,batik,0.9978085,True
+uji_eksternal/batik/batik_kawung (5).jpg,502785cb65a6,batik,1,kawung,external_original,ResNet18,1,batik,0.99807054,True
+uji_eksternal/batik/batik_kawung.jpg,89c37681bdce,batik,1,kawung,external_original,ResNet18,1,batik,0.98441654,True
+uji_eksternal/batik/batik_kawung.png,9ddb5031d344,batik,1,kawung,external_original,ResNet18,0,non_batik,0.030131007,False
+uji_eksternal/batik/batik_megamendung (1).jpg,2d90ff3d23ac,batik,1,megamendung,external_original,ResNet18,1,batik,0.99745923,True
+uji_eksternal/batik/batik_megamendung (1).webp,683e695a74b3,batik,1,megamendung,external_original,ResNet18,1,batik,0.9993662,True
+uji_eksternal/batik/batik_megamendung (2).jpg,4d377f1d5852,batik,1,megamendung,external_original,ResNet18,1,batik,0.9982974,True
+uji_eksternal/batik/batik_megamendung (4).jpg,3c0cee524fa2,batik,1,megamendung,external_original,ResNet18,1,batik,0.9971878,True
+uji_eksternal/batik/batik_megamendung (5).jpg,3e23d6307120,batik,1,megamendung,external_original,ResNet18,1,batik,0.7475355,True
+uji_eksternal/batik/batik_parang (2).jpg,f84a7bc29c7a,batik,1,parang,external_original,ResNet18,1,batik,0.99996173,True
+uji_eksternal/batik/batik_parang (3).jpg,098b89a01667,batik,1,parang,external_original,ResNet18,1,batik,0.9999963,True
+uji_eksternal/batik/batik_parang (4).jpg,88b348474585,batik,1,parang,external_original,ResNet18,1,batik,0.58987534,True
+uji_eksternal/batik/batik_parang (5).jpg,d4f5114d7f29,batik,1,parang,external_original,ResNet18,1,batik,0.9999703,True
+uji_eksternal/batik/batik_parang.jpg,d9c7129b2e6d,batik,1,parang,external_original,ResNet18,1,batik,0.999553,True
+uji_eksternal/batik/batik_sogan (1).jpg,e0afadad4217,batik,1,sogan,external_original,ResNet18,1,batik,0.9629135,True
+uji_eksternal/batik/batik_sogan (2).jpg,8de9e044b85d,batik,1,sogan,external_original,ResNet18,0,non_batik,0.04852071,False
+uji_eksternal/batik/batik_sogan (3).jpg,7bbeb917afc1,batik,1,sogan,external_original,ResNet18,1,batik,0.98208827,True
+uji_eksternal/batik/batik_sogan (4).jpg,2647481a9091,batik,1,sogan,external_original,ResNet18,0,non_batik,0.0005545396,False
+uji_eksternal/batik/batik_sogan (5).jpg,6f79eddb99bb,batik,1,sogan,external_original,ResNet18,0,non_batik,0.00019516546,False
+uji_eksternal/non_batik/flanel_kotak (1).jpg,64e9d289ebb7,non_batik,0,kotak,external_original,ResNet18,1,batik,0.92543435,False
+uji_eksternal/non_batik/flanel_kotak (2).jpg,a2035c59c173,non_batik,0,kotak,external_original,ResNet18,1,batik,0.8760568,False
+uji_eksternal/non_batik/flanel_kotak (3).jpg,08877e0d0bd2,non_batik,0,kotak,external_original,ResNet18,1,batik,0.9969399,False
+uji_eksternal/non_batik/kain_bunga (1).jpg,e52e0d23ca2d,non_batik,0,bunga,external_original,ResNet18,0,non_batik,0.069984935,True
+uji_eksternal/non_batik/kain_bunga (2).jpg,1600b15747c7,non_batik,0,bunga,external_original,ResNet18,0,non_batik,0.0181551,True
+uji_eksternal/non_batik/kain_bunga (3).jpg,4d13e58e5a18,non_batik,0,bunga,external_original,ResNet18,0,non_batik,4.3949854e-05,True
+uji_eksternal/non_batik/kain_bunga (4).jpg,8e95091d7820,non_batik,0,bunga,external_original,ResNet18,0,non_batik,0.27157658,True
+uji_eksternal/non_batik/kain_fabric (1).jpg,4f9c1a9eb14b,non_batik,0,fabric,external_original,ResNet18,0,non_batik,0.022741409,True
+uji_eksternal/non_batik/kain_fabric (2).jpg,a3e4b20c7284,non_batik,0,fabric,external_original,ResNet18,0,non_batik,0.0016483127,True
+uji_eksternal/non_batik/kain_fabric (3).jpg,5a1eb2eb9bf9,non_batik,0,fabric,external_original,ResNet18,0,non_batik,0.018153986,True
+uji_eksternal/non_batik/kain_kotak (1).jpg,c7b422c60277,non_batik,0,kotak,external_original,ResNet18,0,non_batik,0.01615864,True
+uji_eksternal/non_batik/kain_kotak (1).png,e9dd024cd6bf,non_batik,0,kotak,external_original,ResNet18,0,non_batik,0.001220768,True
+uji_eksternal/non_batik/kain_kotak (2).jpg,bd8dadf9fd4f,non_batik,0,kotak,external_original,ResNet18,0,non_batik,0.00063411304,True
+uji_eksternal/non_batik/kain_kotak (3).jpg,28ba89a366ea,non_batik,0,kotak,external_original,ResNet18,0,non_batik,5.5135417e-05,True
+uji_eksternal/non_batik/kain_salur (1).jpg,0a91167e1694,non_batik,0,salur,external_original,ResNet18,0,non_batik,0.00019856989,True
+uji_eksternal/non_batik/kain_salur (2).jpg,8fb2b9072c05,non_batik,0,salur,external_original,ResNet18,0,non_batik,0.0012758067,True
+uji_eksternal/non_batik/kain_salur (3).jpg,133e0acbdce7,non_batik,0,salur,external_original,ResNet18,0,non_batik,0.00057060685,True
+uji_eksternal/non_batik/kain_salur (4).jpg,81ef06d4d813,non_batik,0,salur,external_original,ResNet18,0,non_batik,0.019857021,True
+uji_eksternal/non_batik/kain_tenun_ikat (1).jpg,fa69047f454b,non_batik,0,tenun_ikat,external_original,ResNet18,0,non_batik,0.016227493,True
+uji_eksternal/non_batik/kain_tenun_ikat (1).webp,bbaec1c98b8c,non_batik,0,tenun_ikat,external_original,ResNet18,1,batik,0.9220047,False
+uji_eksternal/non_batik/kain_tenun_ikat (2).jpg,19e1a072de19,non_batik,0,tenun_ikat,external_original,ResNet18,0,non_batik,0.003500167,True
+uji_eksternal/non_batik/kain_tenun_ikat (3).jpg,153a16fa7f5c,non_batik,0,tenun_ikat,external_original,ResNet18,0,non_batik,0.01896673,True
+uji_eksternal/non_batik/polkadot1.jpg,ab6b26fd68ca,non_batik,0,polkadot,external_original,ResNet18,0,non_batik,0.30096397,True
+uji_eksternal/non_batik/polkadot2.jpg,4c01bf2a3e27,non_batik,0,polkadot,external_original,ResNet18,0,non_batik,0.000540934,True
+uji_eksternal/non_batik/polkadot3.jpg,ae195b3e40cc,non_batik,0,polkadot,external_original,ResNet18,0,non_batik,0.0007558708,True
+uji_eksternal/non_batik/polos1.jpg,d38bf600e463,non_batik,0,polos,external_original,ResNet18,0,non_batik,0.012307908,True
+uji_eksternal/non_batik/polos2.jpg,b9754262d30e,non_batik,0,polos,external_original,ResNet18,1,batik,0.68187577,False
+uji_eksternal/non_batik/polos3.webp,200d4cd500e8,non_batik,0,polos,external_original,ResNet18,0,non_batik,0.01796234,True
+uji_eksternal/non_batik/polos4.webp,445c3072fd40,non_batik,0,polos,external_original,ResNet18,1,batik,0.61959183,False
+uji_eksternal/non_batik/polos5.jpg,cdd159fff7dc,non_batik,0,polos,external_original,ResNet18,0,non_batik,0.057168666,True

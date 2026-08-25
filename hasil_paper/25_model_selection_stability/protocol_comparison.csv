@@ -1,0 +1,9 @@
+protocol,source,model,macro_f1_mean,macro_f1_std
+file-level,single-loop CV (tahap 07),Random Forest,0.9070443864128076,0.0370026525848222
+file-level,single-loop CV (tahap 07),SVM (RBF),0.8982142302142302,0.0158062235505599
+file-level,single-loop CV (tahap 07),Logistic Regression,0.8140151422169761,0.0446679013170298
+file-level,nested 5 repeat (tahap 14),protocol mean,0.9129443711636456,0.0046536254350221
+source-group-aware,single-loop CV (tahap 07),SVM (RBF),0.9107600568663188,0.0428873382873276
+source-group-aware,single-loop CV (tahap 07),Random Forest,0.9038909841213028,0.0312229879835049
+source-group-aware,single-loop CV (tahap 07),Logistic Regression,0.8229819083922953,0.0642944317463569
+source-group-aware,nested 5 repeat (tahap 14),protocol mean,0.9073045149100272,0.0129550270938914

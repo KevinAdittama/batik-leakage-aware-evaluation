@@ -1,0 +1,15 @@
+{
+  "model": "SVM (RBF)",
+  "model_slug": "svm_rbf",
+  "feature_set": "Gabungan 6 Fitur",
+  "cv_f1_macro_mean": 0.9107600568663188,
+  "cv_f1_macro_std": 0.042887338287327645,
+  "selection_rule": "Highest mean macro-F1 among three models using all six features",
+  "external_accuracy": 0.6666666666666666,
+  "external_balanced_accuracy": 0.6666666666666667,
+  "external_f1_macro": 0.660633484162896,
+  "external_mcc": 0.3458572319330373,
+  "external_recall_batik": 0.5333333333333333,
+  "external_recall_non_batik": 0.8,
+  "note": "Formal model is selected by CV only; external results never change selection."
+}

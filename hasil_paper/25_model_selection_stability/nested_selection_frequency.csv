@@ -1,0 +1,10 @@
+protocol,arm,model,selections,of
+nested single-repeat (tahap 12),-,SVM (RBF),5,5
+nested 5 repeat (tahap 14),fold-local augmentation,Random Forest,13,25
+nested 5 repeat (tahap 14),fold-local augmentation,SVM (RBF),12,25
+nested 5 repeat (tahap 19),augmented_balanced,Random Forest,13,25
+nested 5 repeat (tahap 19),augmented_balanced,SVM (RBF),12,25
+nested 5 repeat (tahap 19),balanced_original_sampling,SVM (RBF),21,25
+nested 5 repeat (tahap 19),balanced_original_sampling,Random Forest,4,25
+nested 5 repeat (tahap 19),class_weighted_originals,SVM (RBF),19,25
+nested 5 repeat (tahap 19),class_weighted_originals,Random Forest,6,25

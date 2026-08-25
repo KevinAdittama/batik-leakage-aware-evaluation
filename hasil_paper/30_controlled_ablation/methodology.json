@@ -1,0 +1,44 @@
+{
+  "analysis_role": "controlled ablation requested by Reviewer 2 item 4",
+  "backbone": "ResNet18",
+  "factors": {
+    "color": [
+      "rgb",
+      "gray"
+    ],
+    "pretraining": [
+      "pretrained",
+      "random"
+    ],
+    "dimensionality": [
+      "full512",
+      "pca6"
+    ]
+  },
+  "n_conditions": 8,
+  "not_varied": "center cropping; part of the ImageNet weight transform",
+  "repeats": 5,
+  "outer_splits": 5,
+  "inner_splits": 4,
+  "split_grain": "development source photo group_id (tahap 24)",
+  "candidate_space": "3 classifier families; feature groups not applicable",
+  "validation_rule": "inner validation and outer test use originals only",
+  "augmentation_rule": "only descendants of current training sources",
+  "pca_inside_pipeline": true,
+  "external_data_used": false,
+  "base_random_seed": 42,
+  "anchor": {
+    "embedding_dim_stage11": 512,
+    "embedding_dim_here": 512,
+    "n_originals_compared": 201,
+    "max_abs_deviation": 0.0,
+    "within_tolerance": true,
+    "tolerance": 1e-05
+  },
+  "assertions_passed": [
+    "ekstraksi baseline identik dengan tahap 11 (deviasi maks 0.00e+00)",
+    "setiap kondisi menghasilkan 25 outer fold",
+    "seluruh kondisi memakai pembagian fold yang identik",
+    "setiap original diprediksi tepat sekali per repeat di semua kondisi"
+  ]
+}

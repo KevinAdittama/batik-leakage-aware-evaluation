@@ -1,0 +1,9 @@
+left,right,residual_rgb,left_set,right_set,fold_left,fold_right,different_fold
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,4.72,development,development,3,4,True
+dataset_batik/batik/batik semarangan/semarangan3.jpg,dataset_batik/batik/batik semarangan/semarangan5.jpg,5.57,development,development,5,3,True
+dataset_batik/batik/Solo_Parang/0032.jpg,dataset_batik/batik/Solo_Parang/0040.jpg,5.95,development,development,2,1,True
+dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,6.24,development,development,3,2,True
+dataset_batik/batik/Solo_Parang/0028.jpg,dataset_batik/batik/Solo_Parang/0034.jpg,7.45,development,development,3,4,True
+dataset_batik/batik/Solo_Parang/0017.jpg,dataset_batik/batik/Solo_Parang/0021.jpg,13.29,development,development,3,2,True
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,dataset_batik/batik/Yogyakarta_Parang/009.jpg,14.45,development,development,3,1,True
+dataset_batik/batik/Yogyakarta_Parang/0017.jpg,dataset_batik/batik/Yogyakarta_Parang/009.jpg,14.78,development,development,4,1,True

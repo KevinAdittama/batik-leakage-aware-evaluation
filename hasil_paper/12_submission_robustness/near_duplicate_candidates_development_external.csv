@@ -1,0 +1,7 @@
+left_set,left_path,left_class,left_subtype,right_set,right_path,right_class,right_subtype,phash_hamming,dhash_hamming,trigger,manual_status
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,bunga_nonbatik,external,uji_eksternal/batik/batik_betawi (3).jpg,batik,betawi,32,3,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,bunga_nonbatik,external,uji_eksternal/batik/batik_kawung.png,batik,kawung,34,3,dhash,unreviewed_candidate
+development,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,batik,Yogyakarta_Kawung,external,uji_eksternal/batik/batik_kawung (2).jpg,batik,kawung,34,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,tenun,external,uji_eksternal/non_batik/kain_tenun_ikat (2).jpg,non_batik,tenun_ikat,34,6,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,tenun,external,uji_eksternal/batik/batik_betawi (3).jpg,batik,betawi,36,0,dhash,unreviewed_candidate
+development,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,tenun,external,uji_eksternal/batik/batik_kawung.png,batik,kawung,36,0,dhash,unreviewed_candidate

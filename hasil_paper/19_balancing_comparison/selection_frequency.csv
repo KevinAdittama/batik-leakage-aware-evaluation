@@ -1,0 +1,10 @@
+arm,kind,choice,count,of
+augmented_balanced,model,Random Forest,13,25
+augmented_balanced,model,SVM (RBF),12,25
+augmented_balanced,feature_set,Gabungan 6 Fitur,25,25
+class_weighted_originals,model,SVM (RBF),19,25
+class_weighted_originals,model,Random Forest,6,25
+class_weighted_originals,feature_set,Gabungan 6 Fitur,25,25
+balanced_original_sampling,model,SVM (RBF),21,25
+balanced_original_sampling,model,Random Forest,4,25
+balanced_original_sampling,feature_set,Gabungan 6 Fitur,25,25

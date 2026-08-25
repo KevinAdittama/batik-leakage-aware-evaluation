@@ -1,0 +1,11 @@
+arm,repeat,outer_fold,class_weight,uses_augmentation,n_batik,n_non_batik
+augmented_balanced,1,1,None,True,200,200
+augmented_balanced,1,2,None,True,200,200
+augmented_balanced,1,3,None,True,200,200
+augmented_balanced,1,4,None,True,200,200
+augmented_balanced,1,5,None,True,200,200
+augmented_balanced,2,1,None,True,200,200
+augmented_balanced,2,2,None,True,200,200
+augmented_balanced,2,3,None,True,200,200
+augmented_balanced,2,4,None,True,200,200
+augmented_balanced,2,5,None,True,200,200

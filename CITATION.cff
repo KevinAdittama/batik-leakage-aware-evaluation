@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the paper.
+authors:
+  - family-names: Pribadi
+    given-names: Feddy Setio
+  - family-names: Sunarko
+    given-names: Budi
+  - family-names: Nugroho
+    given-names: Anan
+  - family-names: Rochim
+    given-names: Febry Putra
+  - family-names: Zaki
+    given-names: Hasan Firdaus Mohd
+  - family-names: Aditama
+    given-names: Kevin Muhammad Tegar
+  - family-names: Arifianto
+    given-names: Fairizal
+title: "Leakage-Aware Evaluation Reveals Acquisition Bias and External Degradation in Binary Batik Recognition"
+type: software
+repository-code: https://github.com/<akun>/batik-leakage-aware-evaluation
+preferred-citation:
+  type: article
+  title: "Leakage-Aware Evaluation Reveals Acquisition Bias and External Degradation in Binary Batik Recognition"
+  journal: International Journal of Intelligent Engineering and Systems
+  year: 2026
+  authors:
+      - family-names: Pribadi
+        given-names: Feddy Setio
+      - family-names: Sunarko
+        given-names: Budi
+      - family-names: Nugroho
+        given-names: Anan
+      - family-names: Rochim
+        given-names: Febry Putra
+      - family-names: Zaki
+        given-names: Hasan Firdaus Mohd
+      - family-names: Aditama
+        given-names: Kevin Muhammad Tegar
+      - family-names: Arifianto
+        given-names: Fairizal

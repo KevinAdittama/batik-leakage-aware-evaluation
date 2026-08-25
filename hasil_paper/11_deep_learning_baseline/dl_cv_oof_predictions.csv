@@ -1,0 +1,403 @@
+path,source_id,kelas,label,subjenis,split,model,predicted_label,predicted_class,score_batik,correct
+dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,cv_oof_original,ResNet18,1,batik,0.9994654059410095,True
+dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,cv_oof_original,ResNet18,1,batik,0.9910257458686829,True
+dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,cv_oof_original,ResNet18,1,batik,0.9981480836868286,True
+dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,cv_oof_original,ResNet18,1,batik,0.9997513890266418,True
+dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,cv_oof_original,ResNet18,1,batik,0.9998075366020203,True
+dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999996423721313,True
+dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.993058443069458,True
+dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9998332262039185,True
+dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999970197677612,True
+dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999322891235352,True
+dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9997592568397522,True
+dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.996972918510437,True
+dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999419450759888,True
+dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,1.0,True
+dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999492168426514,True
+dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9997852444648743,True
+dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.7480924725532532,True
+dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9709016680717468,True
+dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.999859094619751,True
+dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999620914459229,True
+dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9874686002731323,True
+dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.999962329864502,True
+dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999163150787354,True
+dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9997255206108093,True
+dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9998230338096619,True
+dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999758005142212,True
+dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9985255599021912,True
+dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999969005584717,True
+dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999995231628418,True
+dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9997072815895081,True
+dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999861717224121,True
+dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9998778104782104,True
+dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9999356269836426,True
+dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,cv_oof_original,ResNet18,1,batik,0.9967924952507019,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9999865293502808,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9999024868011475,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9946998357772827,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9371457695960999,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9969732761383057,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,0,non_batik,0.08867651224136353,False
+dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9741837978363037,True
+dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,cv_oof_original,ResNet18,1,batik,0.9815660715103149,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9999692440032959,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9904364943504333,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9998968839645386,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9960440397262573,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.875851035118103,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9998013377189636,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9999785423278809,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9913506507873535,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9866142868995667,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9997532963752747,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.993838369846344,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9999840259552002,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9934173822402954,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.999698281288147,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9997267127037048,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9999935626983643,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9927668571472168,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9982227683067322,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.991249680519104,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9986351132392883,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9970790147781372,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9986218214035034,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9995145797729492,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9981822967529297,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.923346221446991,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,ResNet18,1,batik,0.9941828846931458,True
+dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9231939911842346,True
+dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.999473512172699,True
+dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9999973773956299,True
+dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9943954944610596,True
+dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9997527003288269,True
+dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9997702240943909,True
+dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9993950128555298,True
+dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9999011754989624,True
+dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9996418952941895,True
+dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.999996542930603,True
+dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9992269277572632,True
+dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9999868869781494,True
+dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9937946796417236,True
+dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.999861478805542,True
+dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9998629093170166,True
+dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9998288154602051,True
+dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.8303751945495605,True
+dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9991304278373718,True
+dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9994193315505981,True
+dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,1.0,True
+dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9902358651161194,True
+dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9980046153068542,True
+dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.998150110244751,True
+dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9854427576065063,True
+dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9988694787025452,True
+dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9974033236503601,True
+dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9999984502792358,True
+dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.6722316145896912,True
+dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,cv_oof_original,ResNet18,1,batik,0.9998970031738281,True
+dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999256134033203,True
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9993859529495239,True
+dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9997678399085999,True
+dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9992825388908386,True
+dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.999974250793457,True
+dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999849796295166,True
+dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9993457198143005,True
+dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999759197235107,True
+dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9340892434120178,True
+dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9890151619911194,True
+dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9995917677879333,True
+dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9997949004173279,True
+dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9998049139976501,True
+dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9997245669364929,True
+dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9985800981521606,True
+dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999964237213135,True
+dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999765157699585,True
+dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999313354492188,True
+dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.6871105432510376,True
+dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9997984766960144,True
+dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9998170733451843,True
+dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9996585845947266,True
+dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9931687116622925,True
+dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999562501907349,True
+dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9999755620956421,True
+dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,cv_oof_original,ResNet18,1,batik,0.9992375373840332,True
+dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,cv_oof_original,ResNet18,0,non_batik,0.0477721244096756,False
+dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,cv_oof_original,ResNet18,0,non_batik,0.01609540358185768,False
+dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,cv_oof_original,ResNet18,0,non_batik,0.003161288797855377,False
+dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,cv_oof_original,ResNet18,1,batik,0.778857409954071,True
+dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,cv_oof_original,ResNet18,1,batik,0.9823088049888611,True
+dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,cv_oof_original,ResNet18,1,batik,0.9995974898338318,True
+dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,cv_oof_original,ResNet18,1,batik,0.9997918009757996,True
+dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,cv_oof_original,ResNet18,1,batik,0.9992337226867676,True
+dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,cv_oof_original,ResNet18,0,non_batik,0.42153748869895935,False
+dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,cv_oof_original,ResNet18,1,batik,0.9988014698028564,True
+dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,cv_oof_original,ResNet18,1,batik,0.9999996423721313,True
+dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,cv_oof_original,ResNet18,1,batik,0.9994025230407715,True
+dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,cv_oof_original,ResNet18,1,batik,0.993339478969574,True
+dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,cv_oof_original,ResNet18,0,non_batik,0.32834646105766296,False
+dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.00044229120248928666,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.014666721224784851,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.06551340967416763,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.0015232256846502423,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.0009167577954940498,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.04046403989195824,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.0012570879189297557,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.2882060110569,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.0011757531901821494,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,0,non_batik,0.00653348071500659,True
+dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,1,batik,0.9900583624839783,False
+dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,1,batik,0.8002305626869202,False
+dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,cv_oof_original,ResNet18,1,batik,0.9541199207305908,False
+dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,cv_oof_original,ResNet18,0,non_batik,2.182059506594669e-05,True
+dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,cv_oof_original,ResNet18,0,non_batik,0.03559669479727745,True
+dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,cv_oof_original,ResNet18,0,non_batik,0.0005476786755025387,True
+dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,cv_oof_original,ResNet18,0,non_batik,0.002331008203327656,True
+dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,cv_oof_original,ResNet18,0,non_batik,0.00023812471772544086,True
+dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.0004372845869511366,True
+dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.00465866643935442,True
+dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.25060415267944336,True
+dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.0011577559635043144,True
+dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.0015963938785716891,True
+dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,6.0581809520954266e-05,True
+dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,9.832547948462889e-05,True
+dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.00045017010415904224,True
+dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.0003872184024658054,True
+dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,cv_oof_original,ResNet18,0,non_batik,0.0007052207365632057,True
+dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,cv_oof_original,ResNet18,0,non_batik,0.07581483572721481,True
+dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,cv_oof_original,ResNet18,0,non_batik,0.021005237475037575,True
+dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,cv_oof_original,ResNet18,0,non_batik,0.0008975826785899699,True
+dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,cv_oof_original,ResNet18,0,non_batik,0.0015587623929604888,True
+dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,6.634258897975087e-05,True
+dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,cv_oof_original,ResNet18,1,batik,0.5100171566009521,False
+dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.0003752702323254198,True
+dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.002710975706577301,True
+dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.00036309994175098836,True
+dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.0007042307988740504,True
+dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,cv_oof_original,ResNet18,1,batik,0.6364683508872986,False
+dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.001798661076463759,True
+dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.1697157621383667,True
+dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,cv_oof_original,ResNet18,0,non_batik,0.10729469358921051,True
+dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,cv_oof_original,ResNet18,0,non_batik,0.20710039138793945,True
+dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,cv_oof_original,ResNet18,1,batik,0.678070068359375,False
+dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.0019764022435992956,True
+dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00030374329071491957,True
+dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00012784790305886418,True
+dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00383480335585773,True
+dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.0002708683314267546,True
+dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.0003625712124630809,True
+dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00018478985293768346,True
+dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,1.6882037016330287e-05,True
+dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00016723443695809692,True
+dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,cv_oof_original,ResNet18,0,non_batik,0.00018700513464864343,True
+dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,0.0010729199275374413,True
+dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,2.461846816004254e-05,True
+dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,0.018947739154100418,True
+dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,2.1472835669555934e-06,True
+dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,0.03821266070008278,True
+dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,0.2009153515100479,True
+dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,6.65428742649965e-05,True
+dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,cv_oof_original,ResNet18,0,non_batik,0.02754969522356987,True
+dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,cv_oof_original,ResNet18,1,batik,0.6373541951179504,False
+dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,cv_oof_original,ResNet18,1,batik,0.5801833868026733,False
+dataset_batik/batik/Batik Sekar Jagad/0.jpg,aefd54b84960,batik,1,Batik Sekar Jagad,cv_oof_original,MobileNetV2,1,batik,0.9892297387123108,True
+dataset_batik/batik/Batik Sekar Jagad/1.jpg,4cf5c0621088,batik,1,Batik Sekar Jagad,cv_oof_original,MobileNetV2,1,batik,0.9842873811721802,True
+dataset_batik/batik/Batik Sekar Jagad/37.jpg,cf833bbbc2d2,batik,1,Batik Sekar Jagad,cv_oof_original,MobileNetV2,1,batik,0.9707800149917603,True
+dataset_batik/batik/Batik Sekar Jagad/38.jpg,4887f2b0b9db,batik,1,Batik Sekar Jagad,cv_oof_original,MobileNetV2,1,batik,0.99139004945755,True
+dataset_batik/batik/Batik Sekar Jagad/54.jpg,e5f8bb3aa14e,batik,1,Batik Sekar Jagad,cv_oof_original,MobileNetV2,1,batik,0.9984219074249268,True
+dataset_batik/batik/Solo_Parang/001.jpg,54bfb8bd54ab,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999998807907104,True
+dataset_batik/batik/Solo_Parang/0010.jpg,6442e19a4f03,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999957084655762,True
+dataset_batik/batik/Solo_Parang/0011.jpg,32d738243497,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9935290217399597,True
+dataset_batik/batik/Solo_Parang/0012.jpg,de330aa7d1a2,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,1.0,True
+dataset_batik/batik/Solo_Parang/0013.jpg,0f308677eb60,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9998624324798584,True
+dataset_batik/batik/Solo_Parang/0014.jpg,fa24684732b1,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9998289346694946,True
+dataset_batik/batik/Solo_Parang/0016.jpg,ae689bfb028c,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9596241116523743,True
+dataset_batik/batik/Solo_Parang/0017.jpg,ec9825accca7,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9978787899017334,True
+dataset_batik/batik/Solo_Parang/0020.jpg,6ee03ea4ad8e,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999903440475464,True
+dataset_batik/batik/Solo_Parang/0021.jpg,fc1e0904dd28,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9985398054122925,True
+dataset_batik/batik/Solo_Parang/0022.jpg,cc4ed19c721d,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999755620956421,True
+dataset_batik/batik/Solo_Parang/0024.jpg,9650ae0e9e81,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9969173669815063,True
+dataset_batik/batik/Solo_Parang/0025.jpg,418868e904b3,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9996563196182251,True
+dataset_batik/batik/Solo_Parang/0027.jpg,232973849352,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9998289346694946,True
+dataset_batik/batik/Solo_Parang/0028.jpg,9fb8bf36fd8b,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999372959136963,True
+dataset_batik/batik/Solo_Parang/0029.jpg,7df4d5dd4fc0,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9997959733009338,True
+dataset_batik/batik/Solo_Parang/0030.jpg,a10f0a7e53bd,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999980926513672,True
+dataset_batik/batik/Solo_Parang/0031.jpg,798dd241fbb7,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999796152114868,True
+dataset_batik/batik/Solo_Parang/0032.jpg,3db0cabb6a47,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.999446451663971,True
+dataset_batik/batik/Solo_Parang/0033.jpg,6dc41f6c55a3,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999339580535889,True
+dataset_batik/batik/Solo_Parang/0034.jpg,204cc85f05f5,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999521970748901,True
+dataset_batik/batik/Solo_Parang/0036.jpg,a592c69656eb,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.999981164932251,True
+dataset_batik/batik/Solo_Parang/0037.jpg,050046f947a6,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999582767486572,True
+dataset_batik/batik/Solo_Parang/0038.jpg,37dc41276bd9,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999985694885254,True
+dataset_batik/batik/Solo_Parang/0039.jpg,e9fd42eb86e9,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999909400939941,True
+dataset_batik/batik/Solo_Parang/004.jpg,4ce26e238996,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999178647994995,True
+dataset_batik/batik/Solo_Parang/0040.jpg,8eabcd2abffa,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9989318251609802,True
+dataset_batik/batik/Solo_Parang/007.jpg,ef0f096eef7d,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999960660934448,True
+dataset_batik/batik/Solo_Parang/009.jpg,68d05da78831,batik,1,Solo_Parang,cv_oof_original,MobileNetV2,1,batik,0.7949661016464233,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,7fbd1b9fbaf8,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9971210360527039,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,1ebf8c8980d8,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9989340901374817,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,e49dc5a7d4dd,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9995255470275879,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,17204d5eeb3c,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9244048595428467,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,5dc0a5b5e0e3,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.8548720479011536,True
+dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,72312efd43da,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,0,non_batik,0.12112073600292206,False
+dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,8044eaaa01ee,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9997599720954895,True
+dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,339148643a6c,batik,1,SulawesiSelatan_Lontara,cv_oof_original,MobileNetV2,1,batik,0.9729678630828857,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,0cda161b73d8,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.999942421913147,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,482d00c6689f,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9937407374382019,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,4296840cb96e,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9956485629081726,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,8bf4cb106e92,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.999713122844696,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,2a17bd6593bc,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9983848333358765,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,73e531fe1cee,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9989851117134094,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,494cc5d151c0,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9991123080253601,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,8be73861e239,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9984226226806641,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,95f29eea7980,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9958498477935791,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,8302690a77c5,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9986464381217957,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,1a750a1ff1bb,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999371767044067,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,a291e5c48a49,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9972085356712341,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,e29a2b8d50fa,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9945276379585266,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,c8389f7774ca,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999071359634399,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,5fbb49767a26,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9911562204360962,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,49e6fc0351e9,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999920129776001,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,35db741433f7,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9906684756278992,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,9cc5012e3077,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999154806137085,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,20802bdd836c,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9996416568756104,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,be07729e8e4c,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999959468841553,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,56fa039f7fcf,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999231100082397,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,94870fc592ab,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999947547912598,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,861b084216ea,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9999679327011108,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,4378ec5c01d7,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9985522627830505,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,32d72ffa72f3,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.9936758875846863,True
+dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,8c566ec9c05a,batik,1,SumateraBarat_Rumah_Minang,cv_oof_original,MobileNetV2,1,batik,0.999813973903656,True
+dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,4685b3b6f662,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9996235370635986,True
+dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,c2b746a6af12,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.999325156211853,True
+dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,f74bb111b026,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.999945878982544,True
+dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,ba741b615b90,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9996922016143799,True
+dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,01423db2bf4d,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9998562335968018,True
+dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,7cb908544ba8,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9999446868896484,True
+dataset_batik/batik/Yogyakarta_Kawung/002.jpg,975d095d1710,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9999946355819702,True
+dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,d508f4f2374c,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9998509883880615,True
+dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,dbb32ee71649,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9980229139328003,True
+dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,7a6a08371391,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9995773434638977,True
+dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,c8a756244bdd,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9998843669891357,True
+dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,15c3a3af00f1,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9965219497680664,True
+dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,8cd33e274e4d,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9993876218795776,True
+dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,bd730be873eb,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9991433620452881,True
+dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,5f3323d49daf,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.999427318572998,True
+dataset_batik/batik/Yogyakarta_Kawung/003.jpg,318560941f39,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9997813105583191,True
+dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,821b217c3490,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9996894598007202,True
+dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,c23c92dfb3a6,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9976266026496887,True
+dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,5a0b830d2c1b,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9999376535415649,True
+dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,973f90f1c799,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9987228512763977,True
+dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,bbdb13d788e1,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9752309322357178,True
+dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,9c55efc8bc01,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9996695518493652,True
+dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,c54620730f2e,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9999091625213623,True
+dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,46224a6951cd,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9978681802749634,True
+dataset_batik/batik/Yogyakarta_Kawung/004.jpg,eb2a2549a57f,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9999539852142334,True
+dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,1ae0673d1fc2,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9767677187919617,True
+dataset_batik/batik/Yogyakarta_Kawung/005.jpg,2a2a23410a51,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.999782383441925,True
+dataset_batik/batik/Yogyakarta_Kawung/006.jpg,8e278f004798,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9800849556922913,True
+dataset_batik/batik/Yogyakarta_Kawung/009.jpg,cccca1ba3cae,batik,1,Yogyakarta_Kawung,cv_oof_original,MobileNetV2,1,batik,0.9997323155403137,True
+dataset_batik/batik/Yogyakarta_Parang/0010.jpg,9c71e54f91f9,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9991253018379211,True
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,cd0513428af6,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9976961016654968,True
+dataset_batik/batik/Yogyakarta_Parang/0016.jpg,224b3baae42f,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9997963309288025,True
+dataset_batik/batik/Yogyakarta_Parang/0017.jpg,a3833f8e9773,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9978768825531006,True
+dataset_batik/batik/Yogyakarta_Parang/0018.jpg,72cc088c4040,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9998052716255188,True
+dataset_batik/batik/Yogyakarta_Parang/0019.jpg,7a71ef3f3ade,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.997886598110199,True
+dataset_batik/batik/Yogyakarta_Parang/002.jpg,cef09f780063,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9917672276496887,True
+dataset_batik/batik/Yogyakarta_Parang/0020.jpg,0f8e0b867151,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9995222091674805,True
+dataset_batik/batik/Yogyakarta_Parang/0024.jpg,64c221c7e69e,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9993993043899536,True
+dataset_batik/batik/Yogyakarta_Parang/0025.jpg,7556e7595482,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9987598657608032,True
+dataset_batik/batik/Yogyakarta_Parang/0028.jpg,5417f1939333,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9998918771743774,True
+dataset_batik/batik/Yogyakarta_Parang/0029.jpg,7bdd4895a8f4,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.999925971031189,True
+dataset_batik/batik/Yogyakarta_Parang/003.jpg,05ccbfc92105,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9929407835006714,True
+dataset_batik/batik/Yogyakarta_Parang/0030.jpg,71b47ddc1aef,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999384880065918,True
+dataset_batik/batik/Yogyakarta_Parang/0032.jpg,b9f0bcdd4ffc,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999758005142212,True
+dataset_batik/batik/Yogyakarta_Parang/0034.jpg,a24266798391,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9999085664749146,True
+dataset_batik/batik/Yogyakarta_Parang/0036.jpg,e7708ac8cb87,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9997453093528748,True
+dataset_batik/batik/Yogyakarta_Parang/0038.jpg,3c68bb5f2327,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9970554113388062,True
+dataset_batik/batik/Yogyakarta_Parang/0039.jpg,519b6e1dfbd9,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9932502508163452,True
+dataset_batik/batik/Yogyakarta_Parang/004.jpg,9710a61c2b42,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9894118905067444,True
+dataset_batik/batik/Yogyakarta_Parang/0040.jpg,0c9036a66a5e,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9974567294120789,True
+dataset_batik/batik/Yogyakarta_Parang/005.jpg,a940ff920c6c,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9976871013641357,True
+dataset_batik/batik/Yogyakarta_Parang/006.jpg,fd0c795decdf,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9845327734947205,True
+dataset_batik/batik/Yogyakarta_Parang/007.jpg,bdad9f0a9e63,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9983243346214294,True
+dataset_batik/batik/Yogyakarta_Parang/008.jpg,fb19d7075d8a,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9991592168807983,True
+dataset_batik/batik/Yogyakarta_Parang/009.jpg,aa85c99944f2,batik,1,Yogyakarta_Parang,cv_oof_original,MobileNetV2,1,batik,0.9979111552238464,True
+dataset_batik/batik/batik pekalongan/pekalongan1.jpg,5bfe72414caf,batik,1,batik pekalongan,cv_oof_original,MobileNetV2,1,batik,0.7521319389343262,True
+dataset_batik/batik/batik pekalongan/pekalongan2.jpg,74dfb64fde15,batik,1,batik pekalongan,cv_oof_original,MobileNetV2,0,non_batik,0.009548403322696686,False
+dataset_batik/batik/batik pekalongan/pekalongan3.jpg,cba62b260aa8,batik,1,batik pekalongan,cv_oof_original,MobileNetV2,0,non_batik,0.0029190275818109512,False
+dataset_batik/batik/batik pekalongan/pekalongan4.jpg,e9fea915240b,batik,1,batik pekalongan,cv_oof_original,MobileNetV2,0,non_batik,0.48557087779045105,False
+dataset_batik/batik/batik pekalongan/pekalongan5.jpg,6900868add34,batik,1,batik pekalongan,cv_oof_original,MobileNetV2,1,batik,0.9862077236175537,True
+dataset_batik/batik/batik semarangan/semarangan1.jpg,a234e5ca3e30,batik,1,batik semarangan,cv_oof_original,MobileNetV2,1,batik,0.9968265295028687,True
+dataset_batik/batik/batik semarangan/semarangan2.jpg,f745452e50e3,batik,1,batik semarangan,cv_oof_original,MobileNetV2,1,batik,0.8989566564559937,True
+dataset_batik/batik/batik semarangan/semarangan3.jpg,1e1c6c73c84d,batik,1,batik semarangan,cv_oof_original,MobileNetV2,1,batik,0.9928982257843018,True
+dataset_batik/batik/batik semarangan/semarangan4.jpg,028b7571da11,batik,1,batik semarangan,cv_oof_original,MobileNetV2,1,batik,0.9851028919219971,True
+dataset_batik/batik/batik semarangan/semarangan5.jpg,9ca0fa064166,batik,1,batik semarangan,cv_oof_original,MobileNetV2,1,batik,0.991544246673584,True
+dataset_batik/batik/batik solo/solo1.png,24dcb9ff498b,batik,1,batik solo,cv_oof_original,MobileNetV2,1,batik,0.9999403953552246,True
+dataset_batik/batik/batik solo/solo2.jpg,f11fc60776fe,batik,1,batik solo,cv_oof_original,MobileNetV2,1,batik,0.9898101091384888,True
+dataset_batik/batik/batik solo/solo4.jpg,e0dbc911eac7,batik,1,batik solo,cv_oof_original,MobileNetV2,1,batik,0.9874476790428162,True
+dataset_batik/batik/batik solo/solo5.jpg,0fd5923aff43,batik,1,batik solo,cv_oof_original,MobileNetV2,1,batik,0.7472745180130005,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,1c522c3d0bdc,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.001077676541171968,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,3424f5620431,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.0010522196535021067,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,ed293cabd087,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,8.835092739900574e-05,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,f190f4ab82fd,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.00011089072359027341,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,7a26d7e18b89,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.023750606924295425,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,21b7b85d4086,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.03296715393662453,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,bc0863dfd9c1,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.03258036449551582,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,eac540cba307,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.0007838132441975176,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,db4135d30eec,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.003524347674101591,True
+dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,c9420c985ea9,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.08144138753414154,True
+dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,3d5238641255,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,1,batik,0.5422425866127014,False
+dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,62ac50dcc85a,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.2165267914533615,True
+dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,1f9fa02cb0e6,non_batik,0,bunga_nonbatik,cv_oof_original,MobileNetV2,0,non_batik,0.021148672327399254,True
+dataset_batik/non_batik/garis/garis1 (1).jpg,c5761d229b6c,non_batik,0,garis,cv_oof_original,MobileNetV2,0,non_batik,0.0139155900105834,True
+dataset_batik/non_batik/garis/garis1 (2).jpg,e7a78b6680b5,non_batik,0,garis,cv_oof_original,MobileNetV2,0,non_batik,0.07296638190746307,True
+dataset_batik/non_batik/garis/garis1 (3).jpg,bbcc043171d4,non_batik,0,garis,cv_oof_original,MobileNetV2,0,non_batik,5.302633326209616e-06,True
+dataset_batik/non_batik/garis/garis1 (4).jpg,c11183e9d1cd,non_batik,0,garis,cv_oof_original,MobileNetV2,0,non_batik,1.7864549590740353e-05,True
+dataset_batik/non_batik/garis/garis1 (5).jpg,c1afa12764cf,non_batik,0,garis,cv_oof_original,MobileNetV2,0,non_batik,0.0010245294542983174,True
+dataset_batik/non_batik/geometris/geometris (1).png,4b2cb2577a69,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.0036500354763120413,True
+dataset_batik/non_batik/geometris/geometris (10).png,92deccab5470,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.011578650213778019,True
+dataset_batik/non_batik/geometris/geometris (2).png,f6b3418e39a1,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.021268071606755257,True
+dataset_batik/non_batik/geometris/geometris (3).png,9dd396e5e2cf,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.006174636539071798,True
+dataset_batik/non_batik/geometris/geometris (4).png,d9276d559999,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.0015223671216517687,True
+dataset_batik/non_batik/geometris/geometris (5).png,2147c3827a53,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.00039707095129415393,True
+dataset_batik/non_batik/geometris/geometris (6).png,41c663680f51,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,5.1931137932115234e-06,True
+dataset_batik/non_batik/geometris/geometris (7).png,fc6da929304d,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.0013200124958530068,True
+dataset_batik/non_batik/geometris/geometris (8).png,f88b483bd98e,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,0.0012983469059690833,True
+dataset_batik/non_batik/geometris/geometris (9).png,3d11a9f87152,non_batik,0,geometris,cv_oof_original,MobileNetV2,0,non_batik,7.199239462352125e-06,True
+dataset_batik/non_batik/kotak/kotak2.jpg,0ce96dcf1e27,non_batik,0,kotak,cv_oof_original,MobileNetV2,0,non_batik,0.010829123668372631,True
+dataset_batik/non_batik/kotak/kotak3.png,9a27b470f78d,non_batik,0,kotak,cv_oof_original,MobileNetV2,0,non_batik,0.20729856193065643,True
+dataset_batik/non_batik/kotak/kotak4.jpg,bcabfe0310f4,non_batik,0,kotak,cv_oof_original,MobileNetV2,0,non_batik,0.0014709177194163203,True
+dataset_batik/non_batik/kotak/kotak5.jpg,648259d35596,non_batik,0,kotak,cv_oof_original,MobileNetV2,0,non_batik,0.08032267540693283,True
+dataset_batik/non_batik/modern/modern (1).png,8050e3061ee9,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.0030239552725106478,True
+dataset_batik/non_batik/modern/modern (10).png,5749ecfbcd39,non_batik,0,modern,cv_oof_original,MobileNetV2,1,batik,0.7653483152389526,False
+dataset_batik/non_batik/modern/modern (2).png,bb5154fad02f,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,1.813258495531045e-05,True
+dataset_batik/non_batik/modern/modern (3).png,33eb73d4c302,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.003174328478053212,True
+dataset_batik/non_batik/modern/modern (4).png,a7f92f18470f,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.11369798332452774,True
+dataset_batik/non_batik/modern/modern (5).png,3ca855a91edc,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.0002697166637517512,True
+dataset_batik/non_batik/modern/modern (6).png,699c4602a8e0,non_batik,0,modern,cv_oof_original,MobileNetV2,1,batik,0.9923019409179688,False
+dataset_batik/non_batik/modern/modern (7).png,ad3de2744108,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.007938572205603123,True
+dataset_batik/non_batik/modern/modern (8).png,3f3ad4376dd0,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,0.00294520054012537,True
+dataset_batik/non_batik/modern/modern (9).png,6a5fca546dc0,non_batik,0,modern,cv_oof_original,MobileNetV2,0,non_batik,9.281090456170205e-07,True
+dataset_batik/non_batik/polkadot/polkadot4.jpg,ffeae644af12,non_batik,0,polkadot,cv_oof_original,MobileNetV2,0,non_batik,0.20998990535736084,True
+dataset_batik/non_batik/polkadot/polkadot5.jpg,4bd0134802da,non_batik,0,polkadot,cv_oof_original,MobileNetV2,0,non_batik,0.0065638539381325245,True
+dataset_batik/non_batik/polos/polos (1).png,3c1f730579dc,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,0.00011541111598489806,True
+dataset_batik/non_batik/polos/polos (10).png,5f82b8c47ed9,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,1.1872892173414584e-05,True
+dataset_batik/non_batik/polos/polos (2).png,1937342e6d3a,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,2.0371362552396022e-05,True
+dataset_batik/non_batik/polos/polos (3).png,51819fbbc26f,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,5.4382009693654254e-05,True
+dataset_batik/non_batik/polos/polos (4).png,378df26e0ccb,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,0.0001472137519158423,True
+dataset_batik/non_batik/polos/polos (5).png,d5ce7ee1e352,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,0.0005042210686951876,True
+dataset_batik/non_batik/polos/polos (6).png,27a1a686fc67,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,1.5412451830343343e-05,True
+dataset_batik/non_batik/polos/polos (7).png,6b6b7bdfe34a,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,1.946339943970088e-05,True
+dataset_batik/non_batik/polos/polos (8).png,3b5356f36723,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,0.00023889837029855698,True
+dataset_batik/non_batik/polos/polos (9).png,0ed496d9169c,non_batik,0,polos,cv_oof_original,MobileNetV2,0,non_batik,4.976917989552021e-05,True
+dataset_batik/non_batik/tenun/tenun (1).png,c9fffdb4983d,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,5.856411371496506e-05,True
+dataset_batik/non_batik/tenun/tenun (10).png,0b857a24ecf0,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.046642005443573,True
+dataset_batik/non_batik/tenun/tenun (2).png,b2131a29e3e4,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.0023582500871270895,True
+dataset_batik/non_batik/tenun/tenun (3).png,d916f3c4756e,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.05748865380883217,True
+dataset_batik/non_batik/tenun/tenun (4).png,3db82daf6e86,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.15034668147563934,True
+dataset_batik/non_batik/tenun/tenun (5).png,e6a8630feb76,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.007560618221759796,True
+dataset_batik/non_batik/tenun/tenun (6).png,be63966ec5ec,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.005086219869554043,True
+dataset_batik/non_batik/tenun/tenun (7).png,31a7bede42b0,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.05766987428069115,True
+dataset_batik/non_batik/tenun/tenun (8).png,372c786cc900,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.042177923023700714,True
+dataset_batik/non_batik/tenun/tenun (9).png,dac06cb81326,non_batik,0,tenun,cv_oof_original,MobileNetV2,0,non_batik,0.03359870985150337,True

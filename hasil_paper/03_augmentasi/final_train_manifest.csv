@@ -1,0 +1,401 @@
+generated_path,source_id,group_id,source_path,kelas,label,subjenis,partition,is_augmented,transform
+dataset_aug/final_train/batik/0018__01423db2bf4d__orig_0073.jpg,01423db2bf4d,01423db2bf4d,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0018__01423db2bf4d__rot+2p5_0058.jpg,01423db2bf4d,01423db2bf4d,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot+2p5
+dataset_aug/final_train/batik/semarangan4__028b7571da11__orig_0132.jpg,028b7571da11,028b7571da11,dataset_batik/batik/batik semarangan/semarangan4.jpg,batik,1,batik semarangan,final_train,False,original
+dataset_aug/final_train/batik/0037__050046f947a6__orig_0028.jpg,050046f947a6,050046f947a6,dataset_batik/batik/Solo_Parang/0037.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0037__050046f947a6__rot270_0048.jpg,050046f947a6,050046f947a6,dataset_batik/batik/Solo_Parang/0037.jpg,batik,1,Solo_Parang,final_train,True,rot270
+dataset_aug/final_train/batik/003__05ccbfc92105__orig_0110.jpg,05ccbfc92105,05ccbfc92105,dataset_batik/batik/Yogyakarta_Parang/003.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/003__05ccbfc92105__rot-12p1_0031.jpg,05ccbfc92105,05ccbfc92105,dataset_batik/batik/Yogyakarta_Parang/003.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot-12p1
+dataset_aug/final_train/batik/0040__0c9036a66a5e__orig_0118.jpg,0c9036a66a5e,0c9036a66a5e,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0040__0c9036a66a5e__flip_v_0060.jpg,0c9036a66a5e,0c9036a66a5e,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,batik,1,Yogyakarta_Parang,final_train,True,flip_v
+dataset_aug/final_train/batik/0010__0cda161b73d8__orig_0043.jpg,0cda161b73d8,0cda161b73d8,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0013__0f308677eb60__orig_0010.jpg,0f308677eb60,0f308677eb60,dataset_batik/batik/Solo_Parang/0013.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0020__0f8e0b867151__orig_0105.jpg,0f8e0b867151,0f8e0b867151,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0020__0f8e0b867151__flip_h_0050.jpg,0f8e0b867151,0f8e0b867151,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,batik,1,Yogyakarta_Parang,final_train,True,flip_h
+dataset_aug/final_train/batik/solo5__0fd5923aff43__orig_0137.jpg,0fd5923aff43,0fd5923aff43,dataset_batik/batik/batik solo/solo5.jpg,batik,1,batik solo,final_train,False,original
+dataset_aug/final_train/batik/0025__15c3a3af00f1__orig_0080.jpg,15c3a3af00f1,15c3a3af00f1,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0025__15c3a3af00f1__zoom09_0034.jpg,15c3a3af00f1,15c3a3af00f1,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,batik,1,Yogyakarta_Kawung,final_train,True,zoom09
+dataset_aug/final_train/batik/0028__17204d5eeb3c__orig_0038.jpg,17204d5eeb3c,17204d5eeb3c,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0028__17204d5eeb3c__rot+8p4_0022.jpg,17204d5eeb3c,17204d5eeb3c,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,batik,1,SulawesiSelatan_Lontara,final_train,True,rot+8p4
+dataset_aug/final_train/batik/0020__1a750a1ff1bb__orig_0053.jpg,1a750a1ff1bb,1a750a1ff1bb,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0020__1a750a1ff1bb__flip_v_0051.jpg,1a750a1ff1bb,1a750a1ff1bb,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,flip_v
+dataset_aug/final_train/batik/0040__1ae0673d1fc2__orig_0094.jpg,1ae0673d1fc2,1ae0673d1fc2,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/semarangan3__1e1c6c73c84d__orig_0131.jpg,1e1c6c73c84d,grp_1e1c6c73c84d,dataset_batik/batik/batik semarangan/semarangan3.jpg,batik,1,batik semarangan,final_train,False,original
+dataset_aug/final_train/batik/semarangan3__1e1c6c73c84d__flip_h_0059.jpg,1e1c6c73c84d,grp_1e1c6c73c84d,dataset_batik/batik/batik semarangan/semarangan3.jpg,batik,1,batik semarangan,final_train,True,flip_h
+dataset_aug/final_train/batik/0017__1ebf8c8980d8__orig_0036.jpg,1ebf8c8980d8,1ebf8c8980d8,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0034__204cc85f05f5__orig_0026.jpg,204cc85f05f5,grp_204cc85f05f5,dataset_batik/batik/Solo_Parang/0034.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0034__204cc85f05f5__rot-4p1_0004.jpg,204cc85f05f5,grp_204cc85f05f5,dataset_batik/batik/Solo_Parang/0034.jpg,batik,1,Solo_Parang,final_train,True,rot-4p1
+dataset_aug/final_train/batik/0033__20802bdd836c__orig_0061.jpg,20802bdd836c,20802bdd836c,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0016__224b3baae42f__orig_0100.jpg,224b3baae42f,224b3baae42f,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0027__232973849352__orig_0019.jpg,232973849352,232973849352,dataset_batik/batik/Solo_Parang/0027.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0027__232973849352__flip_h_0041.jpg,232973849352,232973849352,dataset_batik/batik/Solo_Parang/0027.jpg,batik,1,Solo_Parang,final_train,True,flip_h
+dataset_aug/final_train/batik/solo1__24dcb9ff498b__orig_0134.png,24dcb9ff498b,24dcb9ff498b,dataset_batik/batik/batik solo/solo1.png,batik,1,batik solo,final_train,False,original
+dataset_aug/final_train/batik/0014__2a17bd6593bc__orig_0047.jpg,2a17bd6593bc,2a17bd6593bc,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0014__2a17bd6593bc__flip_v_0042.jpg,2a17bd6593bc,2a17bd6593bc,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,flip_v
+dataset_aug/final_train/batik/005__2a2a23410a51__orig_0095.jpg,2a2a23410a51,2a2a23410a51,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/005__2a2a23410a51__flip_h_0014.jpg,2a2a23410a51,2a2a23410a51,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,batik,1,Yogyakarta_Kawung,final_train,True,flip_h
+dataset_aug/final_train/batik/003__318560941f39__orig_0084.jpg,318560941f39,318560941f39,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/008__32d72ffa72f3__orig_0067.jpg,32d72ffa72f3,32d72ffa72f3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/008__32d72ffa72f3__contrast0p91_0036.jpg,32d72ffa72f3,32d72ffa72f3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,contrast0p91
+dataset_aug/final_train/batik/0011__32d738243497__orig_0008.jpg,32d738243497,32d738243497,dataset_batik/batik/Solo_Parang/0011.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0011__32d738243497__zoom07_0061.jpg,32d738243497,32d738243497,dataset_batik/batik/Solo_Parang/0011.jpg,batik,1,Solo_Parang,final_train,True,zoom07
+dataset_aug/final_train/batik/006__339148643a6c__orig_0042.jpg,339148643a6c,339148643a6c,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0027__35db741433f7__orig_0059.jpg,35db741433f7,35db741433f7,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0038__37dc41276bd9__orig_0029.jpg,37dc41276bd9,37dc41276bd9,dataset_batik/batik/Solo_Parang/0038.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0038__37dc41276bd9__rot180_0020.jpg,37dc41276bd9,37dc41276bd9,dataset_batik/batik/Solo_Parang/0038.jpg,batik,1,Solo_Parang,final_train,True,rot180
+dataset_aug/final_train/batik/0038__3c68bb5f2327__orig_0115.jpg,3c68bb5f2327,3c68bb5f2327,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0038__3c68bb5f2327__rot+12p3_0013.jpg,3c68bb5f2327,3c68bb5f2327,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot+12p3
+dataset_aug/final_train/batik/0032__3db0cabb6a47__orig_0024.jpg,3db0cabb6a47,grp_3db0cabb6a47,dataset_batik/batik/Solo_Parang/0032.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0025__418868e904b3__orig_0018.jpg,418868e904b3,418868e904b3,dataset_batik/batik/Solo_Parang/0025.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0012__4296840cb96e__orig_0045.jpg,4296840cb96e,4296840cb96e,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/007__4378ec5c01d7__orig_0066.jpg,4378ec5c01d7,4378ec5c01d7,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0039__46224a6951cd__orig_0092.jpg,46224a6951cd,46224a6951cd,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0039__46224a6951cd__rot90_0055.jpg,46224a6951cd,46224a6951cd,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot90
+dataset_aug/final_train/batik/0010__4685b3b6f662__orig_0069.jpg,4685b3b6f662,grp_4685b3b6f662,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0010__4685b3b6f662__brightness0p90_0044.jpg,4685b3b6f662,grp_4685b3b6f662,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,batik,1,Yogyakarta_Kawung,final_train,True,brightness0p90
+dataset_aug/final_train/batik/0011__482d00c6689f__orig_0044.jpg,482d00c6689f,482d00c6689f,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/38__4887f2b0b9db__orig_0004.jpg,4887f2b0b9db,4887f2b0b9db,dataset_batik/batik/Batik Sekar Jagad/38.jpg,batik,1,Batik Sekar Jagad,final_train,False,original
+dataset_aug/final_train/batik/38__4887f2b0b9db__brightness0p97_0026.jpg,4887f2b0b9db,4887f2b0b9db,dataset_batik/batik/Batik Sekar Jagad/38.jpg,batik,1,Batik Sekar Jagad,final_train,True,brightness0p97
+dataset_aug/final_train/batik/0017__494cc5d151c0__orig_0049.jpg,494cc5d151c0,494cc5d151c0,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0025__49e6fc0351e9__orig_0058.jpg,49e6fc0351e9,49e6fc0351e9,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/004__4ce26e238996__orig_0031.jpg,4ce26e238996,4ce26e238996,dataset_batik/batik/Solo_Parang/004.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/1__4cf5c0621088__orig_0002.jpg,4cf5c0621088,4cf5c0621088,dataset_batik/batik/Batik Sekar Jagad/1.jpg,batik,1,Batik Sekar Jagad,final_train,False,original
+dataset_aug/final_train/batik/0039__519b6e1dfbd9__orig_0116.jpg,519b6e1dfbd9,519b6e1dfbd9,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0039__519b6e1dfbd9__flip_h_0032.jpg,519b6e1dfbd9,519b6e1dfbd9,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,batik,1,Yogyakarta_Parang,final_train,True,flip_h
+dataset_aug/final_train/batik/0028__5417f1939333__orig_0108.jpg,5417f1939333,5417f1939333,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/001__54bfb8bd54ab__orig_0006.jpg,54bfb8bd54ab,54bfb8bd54ab,dataset_batik/batik/Solo_Parang/001.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/001__54bfb8bd54ab__contrast0p97_0063.jpg,54bfb8bd54ab,54bfb8bd54ab,dataset_batik/batik/Solo_Parang/001.jpg,batik,1,Solo_Parang,final_train,True,contrast0p97
+dataset_aug/final_train/batik/0037__56fa039f7fcf__orig_0063.jpg,56fa039f7fcf,56fa039f7fcf,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0032__5a0b830d2c1b__orig_0087.jpg,5a0b830d2c1b,5a0b830d2c1b,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/pekalongan1__5bfe72414caf__orig_0124.jpg,5bfe72414caf,5bfe72414caf,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,batik,1,batik pekalongan,final_train,False,original
+dataset_aug/final_train/batik/0030__5dc0a5b5e0e3__orig_0039.jpg,5dc0a5b5e0e3,5dc0a5b5e0e3,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0030__5dc0a5b5e0e3__contrast1p11_0045.jpg,5dc0a5b5e0e3,5dc0a5b5e0e3,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,batik,1,SulawesiSelatan_Lontara,final_train,True,contrast1p11
+dataset_aug/final_train/batik/0029__5f3323d49daf__orig_0083.jpg,5f3323d49daf,5f3323d49daf,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0029__5f3323d49daf__contrast1p04_0054.jpg,5f3323d49daf,5f3323d49daf,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,batik,1,Yogyakarta_Kawung,final_train,True,contrast1p04
+dataset_aug/final_train/batik/0024__5fbb49767a26__orig_0057.jpg,5fbb49767a26,5fbb49767a26,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0024__5fbb49767a26__rot270_0012.jpg,5fbb49767a26,5fbb49767a26,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,rot270
+dataset_aug/final_train/batik/0010__6442e19a4f03__orig_0007.jpg,6442e19a4f03,6442e19a4f03,dataset_batik/batik/Solo_Parang/0010.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0024__64c221c7e69e__orig_0106.jpg,64c221c7e69e,64c221c7e69e,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0024__64c221c7e69e__contrast0p93_0027.jpg,64c221c7e69e,64c221c7e69e,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,batik,1,Yogyakarta_Parang,final_train,True,contrast0p93
+dataset_aug/final_train/batik/009__68d05da78831__orig_0034.jpg,68d05da78831,68d05da78831,dataset_batik/batik/Solo_Parang/009.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/009__68d05da78831__rot270_0021.jpg,68d05da78831,68d05da78831,dataset_batik/batik/Solo_Parang/009.jpg,batik,1,Solo_Parang,final_train,True,rot270
+dataset_aug/final_train/batik/pekalongan5__6900868add34__orig_0128.jpg,6900868add34,6900868add34,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,batik,1,batik pekalongan,final_train,False,original
+dataset_aug/final_train/batik/pekalongan5__6900868add34__rot+7p8_0049.jpg,6900868add34,6900868add34,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,batik,1,batik pekalongan,final_train,True,rot+7p8
+dataset_aug/final_train/batik/0033__6dc41f6c55a3__orig_0025.jpg,6dc41f6c55a3,6dc41f6c55a3,dataset_batik/batik/Solo_Parang/0033.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0033__6dc41f6c55a3__rot270_0003.jpg,6dc41f6c55a3,6dc41f6c55a3,dataset_batik/batik/Solo_Parang/0033.jpg,batik,1,Solo_Parang,final_train,True,rot270
+dataset_aug/final_train/batik/0020__6ee03ea4ad8e__orig_0014.jpg,6ee03ea4ad8e,6ee03ea4ad8e,dataset_batik/batik/Solo_Parang/0020.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0020__6ee03ea4ad8e__flip_h_0023.jpg,6ee03ea4ad8e,6ee03ea4ad8e,dataset_batik/batik/Solo_Parang/0020.jpg,batik,1,Solo_Parang,final_train,True,flip_h
+dataset_aug/final_train/batik/0030__71b47ddc1aef__orig_0111.jpg,71b47ddc1aef,71b47ddc1aef,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0034__72312efd43da__orig_0040.jpg,72312efd43da,72312efd43da,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0018__72cc088c4040__orig_0102.jpg,72cc088c4040,72cc088c4040,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0018__72cc088c4040__flip_h_0005.jpg,72cc088c4040,72cc088c4040,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,batik,1,Yogyakarta_Parang,final_train,True,flip_h
+dataset_aug/final_train/batik/0015__73e531fe1cee__orig_0048.jpg,73e531fe1cee,73e531fe1cee,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/pekalongan2__74dfb64fde15__orig_0125.jpg,74dfb64fde15,74dfb64fde15,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,batik,1,batik pekalongan,final_train,False,original
+dataset_aug/final_train/batik/0025__7556e7595482__orig_0107.jpg,7556e7595482,7556e7595482,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0031__798dd241fbb7__orig_0023.jpg,798dd241fbb7,798dd241fbb7,dataset_batik/batik/Solo_Parang/0031.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0022__7a6a08371391__orig_0078.jpg,7a6a08371391,7a6a08371391,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0019__7a71ef3f3ade__orig_0103.jpg,7a71ef3f3ade,7a71ef3f3ade,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0029__7bdd4895a8f4__orig_0109.jpg,7bdd4895a8f4,7bdd4895a8f4,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0019__7cb908544ba8__orig_0074.jpg,7cb908544ba8,7cb908544ba8,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0019__7cb908544ba8__zoom08_0025.jpg,7cb908544ba8,7cb908544ba8,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,batik,1,Yogyakarta_Kawung,final_train,True,zoom08
+dataset_aug/final_train/batik/0029__7df4d5dd4fc0__orig_0021.jpg,7df4d5dd4fc0,7df4d5dd4fc0,dataset_batik/batik/Solo_Parang/0029.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0029__7df4d5dd4fc0__rot90_0010.jpg,7df4d5dd4fc0,7df4d5dd4fc0,dataset_batik/batik/Solo_Parang/0029.jpg,batik,1,Solo_Parang,final_train,True,rot90
+dataset_aug/final_train/batik/0013__7fbd1b9fbaf8__orig_0035.jpg,7fbd1b9fbaf8,7fbd1b9fbaf8,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0036__8044eaaa01ee__orig_0041.jpg,8044eaaa01ee,8044eaaa01ee,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/0030__821b217c3490__orig_0085.jpg,821b217c3490,grp_4685b3b6f662,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/002__8302690a77c5__orig_0052.jpg,8302690a77c5,8302690a77c5,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/002__8302690a77c5__rot90_0028.jpg,8302690a77c5,8302690a77c5,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,rot90
+dataset_aug/final_train/batik/005__861b084216ea__orig_0065.jpg,861b084216ea,861b084216ea,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0018__8be73861e239__orig_0050.jpg,8be73861e239,8be73861e239,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0013__8bf4cb106e92__orig_0046.jpg,8bf4cb106e92,8bf4cb106e92,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0013__8bf4cb106e92__rot270_0057.jpg,8bf4cb106e92,8bf4cb106e92,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,rot270
+dataset_aug/final_train/batik/009__8c566ec9c05a__orig_0068.jpg,8c566ec9c05a,8c566ec9c05a,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0026__8cd33e274e4d__orig_0081.jpg,8cd33e274e4d,8cd33e274e4d,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/006__8e278f004798__orig_0096.jpg,8e278f004798,8e278f004798,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/006__8e278f004798__rot180_0056.jpg,8e278f004798,8e278f004798,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot180
+dataset_aug/final_train/batik/0040__8eabcd2abffa__orig_0032.jpg,8eabcd2abffa,grp_3db0cabb6a47,dataset_batik/batik/Solo_Parang/0040.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0038__94870fc592ab__orig_0064.jpg,94870fc592ab,94870fc592ab,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0019__95f29eea7980__orig_0051.jpg,95f29eea7980,95f29eea7980,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0019__95f29eea7980__zoom07_0043.jpg,95f29eea7980,95f29eea7980,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,zoom07
+dataset_aug/final_train/batik/0024__9650ae0e9e81__orig_0017.jpg,9650ae0e9e81,9650ae0e9e81,dataset_batik/batik/Solo_Parang/0024.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/004__9710a61c2b42__orig_0117.jpg,9710a61c2b42,9710a61c2b42,dataset_batik/batik/Yogyakarta_Parang/004.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/004__9710a61c2b42__flip_v_0006.jpg,9710a61c2b42,9710a61c2b42,dataset_batik/batik/Yogyakarta_Parang/004.jpg,batik,1,Yogyakarta_Parang,final_train,True,flip_v
+dataset_aug/final_train/batik/0033__973f90f1c799__orig_0088.jpg,973f90f1c799,973f90f1c799,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0033__973f90f1c799__brightness0p93_0017.jpg,973f90f1c799,973f90f1c799,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,batik,1,Yogyakarta_Kawung,final_train,True,brightness0p93
+dataset_aug/final_train/batik/002__975d095d1710__orig_0075.jpg,975d095d1710,975d095d1710,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0036__9c55efc8bc01__orig_0090.jpg,9c55efc8bc01,9c55efc8bc01,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0036__9c55efc8bc01__rot180_0047.jpg,9c55efc8bc01,9c55efc8bc01,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot180
+dataset_aug/final_train/batik/0010__9c71e54f91f9__orig_0098.jpg,9c71e54f91f9,9c71e54f91f9,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/semarangan5__9ca0fa064166__orig_0133.jpg,9ca0fa064166,grp_1e1c6c73c84d,dataset_batik/batik/batik semarangan/semarangan5.jpg,batik,1,batik semarangan,final_train,False,original
+dataset_aug/final_train/batik/0029__9cc5012e3077__orig_0060.jpg,9cc5012e3077,9cc5012e3077,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0029__9cc5012e3077__rot180_0011.jpg,9cc5012e3077,9cc5012e3077,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,True,rot180
+dataset_aug/final_train/batik/0028__9fb8bf36fd8b__orig_0020.jpg,9fb8bf36fd8b,grp_204cc85f05f5,dataset_batik/batik/Solo_Parang/0028.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0030__a10f0a7e53bd__orig_0022.jpg,a10f0a7e53bd,a10f0a7e53bd,dataset_batik/batik/Solo_Parang/0030.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0030__a10f0a7e53bd__zoom08_0052.jpg,a10f0a7e53bd,a10f0a7e53bd,dataset_batik/batik/Solo_Parang/0030.jpg,batik,1,Solo_Parang,final_train,True,zoom08
+dataset_aug/final_train/batik/semarangan1__a234e5ca3e30__orig_0129.jpg,a234e5ca3e30,a234e5ca3e30,dataset_batik/batik/batik semarangan/semarangan1.jpg,batik,1,batik semarangan,final_train,False,original
+dataset_aug/final_train/batik/0034__a24266798391__orig_0113.jpg,a24266798391,a24266798391,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0021__a291e5c48a49__orig_0054.jpg,a291e5c48a49,a291e5c48a49,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0017__a3833f8e9773__orig_0101.jpg,a3833f8e9773,grp_a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0017__a3833f8e9773__rot270_0030.jpg,a3833f8e9773,grp_a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot270
+dataset_aug/final_train/batik/0036__a592c69656eb__orig_0027.jpg,a592c69656eb,a592c69656eb,dataset_batik/batik/Solo_Parang/0036.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/005__a940ff920c6c__orig_0119.jpg,a940ff920c6c,a940ff920c6c,dataset_batik/batik/Yogyakarta_Parang/005.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/009__aa85c99944f2__orig_0123.jpg,aa85c99944f2,grp_a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/009.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/009__aa85c99944f2__rot180_0002.jpg,aa85c99944f2,grp_a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/009.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot180
+dataset_aug/final_train/batik/0016__ae689bfb028c__orig_0012.jpg,ae689bfb028c,ae689bfb028c,dataset_batik/batik/Solo_Parang/0016.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0__aefd54b84960__orig_0001.jpg,aefd54b84960,aefd54b84960,dataset_batik/batik/Batik Sekar Jagad/0.jpg,batik,1,Batik Sekar Jagad,final_train,False,original
+dataset_aug/final_train/batik/0__aefd54b84960__flip_v_0015.jpg,aefd54b84960,aefd54b84960,dataset_batik/batik/Batik Sekar Jagad/0.jpg,batik,1,Batik Sekar Jagad,final_train,True,flip_v
+dataset_aug/final_train/batik/0032__b9f0bcdd4ffc__orig_0112.jpg,b9f0bcdd4ffc,b9f0bcdd4ffc,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0032__b9f0bcdd4ffc__rot180_0029.jpg,b9f0bcdd4ffc,b9f0bcdd4ffc,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot180
+dataset_aug/final_train/batik/0016__ba741b615b90__orig_0072.jpg,ba741b615b90,ba741b615b90,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0016__ba741b615b90__brightness0p97_0053.jpg,ba741b615b90,ba741b615b90,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,batik,1,Yogyakarta_Kawung,final_train,True,brightness0p97
+dataset_aug/final_train/batik/0035__bbdb13d788e1__orig_0089.jpg,bbdb13d788e1,bbdb13d788e1,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0035__bbdb13d788e1__rot90_0001.jpg,bbdb13d788e1,bbdb13d788e1,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot90
+dataset_aug/final_train/batik/0027__bd730be873eb__orig_0082.jpg,bd730be873eb,bd730be873eb,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0027__bd730be873eb__contrast1p14_0018.jpg,bd730be873eb,bd730be873eb,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,batik,1,Yogyakarta_Kawung,final_train,True,contrast1p14
+dataset_aug/final_train/batik/007__bdad9f0a9e63__orig_0121.jpg,bdad9f0a9e63,bdad9f0a9e63,dataset_batik/batik/Yogyakarta_Parang/007.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0036__be07729e8e4c__orig_0062.jpg,be07729e8e4c,be07729e8e4c,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0031__c23c92dfb3a6__orig_0086.jpg,c23c92dfb3a6,c23c92dfb3a6,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0031__c23c92dfb3a6__flip_v_0024.jpg,c23c92dfb3a6,c23c92dfb3a6,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,batik,1,Yogyakarta_Kawung,final_train,True,flip_v
+dataset_aug/final_train/batik/0014__c2b746a6af12__orig_0070.jpg,c2b746a6af12,c2b746a6af12,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0037__c54620730f2e__orig_0091.jpg,c54620730f2e,c54620730f2e,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0023__c8389f7774ca__orig_0056.jpg,c8389f7774ca,c8389f7774ca,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0024__c8a756244bdd__orig_0079.jpg,c8a756244bdd,c8a756244bdd,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0024__c8a756244bdd__rot90_0037.jpg,c8a756244bdd,c8a756244bdd,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot90
+dataset_aug/final_train/batik/pekalongan3__cba62b260aa8__orig_0126.jpg,cba62b260aa8,cba62b260aa8,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,batik,1,batik pekalongan,final_train,False,original
+dataset_aug/final_train/batik/0022__cc4ed19c721d__orig_0016.jpg,cc4ed19c721d,cc4ed19c721d,dataset_batik/batik/Solo_Parang/0022.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/009__cccca1ba3cae__orig_0097.jpg,cccca1ba3cae,cccca1ba3cae,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0012__cd0513428af6__orig_0099.jpg,cd0513428af6,grp_a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/002__cef09f780063__orig_0104.jpg,cef09f780063,cef09f780063,dataset_batik/batik/Yogyakarta_Parang/002.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/002__cef09f780063__rot-5p8_0040.jpg,cef09f780063,cef09f780063,dataset_batik/batik/Yogyakarta_Parang/002.jpg,batik,1,Yogyakarta_Parang,final_train,True,rot-5p8
+dataset_aug/final_train/batik/37__cf833bbbc2d2__orig_0003.jpg,cf833bbbc2d2,cf833bbbc2d2,dataset_batik/batik/Batik Sekar Jagad/37.jpg,batik,1,Batik Sekar Jagad,final_train,False,original
+dataset_aug/final_train/batik/37__cf833bbbc2d2__brightness0p89_0008.jpg,cf833bbbc2d2,cf833bbbc2d2,dataset_batik/batik/Batik Sekar Jagad/37.jpg,batik,1,Batik Sekar Jagad,final_train,True,brightness0p89
+dataset_aug/final_train/batik/0020__d508f4f2374c__orig_0076.jpg,d508f4f2374c,d508f4f2374c,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0020__d508f4f2374c__rot90_0019.jpg,d508f4f2374c,d508f4f2374c,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot90
+dataset_aug/final_train/batik/0021__dbb32ee71649__orig_0077.jpg,dbb32ee71649,dbb32ee71649,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0012__de330aa7d1a2__orig_0009.jpg,de330aa7d1a2,de330aa7d1a2,dataset_batik/batik/Solo_Parang/0012.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0012__de330aa7d1a2__rot90_0046.jpg,de330aa7d1a2,de330aa7d1a2,dataset_batik/batik/Solo_Parang/0012.jpg,batik,1,Solo_Parang,final_train,True,rot90
+dataset_aug/final_train/batik/solo4__e0dbc911eac7__orig_0136.jpg,e0dbc911eac7,e0dbc911eac7,dataset_batik/batik/batik solo/solo4.jpg,batik,1,batik solo,final_train,False,original
+dataset_aug/final_train/batik/solo4__e0dbc911eac7__brightness0p88_0062.jpg,e0dbc911eac7,e0dbc911eac7,dataset_batik/batik/batik solo/solo4.jpg,batik,1,batik solo,final_train,True,brightness0p88
+dataset_aug/final_train/batik/0022__e29a2b8d50fa__orig_0055.jpg,e29a2b8d50fa,e29a2b8d50fa,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,batik,1,SumateraBarat_Rumah_Minang,final_train,False,original
+dataset_aug/final_train/batik/0018__e49dc5a7d4dd__orig_0037.jpg,e49dc5a7d4dd,e49dc5a7d4dd,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,batik,1,SulawesiSelatan_Lontara,final_train,False,original
+dataset_aug/final_train/batik/54__e5f8bb3aa14e__orig_0005.jpg,e5f8bb3aa14e,e5f8bb3aa14e,dataset_batik/batik/Batik Sekar Jagad/54.jpg,batik,1,Batik Sekar Jagad,final_train,False,original
+dataset_aug/final_train/batik/54__e5f8bb3aa14e__zoom03_0007.jpg,e5f8bb3aa14e,e5f8bb3aa14e,dataset_batik/batik/Batik Sekar Jagad/54.jpg,batik,1,Batik Sekar Jagad,final_train,True,zoom03
+dataset_aug/final_train/batik/0036__e7708ac8cb87__orig_0114.jpg,e7708ac8cb87,e7708ac8cb87,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/0039__e9fd42eb86e9__orig_0030.jpg,e9fd42eb86e9,e9fd42eb86e9,dataset_batik/batik/Solo_Parang/0039.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/pekalongan4__e9fea915240b__orig_0127.jpg,e9fea915240b,e9fea915240b,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,batik,1,batik pekalongan,final_train,False,original
+dataset_aug/final_train/batik/004__eb2a2549a57f__orig_0093.jpg,eb2a2549a57f,eb2a2549a57f,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/004__eb2a2549a57f__flip_v_0033.jpg,eb2a2549a57f,eb2a2549a57f,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,batik,1,Yogyakarta_Kawung,final_train,True,flip_v
+dataset_aug/final_train/batik/0017__ec9825accca7__orig_0013.jpg,ec9825accca7,grp_ec9825accca7,dataset_batik/batik/Solo_Parang/0017.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/0017__ec9825accca7__brightness0p97_0035.jpg,ec9825accca7,grp_ec9825accca7,dataset_batik/batik/Solo_Parang/0017.jpg,batik,1,Solo_Parang,final_train,True,brightness0p97
+dataset_aug/final_train/batik/007__ef0f096eef7d__orig_0033.jpg,ef0f096eef7d,ef0f096eef7d,dataset_batik/batik/Solo_Parang/007.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/solo2__f11fc60776fe__orig_0135.jpg,f11fc60776fe,f11fc60776fe,dataset_batik/batik/batik solo/solo2.jpg,batik,1,batik solo,final_train,False,original
+dataset_aug/final_train/batik/semarangan2__f745452e50e3__orig_0130.jpg,f745452e50e3,f745452e50e3,dataset_batik/batik/batik semarangan/semarangan2.jpg,batik,1,batik semarangan,final_train,False,original
+dataset_aug/final_train/batik/semarangan2__f745452e50e3__rot180_0038.jpg,f745452e50e3,f745452e50e3,dataset_batik/batik/batik semarangan/semarangan2.jpg,batik,1,batik semarangan,final_train,True,rot180
+dataset_aug/final_train/batik/0015__f74bb111b026__orig_0071.jpg,f74bb111b026,f74bb111b026,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,batik,1,Yogyakarta_Kawung,final_train,False,original
+dataset_aug/final_train/batik/0015__f74bb111b026__rot270_0039.jpg,f74bb111b026,f74bb111b026,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,batik,1,Yogyakarta_Kawung,final_train,True,rot270
+dataset_aug/final_train/batik/0014__fa24684732b1__orig_0011.jpg,fa24684732b1,fa24684732b1,dataset_batik/batik/Solo_Parang/0014.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/008__fb19d7075d8a__orig_0122.jpg,fb19d7075d8a,fb19d7075d8a,dataset_batik/batik/Yogyakarta_Parang/008.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/008__fb19d7075d8a__contrast1p14_0009.jpg,fb19d7075d8a,fb19d7075d8a,dataset_batik/batik/Yogyakarta_Parang/008.jpg,batik,1,Yogyakarta_Parang,final_train,True,contrast1p14
+dataset_aug/final_train/batik/0021__fc1e0904dd28__orig_0015.jpg,fc1e0904dd28,grp_ec9825accca7,dataset_batik/batik/Solo_Parang/0021.jpg,batik,1,Solo_Parang,final_train,False,original
+dataset_aug/final_train/batik/006__fd0c795decdf__orig_0120.jpg,fd0c795decdf,fd0c795decdf,dataset_batik/batik/Yogyakarta_Parang/006.jpg,batik,1,Yogyakarta_Parang,final_train,False,original
+dataset_aug/final_train/batik/006__fd0c795decdf__zoom08_0016.jpg,fd0c795decdf,fd0c795decdf,dataset_batik/batik/Yogyakarta_Parang/006.jpg,batik,1,Yogyakarta_Parang,final_train,True,zoom08
+dataset_aug/final_train/non_batik/tenun_10__0b857a24ecf0__orig_0193.png,0b857a24ecf0,0b857a24ecf0,dataset_batik/non_batik/tenun/tenun (10).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_10__0b857a24ecf0__flip_v_0024.jpg,0b857a24ecf0,0b857a24ecf0,dataset_batik/non_batik/tenun/tenun (10).png,non_batik,0,tenun,final_train,True,flip_v
+dataset_aug/final_train/non_batik/tenun_10__0b857a24ecf0__zoom03_0088.jpg,0b857a24ecf0,0b857a24ecf0,dataset_batik/non_batik/tenun/tenun (10).png,non_batik,0,tenun,final_train,True,zoom03
+dataset_aug/final_train/non_batik/kotak2__0ce96dcf1e27__orig_0166.jpg,0ce96dcf1e27,0ce96dcf1e27,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,0,kotak,final_train,False,original
+dataset_aug/final_train/non_batik/kotak2__0ce96dcf1e27__rot+14p2_0076.jpg,0ce96dcf1e27,0ce96dcf1e27,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,0,kotak,final_train,True,rot+14p2
+dataset_aug/final_train/non_batik/kotak2__0ce96dcf1e27__rot270_0012.jpg,0ce96dcf1e27,0ce96dcf1e27,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,0,kotak,final_train,True,rot270
+dataset_aug/final_train/non_batik/polos_9__0ed496d9169c__orig_0191.png,0ed496d9169c,0ed496d9169c,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_9__0ed496d9169c__brightness1p03_0008.jpg,0ed496d9169c,0ed496d9169c,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,polos,final_train,True,brightness1p03
+dataset_aug/final_train/non_batik/polos_9__0ed496d9169c__contrast1p08_0072.jpg,0ed496d9169c,0ed496d9169c,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,polos,final_train,True,contrast1p08
+dataset_aug/final_train/non_batik/polos_9__0ed496d9169c__rot90_0136.jpg,0ed496d9169c,0ed496d9169c,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,polos,final_train,True,rot90
+dataset_aug/final_train/non_batik/polos_2__1937342e6d3a__orig_0184.png,1937342e6d3a,1937342e6d3a,dataset_batik/non_batik/polos/polos (2).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_2__1937342e6d3a__rot+9p1_0103.jpg,1937342e6d3a,1937342e6d3a,dataset_batik/non_batik/polos/polos (2).png,non_batik,0,polos,final_train,True,rot+9p1
+dataset_aug/final_train/non_batik/polos_2__1937342e6d3a__rot270_0039.jpg,1937342e6d3a,1937342e6d3a,dataset_batik/non_batik/polos/polos (2).png,non_batik,0,polos,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga_1__1c522c3d0bdc__orig_0138.png,1c522c3d0bdc,1c522c3d0bdc,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_1__1c522c3d0bdc__rot-8p1_0085.jpg,1c522c3d0bdc,1c522c3d0bdc,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,non_batik,0,bunga_nonbatik,final_train,True,rot-8p1
+dataset_aug/final_train/non_batik/bunga_1__1c522c3d0bdc__rot270_0021.jpg,1c522c3d0bdc,1c522c3d0bdc,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,non_batik,0,bunga_nonbatik,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga3__1f9fa02cb0e6__orig_0150.webp,1f9fa02cb0e6,1f9fa02cb0e6,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga3__1f9fa02cb0e6__flip_h_0104.jpg,1f9fa02cb0e6,1f9fa02cb0e6,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga3__1f9fa02cb0e6__rot+4p8_0040.jpg,1f9fa02cb0e6,1f9fa02cb0e6,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,non_batik,0,bunga_nonbatik,final_train,True,rot+4p8
+dataset_aug/final_train/non_batik/geometris_5__2147c3827a53__orig_0161.png,2147c3827a53,2147c3827a53,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_5__2147c3827a53__brightness0p92_0053.jpg,2147c3827a53,2147c3827a53,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,0,geometris,final_train,True,brightness0p92
+dataset_aug/final_train/non_batik/geometris_5__2147c3827a53__contrast0p94_0117.jpg,2147c3827a53,2147c3827a53,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,0,geometris,final_train,True,contrast0p94
+dataset_aug/final_train/non_batik/bunga_5__21b7b85d4086__orig_0143.png,21b7b85d4086,21b7b85d4086,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_5__21b7b85d4086__flip_h_0077.jpg,21b7b85d4086,21b7b85d4086,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga_5__21b7b85d4086__rot+13p1_0013.jpg,21b7b85d4086,21b7b85d4086,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,non_batik,0,bunga_nonbatik,final_train,True,rot+13p1
+dataset_aug/final_train/non_batik/polos_6__27a1a686fc67__orig_0188.png,27a1a686fc67,27a1a686fc67,dataset_batik/non_batik/polos/polos (6).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_6__27a1a686fc67__brightness1p07_0026.jpg,27a1a686fc67,27a1a686fc67,dataset_batik/non_batik/polos/polos (6).png,non_batik,0,polos,final_train,True,brightness1p07
+dataset_aug/final_train/non_batik/polos_6__27a1a686fc67__contrast0p89_0090.jpg,27a1a686fc67,27a1a686fc67,dataset_batik/non_batik/polos/polos (6).png,non_batik,0,polos,final_train,True,contrast0p89
+dataset_aug/final_train/non_batik/tenun_7__31a7bede42b0__orig_0199.png,31a7bede42b0,31a7bede42b0,dataset_batik/non_batik/tenun/tenun (7).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_7__31a7bede42b0__contrast1p07_0045.jpg,31a7bede42b0,31a7bede42b0,dataset_batik/non_batik/tenun/tenun (7).png,non_batik,0,tenun,final_train,True,contrast1p07
+dataset_aug/final_train/non_batik/tenun_7__31a7bede42b0__rot90_0109.jpg,31a7bede42b0,31a7bede42b0,dataset_batik/non_batik/tenun/tenun (7).png,non_batik,0,tenun,final_train,True,rot90
+dataset_aug/final_train/non_batik/modern_3__33eb73d4c302__orig_0173.png,33eb73d4c302,33eb73d4c302,dataset_batik/non_batik/modern/modern (3).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_3__33eb73d4c302__rot+2p0_0094.jpg,33eb73d4c302,33eb73d4c302,dataset_batik/non_batik/modern/modern (3).png,non_batik,0,modern,final_train,True,rot+2p0
+dataset_aug/final_train/non_batik/modern_3__33eb73d4c302__rot270_0030.jpg,33eb73d4c302,33eb73d4c302,dataset_batik/non_batik/modern/modern (3).png,non_batik,0,modern,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga_10__3424f5620431__orig_0139.png,3424f5620431,3424f5620431,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_10__3424f5620431__brightness1p03_0098.jpg,3424f5620431,3424f5620431,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,non_batik,0,bunga_nonbatik,final_train,True,brightness1p03
+dataset_aug/final_train/non_batik/bunga_10__3424f5620431__zoom06_0034.jpg,3424f5620431,3424f5620431,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,non_batik,0,bunga_nonbatik,final_train,True,zoom06
+dataset_aug/final_train/non_batik/tenun_8__372c786cc900__orig_0200.png,372c786cc900,372c786cc900,dataset_batik/non_batik/tenun/tenun (8).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_8__372c786cc900__rot180_0074.jpg,372c786cc900,372c786cc900,dataset_batik/non_batik/tenun/tenun (8).png,non_batik,0,tenun,final_train,True,rot180
+dataset_aug/final_train/non_batik/tenun_8__372c786cc900__rot90_0010.jpg,372c786cc900,372c786cc900,dataset_batik/non_batik/tenun/tenun (8).png,non_batik,0,tenun,final_train,True,rot90
+dataset_aug/final_train/non_batik/polos_4__378df26e0ccb__orig_0186.png,378df26e0ccb,378df26e0ccb,dataset_batik/non_batik/polos/polos (4).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_4__378df26e0ccb__brightness1p14_0125.jpg,378df26e0ccb,378df26e0ccb,dataset_batik/non_batik/polos/polos (4).png,non_batik,0,polos,final_train,True,brightness1p14
+dataset_aug/final_train/non_batik/polos_4__378df26e0ccb__zoom03_0061.jpg,378df26e0ccb,378df26e0ccb,dataset_batik/non_batik/polos/polos (4).png,non_batik,0,polos,final_train,True,zoom03
+dataset_aug/final_train/non_batik/polos_8__3b5356f36723__orig_0190.png,3b5356f36723,3b5356f36723,dataset_batik/non_batik/polos/polos (8).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_8__3b5356f36723__rot180_0128.jpg,3b5356f36723,3b5356f36723,dataset_batik/non_batik/polos/polos (8).png,non_batik,0,polos,final_train,True,rot180
+dataset_aug/final_train/non_batik/polos_8__3b5356f36723__rot90_0064.jpg,3b5356f36723,3b5356f36723,dataset_batik/non_batik/polos/polos (8).png,non_batik,0,polos,final_train,True,rot90
+dataset_aug/final_train/non_batik/polos_1__3c1f730579dc__orig_0182.png,3c1f730579dc,3c1f730579dc,dataset_batik/non_batik/polos/polos (1).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_1__3c1f730579dc__contrast0p89_0054.jpg,3c1f730579dc,3c1f730579dc,dataset_batik/non_batik/polos/polos (1).png,non_batik,0,polos,final_train,True,contrast0p89
+dataset_aug/final_train/non_batik/polos_1__3c1f730579dc__rot90_0118.jpg,3c1f730579dc,3c1f730579dc,dataset_batik/non_batik/polos/polos (1).png,non_batik,0,polos,final_train,True,rot90
+dataset_aug/final_train/non_batik/modern_5__3ca855a91edc__orig_0175.png,3ca855a91edc,3ca855a91edc,dataset_batik/non_batik/modern/modern (5).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_5__3ca855a91edc__brightness0p88_0044.jpg,3ca855a91edc,3ca855a91edc,dataset_batik/non_batik/modern/modern (5).png,non_batik,0,modern,final_train,True,brightness0p88
+dataset_aug/final_train/non_batik/modern_5__3ca855a91edc__contrast0p89_0108.jpg,3ca855a91edc,3ca855a91edc,dataset_batik/non_batik/modern/modern (5).png,non_batik,0,modern,final_train,True,contrast0p89
+dataset_aug/final_train/non_batik/geometris_9__3d11a9f87152__orig_0165.png,3d11a9f87152,3d11a9f87152,dataset_batik/non_batik/geometris/geometris (9).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_9__3d11a9f87152__flip_v_0033.jpg,3d11a9f87152,3d11a9f87152,dataset_batik/non_batik/geometris/geometris (9).png,non_batik,0,geometris,final_train,True,flip_v
+dataset_aug/final_train/non_batik/geometris_9__3d11a9f87152__zoom08_0097.jpg,3d11a9f87152,3d11a9f87152,dataset_batik/non_batik/geometris/geometris (9).png,non_batik,0,geometris,final_train,True,zoom08
+dataset_aug/final_train/non_batik/bunga1__3d5238641255__orig_0148.jpg,3d5238641255,3d5238641255,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga1__3d5238641255__flip_v_0015.jpg,3d5238641255,3d5238641255,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,non_batik,0,bunga_nonbatik,final_train,True,flip_v
+dataset_aug/final_train/non_batik/bunga1__3d5238641255__zoom06_0079.jpg,3d5238641255,3d5238641255,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,non_batik,0,bunga_nonbatik,final_train,True,zoom06
+dataset_aug/final_train/non_batik/tenun_4__3db82daf6e86__orig_0196.png,3db82daf6e86,3db82daf6e86,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_4__3db82daf6e86__brightness0p86_0017.jpg,3db82daf6e86,3db82daf6e86,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,0,tenun,final_train,True,brightness0p86
+dataset_aug/final_train/non_batik/tenun_4__3db82daf6e86__contrast0p85_0081.jpg,3db82daf6e86,3db82daf6e86,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,0,tenun,final_train,True,contrast0p85
+dataset_aug/final_train/non_batik/modern_8__3f3ad4376dd0__orig_0178.png,3f3ad4376dd0,3f3ad4376dd0,dataset_batik/non_batik/modern/modern (8).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_8__3f3ad4376dd0__contrast0p93_0009.jpg,3f3ad4376dd0,3f3ad4376dd0,dataset_batik/non_batik/modern/modern (8).png,non_batik,0,modern,final_train,True,contrast0p93
+dataset_aug/final_train/non_batik/modern_8__3f3ad4376dd0__rot90_0073.jpg,3f3ad4376dd0,3f3ad4376dd0,dataset_batik/non_batik/modern/modern (8).png,non_batik,0,modern,final_train,True,rot90
+dataset_aug/final_train/non_batik/geometris_6__41c663680f51__orig_0162.png,41c663680f51,41c663680f51,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_6__41c663680f51__rot-2p0_0121.jpg,41c663680f51,41c663680f51,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,0,geometris,final_train,True,rot-2p0
+dataset_aug/final_train/non_batik/geometris_6__41c663680f51__rot270_0057.jpg,41c663680f51,41c663680f51,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,0,geometris,final_train,True,rot270
+dataset_aug/final_train/non_batik/geometris_1__4b2cb2577a69__orig_0156.png,4b2cb2577a69,4b2cb2577a69,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_1__4b2cb2577a69__contrast1p03_0063.jpg,4b2cb2577a69,4b2cb2577a69,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,0,geometris,final_train,True,contrast1p03
+dataset_aug/final_train/non_batik/geometris_1__4b2cb2577a69__rot90_0127.jpg,4b2cb2577a69,4b2cb2577a69,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,0,geometris,final_train,True,rot90
+dataset_aug/final_train/non_batik/polkadot5__4bd0134802da__orig_0181.jpg,4bd0134802da,4bd0134802da,dataset_batik/non_batik/polkadot/polkadot5.jpg,non_batik,0,polkadot,final_train,False,original
+dataset_aug/final_train/non_batik/polkadot5__4bd0134802da__brightness0p97_0116.jpg,4bd0134802da,4bd0134802da,dataset_batik/non_batik/polkadot/polkadot5.jpg,non_batik,0,polkadot,final_train,True,brightness0p97
+dataset_aug/final_train/non_batik/polkadot5__4bd0134802da__zoom09_0052.jpg,4bd0134802da,4bd0134802da,dataset_batik/non_batik/polkadot/polkadot5.jpg,non_batik,0,polkadot,final_train,True,zoom09
+dataset_aug/final_train/non_batik/polos_3__51819fbbc26f__orig_0185.png,51819fbbc26f,51819fbbc26f,dataset_batik/non_batik/polos/polos (3).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_3__51819fbbc26f__rot180_0020.jpg,51819fbbc26f,51819fbbc26f,dataset_batik/non_batik/polos/polos (3).png,non_batik,0,polos,final_train,True,rot180
+dataset_aug/final_train/non_batik/polos_3__51819fbbc26f__rot270_0084.jpg,51819fbbc26f,51819fbbc26f,dataset_batik/non_batik/polos/polos (3).png,non_batik,0,polos,final_train,True,rot270
+dataset_aug/final_train/non_batik/modern_10__5749ecfbcd39__orig_0171.png,5749ecfbcd39,5749ecfbcd39,dataset_batik/non_batik/modern/modern (10).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_10__5749ecfbcd39__rot180_0119.jpg,5749ecfbcd39,5749ecfbcd39,dataset_batik/non_batik/modern/modern (10).png,non_batik,0,modern,final_train,True,rot180
+dataset_aug/final_train/non_batik/modern_10__5749ecfbcd39__rot90_0055.jpg,5749ecfbcd39,5749ecfbcd39,dataset_batik/non_batik/modern/modern (10).png,non_batik,0,modern,final_train,True,rot90
+dataset_aug/final_train/non_batik/polos_10__5f82b8c47ed9__orig_0183.png,5f82b8c47ed9,5f82b8c47ed9,dataset_batik/non_batik/polos/polos (10).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_10__5f82b8c47ed9__flip_v_0060.jpg,5f82b8c47ed9,5f82b8c47ed9,dataset_batik/non_batik/polos/polos (10).png,non_batik,0,polos,final_train,True,flip_v
+dataset_aug/final_train/non_batik/polos_10__5f82b8c47ed9__zoom07_0124.jpg,5f82b8c47ed9,5f82b8c47ed9,dataset_batik/non_batik/polos/polos (10).png,non_batik,0,polos,final_train,True,zoom07
+dataset_aug/final_train/non_batik/bunga2__62ac50dcc85a__orig_0149.jpg,62ac50dcc85a,62ac50dcc85a,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga2__62ac50dcc85a__flip_h_0023.jpg,62ac50dcc85a,62ac50dcc85a,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga2__62ac50dcc85a__flip_v_0087.jpg,62ac50dcc85a,62ac50dcc85a,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,non_batik,0,bunga_nonbatik,final_train,True,flip_v
+dataset_aug/final_train/non_batik/kotak5__648259d35596__orig_0169.jpg,648259d35596,648259d35596,dataset_batik/non_batik/kotak/kotak5.jpg,non_batik,0,kotak,final_train,False,original
+dataset_aug/final_train/non_batik/kotak5__648259d35596__flip_v_0051.jpg,648259d35596,648259d35596,dataset_batik/non_batik/kotak/kotak5.jpg,non_batik,0,kotak,final_train,True,flip_v
+dataset_aug/final_train/non_batik/kotak5__648259d35596__zoom09_0115.jpg,648259d35596,648259d35596,dataset_batik/non_batik/kotak/kotak5.jpg,non_batik,0,kotak,final_train,True,zoom09
+dataset_aug/final_train/non_batik/modern_6__699c4602a8e0__orig_0176.png,699c4602a8e0,699c4602a8e0,dataset_batik/non_batik/modern/modern (6).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_6__699c4602a8e0__brightness1p05_0089.jpg,699c4602a8e0,699c4602a8e0,dataset_batik/non_batik/modern/modern (6).png,non_batik,0,modern,final_train,True,brightness1p05
+dataset_aug/final_train/non_batik/modern_6__699c4602a8e0__zoom09_0025.jpg,699c4602a8e0,699c4602a8e0,dataset_batik/non_batik/modern/modern (6).png,non_batik,0,modern,final_train,True,zoom09
+dataset_aug/final_train/non_batik/modern_9__6a5fca546dc0__orig_0179.png,6a5fca546dc0,6a5fca546dc0,dataset_batik/non_batik/modern/modern (9).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_9__6a5fca546dc0__flip_h_0041.jpg,6a5fca546dc0,6a5fca546dc0,dataset_batik/non_batik/modern/modern (9).png,non_batik,0,modern,final_train,True,flip_h
+dataset_aug/final_train/non_batik/modern_9__6a5fca546dc0__flip_v_0105.jpg,6a5fca546dc0,6a5fca546dc0,dataset_batik/non_batik/modern/modern (9).png,non_batik,0,modern,final_train,True,flip_v
+dataset_aug/final_train/non_batik/polos_7__6b6b7bdfe34a__orig_0189.png,6b6b7bdfe34a,6b6b7bdfe34a,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_7__6b6b7bdfe34a__flip_h_0131.jpg,6b6b7bdfe34a,6b6b7bdfe34a,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,polos,final_train,True,flip_h
+dataset_aug/final_train/non_batik/polos_7__6b6b7bdfe34a__rot+11p2_0067.jpg,6b6b7bdfe34a,6b6b7bdfe34a,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,polos,final_train,True,rot+11p2
+dataset_aug/final_train/non_batik/polos_7__6b6b7bdfe34a__rot270_0003.jpg,6b6b7bdfe34a,6b6b7bdfe34a,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,polos,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga_4__7a26d7e18b89__orig_0142.png,7a26d7e18b89,7a26d7e18b89,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_4__7a26d7e18b89__flip_h_0068.jpg,7a26d7e18b89,7a26d7e18b89,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga_4__7a26d7e18b89__flip_v_0132.jpg,7a26d7e18b89,7a26d7e18b89,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,bunga_nonbatik,final_train,True,flip_v
+dataset_aug/final_train/non_batik/bunga_4__7a26d7e18b89__rot+13p6_0004.jpg,7a26d7e18b89,7a26d7e18b89,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,bunga_nonbatik,final_train,True,rot+13p6
+dataset_aug/final_train/non_batik/modern_1__8050e3061ee9__orig_0170.png,8050e3061ee9,8050e3061ee9,dataset_batik/non_batik/modern/modern (1).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_1__8050e3061ee9__brightness0p94_0035.jpg,8050e3061ee9,8050e3061ee9,dataset_batik/non_batik/modern/modern (1).png,non_batik,0,modern,final_train,True,brightness0p94
+dataset_aug/final_train/non_batik/modern_1__8050e3061ee9__contrast0p91_0099.jpg,8050e3061ee9,8050e3061ee9,dataset_batik/non_batik/modern/modern (1).png,non_batik,0,modern,final_train,True,contrast0p91
+dataset_aug/final_train/non_batik/geometris_10__92deccab5470__orig_0157.png,92deccab5470,92deccab5470,dataset_batik/non_batik/geometris/geometris (10).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_10__92deccab5470__rot180_0011.jpg,92deccab5470,92deccab5470,dataset_batik/non_batik/geometris/geometris (10).png,non_batik,0,geometris,final_train,True,rot180
+dataset_aug/final_train/non_batik/geometris_10__92deccab5470__rot270_0075.jpg,92deccab5470,92deccab5470,dataset_batik/non_batik/geometris/geometris (10).png,non_batik,0,geometris,final_train,True,rot270
+dataset_aug/final_train/non_batik/kotak3__9a27b470f78d__orig_0167.png,9a27b470f78d,9a27b470f78d,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,kotak,final_train,False,original
+dataset_aug/final_train/non_batik/kotak3__9a27b470f78d__rot+12p7_0130.jpg,9a27b470f78d,9a27b470f78d,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,kotak,final_train,True,rot+12p7
+dataset_aug/final_train/non_batik/kotak3__9a27b470f78d__rot180_0002.jpg,9a27b470f78d,9a27b470f78d,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,kotak,final_train,True,rot180
+dataset_aug/final_train/non_batik/kotak3__9a27b470f78d__rot270_0066.jpg,9a27b470f78d,9a27b470f78d,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,kotak,final_train,True,rot270
+dataset_aug/final_train/non_batik/geometris_3__9dd396e5e2cf__orig_0159.png,9dd396e5e2cf,9dd396e5e2cf,dataset_batik/non_batik/geometris/geometris (3).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_3__9dd396e5e2cf__rot180_0092.jpg,9dd396e5e2cf,9dd396e5e2cf,dataset_batik/non_batik/geometris/geometris (3).png,non_batik,0,geometris,final_train,True,rot180
+dataset_aug/final_train/non_batik/geometris_3__9dd396e5e2cf__rot90_0028.jpg,9dd396e5e2cf,9dd396e5e2cf,dataset_batik/non_batik/geometris/geometris (3).png,non_batik,0,geometris,final_train,True,rot90
+dataset_aug/final_train/non_batik/modern_4__a7f92f18470f__orig_0174.png,a7f92f18470f,a7f92f18470f,dataset_batik/non_batik/modern/modern (4).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_4__a7f92f18470f__contrast1p08_0036.jpg,a7f92f18470f,a7f92f18470f,dataset_batik/non_batik/modern/modern (4).png,non_batik,0,modern,final_train,True,contrast1p08
+dataset_aug/final_train/non_batik/modern_4__a7f92f18470f__rot90_0100.jpg,a7f92f18470f,a7f92f18470f,dataset_batik/non_batik/modern/modern (4).png,non_batik,0,modern,final_train,True,rot90
+dataset_aug/final_train/non_batik/modern_7__ad3de2744108__orig_0177.png,ad3de2744108,ad3de2744108,dataset_batik/non_batik/modern/modern (7).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_7__ad3de2744108__flip_h_0014.jpg,ad3de2744108,ad3de2744108,dataset_batik/non_batik/modern/modern (7).png,non_batik,0,modern,final_train,True,flip_h
+dataset_aug/final_train/non_batik/modern_7__ad3de2744108__flip_v_0078.jpg,ad3de2744108,ad3de2744108,dataset_batik/non_batik/modern/modern (7).png,non_batik,0,modern,final_train,True,flip_v
+dataset_aug/final_train/non_batik/tenun_2__b2131a29e3e4__orig_0194.png,b2131a29e3e4,b2131a29e3e4,dataset_batik/non_batik/tenun/tenun (2).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_2__b2131a29e3e4__rot180_0038.jpg,b2131a29e3e4,b2131a29e3e4,dataset_batik/non_batik/tenun/tenun (2).png,non_batik,0,tenun,final_train,True,rot180
+dataset_aug/final_train/non_batik/tenun_2__b2131a29e3e4__rot270_0102.jpg,b2131a29e3e4,b2131a29e3e4,dataset_batik/non_batik/tenun/tenun (2).png,non_batik,0,tenun,final_train,True,rot270
+dataset_aug/final_train/non_batik/modern_2__bb5154fad02f__orig_0172.png,bb5154fad02f,bb5154fad02f,dataset_batik/non_batik/modern/modern (2).png,non_batik,0,modern,final_train,False,original
+dataset_aug/final_train/non_batik/modern_2__bb5154fad02f__rot180_0110.jpg,bb5154fad02f,bb5154fad02f,dataset_batik/non_batik/modern/modern (2).png,non_batik,0,modern,final_train,True,rot180
+dataset_aug/final_train/non_batik/modern_2__bb5154fad02f__rot90_0046.jpg,bb5154fad02f,bb5154fad02f,dataset_batik/non_batik/modern/modern (2).png,non_batik,0,modern,final_train,True,rot90
+dataset_aug/final_train/non_batik/garis1_3__bbcc043171d4__orig_0153.jpg,bbcc043171d4,bbcc043171d4,dataset_batik/non_batik/garis/garis1 (3).jpg,non_batik,0,garis,final_train,False,original
+dataset_aug/final_train/non_batik/garis1_3__bbcc043171d4__flip_h_0122.jpg,bbcc043171d4,bbcc043171d4,dataset_batik/non_batik/garis/garis1 (3).jpg,non_batik,0,garis,final_train,True,flip_h
+dataset_aug/final_train/non_batik/garis1_3__bbcc043171d4__rot+9p9_0058.jpg,bbcc043171d4,bbcc043171d4,dataset_batik/non_batik/garis/garis1 (3).jpg,non_batik,0,garis,final_train,True,rot+9p9
+dataset_aug/final_train/non_batik/bunga_6__bc0863dfd9c1__orig_0144.png,bc0863dfd9c1,bc0863dfd9c1,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_6__bc0863dfd9c1__brightness0p89_0080.jpg,bc0863dfd9c1,bc0863dfd9c1,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,non_batik,0,bunga_nonbatik,final_train,True,brightness0p89
+dataset_aug/final_train/non_batik/bunga_6__bc0863dfd9c1__zoom03_0016.jpg,bc0863dfd9c1,bc0863dfd9c1,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,non_batik,0,bunga_nonbatik,final_train,True,zoom03
+dataset_aug/final_train/non_batik/kotak4__bcabfe0310f4__orig_0168.jpg,bcabfe0310f4,bcabfe0310f4,dataset_batik/non_batik/kotak/kotak4.jpg,non_batik,0,kotak,final_train,False,original
+dataset_aug/final_train/non_batik/kotak4__bcabfe0310f4__flip_h_0059.jpg,bcabfe0310f4,bcabfe0310f4,dataset_batik/non_batik/kotak/kotak4.jpg,non_batik,0,kotak,final_train,True,flip_h
+dataset_aug/final_train/non_batik/kotak4__bcabfe0310f4__flip_v_0123.jpg,bcabfe0310f4,bcabfe0310f4,dataset_batik/non_batik/kotak/kotak4.jpg,non_batik,0,kotak,final_train,True,flip_v
+dataset_aug/final_train/non_batik/tenun_6__be63966ec5ec__orig_0198.png,be63966ec5ec,be63966ec5ec,dataset_batik/non_batik/tenun/tenun (6).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_6__be63966ec5ec__rot180_0029.jpg,be63966ec5ec,be63966ec5ec,dataset_batik/non_batik/tenun/tenun (6).png,non_batik,0,tenun,final_train,True,rot180
+dataset_aug/final_train/non_batik/tenun_6__be63966ec5ec__rot270_0093.jpg,be63966ec5ec,be63966ec5ec,dataset_batik/non_batik/tenun/tenun (6).png,non_batik,0,tenun,final_train,True,rot270
+dataset_aug/final_train/non_batik/garis1_4__c11183e9d1cd__orig_0154.jpg,c11183e9d1cd,c11183e9d1cd,dataset_batik/non_batik/garis/garis1 (4).jpg,non_batik,0,garis,final_train,False,original
+dataset_aug/final_train/non_batik/garis1_4__c11183e9d1cd__flip_h_0095.jpg,c11183e9d1cd,c11183e9d1cd,dataset_batik/non_batik/garis/garis1 (4).jpg,non_batik,0,garis,final_train,True,flip_h
+dataset_aug/final_train/non_batik/garis1_4__c11183e9d1cd__rot+11p8_0031.jpg,c11183e9d1cd,c11183e9d1cd,dataset_batik/non_batik/garis/garis1 (4).jpg,non_batik,0,garis,final_train,True,rot+11p8
+dataset_aug/final_train/non_batik/garis1_5__c1afa12764cf__orig_0155.jpg,c1afa12764cf,c1afa12764cf,dataset_batik/non_batik/garis/garis1 (5).jpg,non_batik,0,garis,final_train,False,original
+dataset_aug/final_train/non_batik/garis1_5__c1afa12764cf__flip_v_0042.jpg,c1afa12764cf,c1afa12764cf,dataset_batik/non_batik/garis/garis1 (5).jpg,non_batik,0,garis,final_train,True,flip_v
+dataset_aug/final_train/non_batik/garis1_5__c1afa12764cf__zoom08_0106.jpg,c1afa12764cf,c1afa12764cf,dataset_batik/non_batik/garis/garis1 (5).jpg,non_batik,0,garis,final_train,True,zoom08
+dataset_aug/final_train/non_batik/garis1_1__c5761d229b6c__orig_0151.jpg,c5761d229b6c,c5761d229b6c,dataset_batik/non_batik/garis/garis1 (1).jpg,non_batik,0,garis,final_train,False,original
+dataset_aug/final_train/non_batik/garis1_1__c5761d229b6c__rot-11p3_0112.jpg,c5761d229b6c,c5761d229b6c,dataset_batik/non_batik/garis/garis1 (1).jpg,non_batik,0,garis,final_train,True,rot-11p3
+dataset_aug/final_train/non_batik/garis1_1__c5761d229b6c__rot270_0048.jpg,c5761d229b6c,c5761d229b6c,dataset_batik/non_batik/garis/garis1 (1).jpg,non_batik,0,garis,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga_9__c9420c985ea9__orig_0147.png,c9420c985ea9,c9420c985ea9,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_9__c9420c985ea9__rot180_0083.jpg,c9420c985ea9,c9420c985ea9,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,non_batik,0,bunga_nonbatik,final_train,True,rot180
+dataset_aug/final_train/non_batik/bunga_9__c9420c985ea9__rot90_0019.jpg,c9420c985ea9,c9420c985ea9,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,non_batik,0,bunga_nonbatik,final_train,True,rot90
+dataset_aug/final_train/non_batik/tenun_1__c9fffdb4983d__orig_0192.png,c9fffdb4983d,c9fffdb4983d,dataset_batik/non_batik/tenun/tenun (1).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_1__c9fffdb4983d__contrast0p97_0018.jpg,c9fffdb4983d,c9fffdb4983d,dataset_batik/non_batik/tenun/tenun (1).png,non_batik,0,tenun,final_train,True,contrast0p97
+dataset_aug/final_train/non_batik/tenun_1__c9fffdb4983d__rot90_0082.jpg,c9fffdb4983d,c9fffdb4983d,dataset_batik/non_batik/tenun/tenun (1).png,non_batik,0,tenun,final_train,True,rot90
+dataset_aug/final_train/non_batik/polos_5__d5ce7ee1e352__orig_0187.png,d5ce7ee1e352,d5ce7ee1e352,dataset_batik/non_batik/polos/polos (5).png,non_batik,0,polos,final_train,False,original
+dataset_aug/final_train/non_batik/polos_5__d5ce7ee1e352__rot180_0101.jpg,d5ce7ee1e352,d5ce7ee1e352,dataset_batik/non_batik/polos/polos (5).png,non_batik,0,polos,final_train,True,rot180
+dataset_aug/final_train/non_batik/polos_5__d5ce7ee1e352__rot90_0037.jpg,d5ce7ee1e352,d5ce7ee1e352,dataset_batik/non_batik/polos/polos (5).png,non_batik,0,polos,final_train,True,rot90
+dataset_aug/final_train/non_batik/tenun_3__d916f3c4756e__orig_0195.png,d916f3c4756e,d916f3c4756e,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_3__d916f3c4756e__contrast1p12_0027.jpg,d916f3c4756e,d916f3c4756e,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,0,tenun,final_train,True,contrast1p12
+dataset_aug/final_train/non_batik/tenun_3__d916f3c4756e__rot90_0091.jpg,d916f3c4756e,d916f3c4756e,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,0,tenun,final_train,True,rot90
+dataset_aug/final_train/non_batik/geometris_4__d9276d559999__orig_0160.png,d9276d559999,d9276d559999,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_4__d9276d559999__brightness1p07_0107.jpg,d9276d559999,d9276d559999,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,0,geometris,final_train,True,brightness1p07
+dataset_aug/final_train/non_batik/geometris_4__d9276d559999__zoom05_0043.jpg,d9276d559999,d9276d559999,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,0,geometris,final_train,True,zoom05
+dataset_aug/final_train/non_batik/tenun_9__dac06cb81326__orig_0201.png,dac06cb81326,dac06cb81326,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_9__dac06cb81326__brightness0p94_0071.jpg,dac06cb81326,dac06cb81326,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,tenun,final_train,True,brightness0p94
+dataset_aug/final_train/non_batik/tenun_9__dac06cb81326__contrast1p04_0135.jpg,dac06cb81326,dac06cb81326,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,tenun,final_train,True,contrast1p04
+dataset_aug/final_train/non_batik/tenun_9__dac06cb81326__zoom04_0007.jpg,dac06cb81326,dac06cb81326,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,tenun,final_train,True,zoom04
+dataset_aug/final_train/non_batik/bunga_8__db4135d30eec__orig_0146.png,db4135d30eec,db4135d30eec,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_8__db4135d30eec__rot180_0056.jpg,db4135d30eec,db4135d30eec,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,non_batik,0,bunga_nonbatik,final_train,True,rot180
+dataset_aug/final_train/non_batik/bunga_8__db4135d30eec__rot270_0120.jpg,db4135d30eec,db4135d30eec,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,non_batik,0,bunga_nonbatik,final_train,True,rot270
+dataset_aug/final_train/non_batik/tenun_5__e6a8630feb76__orig_0197.png,e6a8630feb76,e6a8630feb76,dataset_batik/non_batik/tenun/tenun (5).png,non_batik,0,tenun,final_train,False,original
+dataset_aug/final_train/non_batik/tenun_5__e6a8630feb76__brightness0p90_0062.jpg,e6a8630feb76,e6a8630feb76,dataset_batik/non_batik/tenun/tenun (5).png,non_batik,0,tenun,final_train,True,brightness0p90
+dataset_aug/final_train/non_batik/tenun_5__e6a8630feb76__contrast0p94_0126.jpg,e6a8630feb76,e6a8630feb76,dataset_batik/non_batik/tenun/tenun (5).png,non_batik,0,tenun,final_train,True,contrast0p94
+dataset_aug/final_train/non_batik/garis1_2__e7a78b6680b5__orig_0152.jpg,e7a78b6680b5,e7a78b6680b5,dataset_batik/non_batik/garis/garis1 (2).jpg,non_batik,0,garis,final_train,False,original
+dataset_aug/final_train/non_batik/garis1_2__e7a78b6680b5__rot180_0047.jpg,e7a78b6680b5,e7a78b6680b5,dataset_batik/non_batik/garis/garis1 (2).jpg,non_batik,0,garis,final_train,True,rot180
+dataset_aug/final_train/non_batik/garis1_2__e7a78b6680b5__rot270_0111.jpg,e7a78b6680b5,e7a78b6680b5,dataset_batik/non_batik/garis/garis1 (2).jpg,non_batik,0,garis,final_train,True,rot270
+dataset_aug/final_train/non_batik/bunga_7__eac540cba307__orig_0145.png,eac540cba307,eac540cba307,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_7__eac540cba307__flip_h_0032.jpg,eac540cba307,eac540cba307,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga_7__eac540cba307__flip_v_0096.jpg,eac540cba307,eac540cba307,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,non_batik,0,bunga_nonbatik,final_train,True,flip_v
+dataset_aug/final_train/non_batik/bunga_2__ed293cabd087__orig_0140.png,ed293cabd087,ed293cabd087,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_2__ed293cabd087__flip_h_0086.jpg,ed293cabd087,ed293cabd087,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,0,bunga_nonbatik,final_train,True,flip_h
+dataset_aug/final_train/non_batik/bunga_2__ed293cabd087__rot+14p8_0022.jpg,ed293cabd087,ed293cabd087,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,0,bunga_nonbatik,final_train,True,rot+14p8
+dataset_aug/final_train/non_batik/bunga_3__f190f4ab82fd__orig_0141.png,f190f4ab82fd,f190f4ab82fd,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,bunga_nonbatik,final_train,False,original
+dataset_aug/final_train/non_batik/bunga_3__f190f4ab82fd__brightness1p03_0134.jpg,f190f4ab82fd,f190f4ab82fd,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,bunga_nonbatik,final_train,True,brightness1p03
+dataset_aug/final_train/non_batik/bunga_3__f190f4ab82fd__flip_v_0006.jpg,f190f4ab82fd,f190f4ab82fd,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,bunga_nonbatik,final_train,True,flip_v
+dataset_aug/final_train/non_batik/bunga_3__f190f4ab82fd__zoom04_0070.jpg,f190f4ab82fd,f190f4ab82fd,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,bunga_nonbatik,final_train,True,zoom04
+dataset_aug/final_train/non_batik/geometris_2__f6b3418e39a1__orig_0158.png,f6b3418e39a1,f6b3418e39a1,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_2__f6b3418e39a1__flip_h_0050.jpg,f6b3418e39a1,f6b3418e39a1,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,0,geometris,final_train,True,flip_h
+dataset_aug/final_train/non_batik/geometris_2__f6b3418e39a1__flip_v_0114.jpg,f6b3418e39a1,f6b3418e39a1,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,0,geometris,final_train,True,flip_v
+dataset_aug/final_train/non_batik/geometris_8__f88b483bd98e__orig_0164.png,f88b483bd98e,f88b483bd98e,dataset_batik/non_batik/geometris/geometris (8).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_8__f88b483bd98e__flip_h_0113.jpg,f88b483bd98e,f88b483bd98e,dataset_batik/non_batik/geometris/geometris (8).png,non_batik,0,geometris,final_train,True,flip_h
+dataset_aug/final_train/non_batik/geometris_8__f88b483bd98e__rot-7p1_0049.jpg,f88b483bd98e,f88b483bd98e,dataset_batik/non_batik/geometris/geometris (8).png,non_batik,0,geometris,final_train,True,rot-7p1
+dataset_aug/final_train/non_batik/geometris_7__fc6da929304d__orig_0163.png,fc6da929304d,fc6da929304d,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,geometris,final_train,False,original
+dataset_aug/final_train/non_batik/geometris_7__fc6da929304d__rot180_0065.jpg,fc6da929304d,fc6da929304d,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,geometris,final_train,True,rot180
+dataset_aug/final_train/non_batik/geometris_7__fc6da929304d__rot270_0129.jpg,fc6da929304d,fc6da929304d,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,geometris,final_train,True,rot270
+dataset_aug/final_train/non_batik/geometris_7__fc6da929304d__rot90_0001.jpg,fc6da929304d,fc6da929304d,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,geometris,final_train,True,rot90
+dataset_aug/final_train/non_batik/polkadot4__ffeae644af12__orig_0180.jpg,ffeae644af12,ffeae644af12,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,polkadot,final_train,False,original
+dataset_aug/final_train/non_batik/polkadot4__ffeae644af12__flip_h_0005.jpg,ffeae644af12,ffeae644af12,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,polkadot,final_train,True,flip_h
+dataset_aug/final_train/non_batik/polkadot4__ffeae644af12__flip_v_0069.jpg,ffeae644af12,ffeae644af12,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,polkadot,final_train,True,flip_v
+dataset_aug/final_train/non_batik/polkadot4__ffeae644af12__zoom02_0133.jpg,ffeae644af12,ffeae644af12,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,polkadot,final_train,True,zoom02

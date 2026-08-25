@@ -1,0 +1,31 @@
+source_set,kelas,subjenis,jumlah
+development,batik,Batik Sekar Jagad,5
+development,batik,Solo_Parang,29
+development,batik,SulawesiSelatan_Lontara,8
+development,batik,SumateraBarat_Rumah_Minang,26
+development,batik,Yogyakarta_Kawung,29
+development,batik,Yogyakarta_Parang,26
+development,batik,batik pekalongan,5
+development,batik,batik semarangan,5
+development,batik,batik solo,4
+development,non_batik,bunga_nonbatik,13
+development,non_batik,garis,5
+development,non_batik,geometris,10
+development,non_batik,kotak,4
+development,non_batik,modern,10
+development,non_batik,polkadot,2
+development,non_batik,polos,10
+development,non_batik,tenun,10
+external,batik,betawi,5
+external,batik,kalimantan_dayak,5
+external,batik,kawung,5
+external,batik,megamendung,5
+external,batik,parang,5
+external,batik,sogan,5
+external,non_batik,bunga,4
+external,non_batik,fabric,3
+external,non_batik,kotak,7
+external,non_batik,polkadot,3
+external,non_batik,polos,5
+external,non_batik,salur,4
+external,non_batik,tenun_ikat,4

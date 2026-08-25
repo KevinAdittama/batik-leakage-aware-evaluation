@@ -1,0 +1,5 @@
+dataset,total,batik,non_batik
+development_original,201,137,64
+final_train,400,200,200
+cv_pool,600,300,300
+external,60,30,30

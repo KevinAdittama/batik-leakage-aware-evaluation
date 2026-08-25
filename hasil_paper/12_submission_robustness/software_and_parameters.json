@@ -1,0 +1,27 @@
+{
+  "python": "3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "opencv": "4.13.0",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "pillow": "12.2.0",
+  "scikit_learn": "1.9.0",
+  "joblib": "1.5.3",
+  "constants": {
+    "random_seed": 42,
+    "outer_splits": 5,
+    "inner_splits": 4,
+    "phash_threshold": 8,
+    "dhash_threshold": 8,
+    "model_features": [
+      "motif_complexity_score",
+      "small_contour_count",
+      "glcm_entropy",
+      "glcm_homogeneity",
+      "lbp_entropy",
+      "fft_peak_ratio"
+    ]
+  },
+  "candidate_rule": "pHash Hamming <= 8 OR dHash Hamming <= 8; candidates require manual review",
+  "nested_cv_search_space": "3 fixed model families x 4 predefined feature groups; originals only"
+}

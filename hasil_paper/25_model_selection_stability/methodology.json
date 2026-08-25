@@ -1,0 +1,22 @@
+{
+  "analysis_role": "selection-stability diagnostic; no model is retrained here",
+  "selection_rule": "highest mean CV macro-F1 on the combined six features",
+  "primary_feature_set": "Gabungan 6 Fitur",
+  "inputs": [
+    "hasil_paper/07_cross_validation/cv_summary_primary.csv",
+    "hasil_paper/07_cross_validation/cv_fold_metrics.csv",
+    "hasil_paper/12_submission_robustness/nested_cv_outer_fold_metrics.csv",
+    "hasil_paper/14_repeated_nested_augmentation/outer_fold_metrics.csv",
+    "hasil_paper/19_balancing_comparison/outer_fold_metrics.csv",
+    "hasil_paper/08_uji_eksternal/external_model_summary.csv",
+    "hasil_paper/11_deep_learning_baseline/dl_external_summary.csv"
+  ],
+  "archive_compared": "IJIES_REVISI_FINAL/99_Arsip_Pendukung/Hasil_Sebelum_Group_Aware_20260819/hasil_paper",
+  "random_seed": 42,
+  "caveat": "protocol sensitivity, not a causal estimate of leakage magnitude",
+  "assertions_passed": [
+    "model formal tersimpan sama dengan pemenang tabel CV",
+    "frekuensi seleksi menjumlah ke seluruh outer fold pada tiap protokol",
+    "margin puncak lebih kecil daripada simpangan antar-fold"
+  ]
+}

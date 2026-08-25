@@ -1,0 +1,213 @@
+source_id,path,kelas,label,subjenis,source_set,sha256,file_size_bytes,readable,width,height,extension
+5bfe72414caf,dataset_batik/batik/batik pekalongan/pekalongan1.jpg,batik,1,batik pekalongan,development,9a90a98eaac90262bebb09064bba0c9873ca1918da0ad91ec3489fba2e10475a,18907,True,300,168,.jpg
+74dfb64fde15,dataset_batik/batik/batik pekalongan/pekalongan2.jpg,batik,1,batik pekalongan,development,dd7388c82cc7e012487958984e8331a3340623e0718520eadf8d43b890c5bfb9,2289222,True,1366,768,.jpg
+cba62b260aa8,dataset_batik/batik/batik pekalongan/pekalongan3.jpg,batik,1,batik pekalongan,development,b3ff769078699248b8722a449156c1e3f19669151e650fcefe66171343cadb59,1098148,True,2250,2250,.jpg
+e9fea915240b,dataset_batik/batik/batik pekalongan/pekalongan4.jpg,batik,1,batik pekalongan,development,c79ff2024109af2d2447eaebb71a1b6b5df5aa81516739cc07f9ea914b7a2df8,82800,True,400,300,.jpg
+6900868add34,dataset_batik/batik/batik pekalongan/pekalongan5.jpg,batik,1,batik pekalongan,development,6bd2f85e02e5cdd3a4137c052bcbe26f354ee93c1b7af766322c96fe6b6daace,20991,True,225,225,.jpg
+aefd54b84960,dataset_batik/batik/Batik Sekar Jagad/0.jpg,batik,1,Batik Sekar Jagad,development,89247e3323ee2e517424c17055a0f33a9020e5676b25145fe75023970de7ba70,42871,True,224,224,.jpg
+4cf5c0621088,dataset_batik/batik/Batik Sekar Jagad/1.jpg,batik,1,Batik Sekar Jagad,development,d387d17798dc87b73a7a25b8378a5ccce7107f4a1aae65a7807813b936449bf0,38889,True,224,224,.jpg
+cf833bbbc2d2,dataset_batik/batik/Batik Sekar Jagad/37.jpg,batik,1,Batik Sekar Jagad,development,ca5b9ba863f5a7f2846cd8159ec8bb490d401909ef600504dbe39b2adbd679c5,31413,True,224,224,.jpg
+4887f2b0b9db,dataset_batik/batik/Batik Sekar Jagad/38.jpg,batik,1,Batik Sekar Jagad,development,3c6bdb93201008b075dc82c1ffad07d7f33a79fc18d1596c714a70b727461484,44994,True,224,224,.jpg
+e5f8bb3aa14e,dataset_batik/batik/Batik Sekar Jagad/54.jpg,batik,1,Batik Sekar Jagad,development,3c408802ff9b0156b53c49cb7af106db047abe3be29a04ffe2861061c453293f,36537,True,224,224,.jpg
+a234e5ca3e30,dataset_batik/batik/batik semarangan/semarangan1.jpg,batik,1,batik semarangan,development,fb34cd11cd5b643bd8353f8fd0e5c6565ed8d7891463fa9a7dc4b48e747f044c,32008,True,300,229,.jpg
+f745452e50e3,dataset_batik/batik/batik semarangan/semarangan2.jpg,batik,1,batik semarangan,development,9e6fa61315f6a69723e71e8bc4c25336912541c4063c63c73a45c7448f1219c2,14519,True,195,259,.jpg
+1e1c6c73c84d,dataset_batik/batik/batik semarangan/semarangan3.jpg,batik,1,batik semarangan,development,d33812669d5ce9a409a705147d510f41ef622f0d727a7e3ba6e6b1ca881bfbca,20625,True,252,200,.jpg
+028b7571da11,dataset_batik/batik/batik semarangan/semarangan4.jpg,batik,1,batik semarangan,development,88dcc0d36156330b7f470460c5f42d32999291a0f0a7debb6c26f6cc2f4f4766,14416,True,302,167,.jpg
+9ca0fa064166,dataset_batik/batik/batik semarangan/semarangan5.jpg,batik,1,batik semarangan,development,67e5cef3e54a9ae11418545d1c98e6e37e819d53ef7fd7fa2e840e45fc2e6133,21374,True,252,200,.jpg
+24dcb9ff498b,dataset_batik/batik/batik solo/solo1.png,batik,1,batik solo,development,7ef1a9063491a4b2d4c5037141cb6a965feef204fe446024b4210436e24528b5,1469840,True,939,625,.png
+f11fc60776fe,dataset_batik/batik/batik solo/solo2.jpg,batik,1,batik solo,development,523f9f9bdce2771e4783059efcdb2f21d312e836363504dfb8780bb1a5f99b6e,60392,True,600,400,.jpg
+693f3e1e007d,dataset_batik/batik/batik solo/solo3.jpg,batik,1,batik solo,development,73112a5f087b501cf48ead99ea2e9af233a91d78c670bf22e62521fd2877c5d3,117149,True,600,600,.jpg
+e0dbc911eac7,dataset_batik/batik/batik solo/solo4.jpg,batik,1,batik solo,development,44c25e1beaf701f27262b4741084a2f5508baad953e3a7d01bc00773cda4651b,20832,True,229,220,.jpg
+0fd5923aff43,dataset_batik/batik/batik solo/solo5.jpg,batik,1,batik solo,development,adcac0d46b146b05dd8906c58c690d02313a4205187b88fb974f6674aa2a902c,119587,True,1200,675,.jpg
+54bfb8bd54ab,dataset_batik/batik/Solo_Parang/001.jpg,batik,1,Solo_Parang,development,2d234e3b70b4c5237689c3d70692a4d991be5b684fc18824c7fb5d1e19af71c3,18320,True,224,224,.jpg
+6442e19a4f03,dataset_batik/batik/Solo_Parang/0010.jpg,batik,1,Solo_Parang,development,09f40a491c2fdb2e538412762c1ec1c0e727d84574f81466ef2102f9dc606413,12940,True,224,224,.jpg
+32d738243497,dataset_batik/batik/Solo_Parang/0011.jpg,batik,1,Solo_Parang,development,049fa8860567b1437455a0f061ba9f33eba36b3a3ed6505c0a518053862e297b,18324,True,224,224,.jpg
+de330aa7d1a2,dataset_batik/batik/Solo_Parang/0012.jpg,batik,1,Solo_Parang,development,05313fc961649f279800f900fe81a033424aaf0bd6a4a9130554229d137220f7,20817,True,224,224,.jpg
+0f308677eb60,dataset_batik/batik/Solo_Parang/0013.jpg,batik,1,Solo_Parang,development,5cfab5a134c1882e55c61a1600e09dc4cdb297487427f77a93f1cf0040a5bc27,20256,True,224,224,.jpg
+fa24684732b1,dataset_batik/batik/Solo_Parang/0014.jpg,batik,1,Solo_Parang,development,a46ce2c1ed3f320335e477a718aee24f6c388b05a60cf94f4f2ea186c0058f20,15436,True,224,224,.jpg
+ae689bfb028c,dataset_batik/batik/Solo_Parang/0016.jpg,batik,1,Solo_Parang,development,bd814ee169904e8ebd175c2a70cefac7aa463c40483781ca724ab71de3d34af7,21033,True,224,224,.jpg
+ec9825accca7,dataset_batik/batik/Solo_Parang/0017.jpg,batik,1,Solo_Parang,development,54672014c50ab112903bae38b55103f167340111d280ee8d83aad21a32c6531d,18162,True,224,224,.jpg
+6ee03ea4ad8e,dataset_batik/batik/Solo_Parang/0020.jpg,batik,1,Solo_Parang,development,010aceeeebecadce0dfc7126904ec8152291021adbe62c71b8b5ab51f0ff128e,18147,True,224,224,.jpg
+fc1e0904dd28,dataset_batik/batik/Solo_Parang/0021.jpg,batik,1,Solo_Parang,development,16c92df22481cca581878be122c0714de2a29c6a496def77503b4c6de9d912b5,18296,True,224,224,.jpg
+cc4ed19c721d,dataset_batik/batik/Solo_Parang/0022.jpg,batik,1,Solo_Parang,development,8b6a0f370f1ad121d1e9543788ca56d499ad49fc2ae79a3f000b753e1b9c08dd,16591,True,224,224,.jpg
+9650ae0e9e81,dataset_batik/batik/Solo_Parang/0024.jpg,batik,1,Solo_Parang,development,f55d6ab2bbc57d48ef172738aa9c2c69a8f8d923bbc8adef2bc2cdb87a923255,20305,True,224,224,.jpg
+418868e904b3,dataset_batik/batik/Solo_Parang/0025.jpg,batik,1,Solo_Parang,development,b903c030a2cc1e45e7ea295edf8b0dc788f397666127e5e610e0a7d14803f437,17056,True,224,224,.jpg
+232973849352,dataset_batik/batik/Solo_Parang/0027.jpg,batik,1,Solo_Parang,development,52cf09fd504374eb4273b0c71a9dd8f5d50e6dd770ee86d4f1712c0d50c60664,20128,True,224,224,.jpg
+9fb8bf36fd8b,dataset_batik/batik/Solo_Parang/0028.jpg,batik,1,Solo_Parang,development,3360828801f4f33261ec0fc4500086dcb3ad1e3cc90a945aa710ff8ad251e5ff,16758,True,224,224,.jpg
+7df4d5dd4fc0,dataset_batik/batik/Solo_Parang/0029.jpg,batik,1,Solo_Parang,development,bf615a1995afb8bd0be79c63bc2ad79f1c0bbe280da4286c5eafffd6669bdd46,14500,True,224,224,.jpg
+a10f0a7e53bd,dataset_batik/batik/Solo_Parang/0030.jpg,batik,1,Solo_Parang,development,dc79f0d114b44f8437cf7fa935803823f9f0cca32e452e941c743cba5011e2c8,19256,True,224,224,.jpg
+798dd241fbb7,dataset_batik/batik/Solo_Parang/0031.jpg,batik,1,Solo_Parang,development,1182e7f121c57cfeaaaf60534ce95f20f900609d5421c7db5578a221d9489b1a,15536,True,224,224,.jpg
+3db0cabb6a47,dataset_batik/batik/Solo_Parang/0032.jpg,batik,1,Solo_Parang,development,3920f2398cd72a046c597dfd2f95bcbb60959901b228dd8307635adf31888dd2,15172,True,224,224,.jpg
+6dc41f6c55a3,dataset_batik/batik/Solo_Parang/0033.jpg,batik,1,Solo_Parang,development,5c99ce7c52af70977ff9406427e1e2e8bfe4ead0f76f60176bbc6a39e42459db,19136,True,224,224,.jpg
+204cc85f05f5,dataset_batik/batik/Solo_Parang/0034.jpg,batik,1,Solo_Parang,development,234bf3bfac63124758f3f5c604fb0855822e52f75de1d7cb76d4c2a43533d2de,16980,True,224,224,.jpg
+a592c69656eb,dataset_batik/batik/Solo_Parang/0036.jpg,batik,1,Solo_Parang,development,e9a251133112eda5632c64a5cc46cdbd55fcb17a9b43a348c52d2399f1a920bf,16523,True,224,224,.jpg
+050046f947a6,dataset_batik/batik/Solo_Parang/0037.jpg,batik,1,Solo_Parang,development,5b0141dce03ea9622c35b9f7ae261f0d3d2e959c05e92698fe8f603272ba18b3,18873,True,224,224,.jpg
+37dc41276bd9,dataset_batik/batik/Solo_Parang/0038.jpg,batik,1,Solo_Parang,development,470bf9d955f504365c71d17ab6c9b51cd6408a904ea2ebdcf92422fe9ceb06a6,20091,True,224,224,.jpg
+e9fd42eb86e9,dataset_batik/batik/Solo_Parang/0039.jpg,batik,1,Solo_Parang,development,d51274e02d66821a8b30b12fd2d4eaf043d283ce1b196270b69d2127af48b32e,17211,True,224,224,.jpg
+4ce26e238996,dataset_batik/batik/Solo_Parang/004.jpg,batik,1,Solo_Parang,development,3cbffe91d4c7fbdf137c8d2fcb2a7c2fa41128665631e83e1e59e0ea3183a7a8,15711,True,224,224,.jpg
+8eabcd2abffa,dataset_batik/batik/Solo_Parang/0040.jpg,batik,1,Solo_Parang,development,6e7ad786a437056b6639de8247be1076525c08ae6af240af675fcaff9c25b058,15179,True,224,224,.jpg
+e09b0a2c9ee4,dataset_batik/batik/Solo_Parang/005.jpg,batik,1,Solo_Parang,development,16c92df22481cca581878be122c0714de2a29c6a496def77503b4c6de9d912b5,18296,True,224,224,.jpg
+ef0f096eef7d,dataset_batik/batik/Solo_Parang/007.jpg,batik,1,Solo_Parang,development,a8673783a2c89de9d090ea76822807dedcee7441f10785636a24dde50356361b,20709,True,224,224,.jpg
+68d05da78831,dataset_batik/batik/Solo_Parang/009.jpg,batik,1,Solo_Parang,development,cf0a0a5668a2dc0e7aa2491a7ed5f7e2ee6f500a938aced5e9d2073f2409fbd0,14760,True,224,224,.jpg
+7fbd1b9fbaf8,dataset_batik/batik/SulawesiSelatan_Lontara/0013.jpg,batik,1,SulawesiSelatan_Lontara,development,c14626a8d55c6bb479dc1de58172d39f7d2bf2610f4f6022c59099dc1c569854,20094,True,224,224,.jpg
+1ebf8c8980d8,dataset_batik/batik/SulawesiSelatan_Lontara/0017.jpg,batik,1,SulawesiSelatan_Lontara,development,76ced28a7036625495ca9285e3acd3797340edcec6dd9612e874d7d6b68e4539,14906,True,224,224,.jpg
+e49dc5a7d4dd,dataset_batik/batik/SulawesiSelatan_Lontara/0018.jpg,batik,1,SulawesiSelatan_Lontara,development,039e9833f73bd521f501ef8d477a83b5d813d4e16d4c21e5f0820f67603f7f7f,20350,True,224,224,.jpg
+17204d5eeb3c,dataset_batik/batik/SulawesiSelatan_Lontara/0028.jpg,batik,1,SulawesiSelatan_Lontara,development,e6a3c659c87a57c32d39aeee9dc2a45332b6dc5b091dd8ec1180bb01128712d8,13844,True,224,224,.jpg
+5dc0a5b5e0e3,dataset_batik/batik/SulawesiSelatan_Lontara/0030.jpg,batik,1,SulawesiSelatan_Lontara,development,f2ff50bb397911107758ae72e9b4cfddb5c16ef78fecaeb21aa22610e5ba6ba0,12648,True,224,224,.jpg
+72312efd43da,dataset_batik/batik/SulawesiSelatan_Lontara/0034.jpg,batik,1,SulawesiSelatan_Lontara,development,0d88e0b595e4695572e83532480b67eaaf59f7a351b03542752ad52e57501705,16689,True,224,224,.jpg
+8044eaaa01ee,dataset_batik/batik/SulawesiSelatan_Lontara/0036.jpg,batik,1,SulawesiSelatan_Lontara,development,a0ffea51fda20a0af723910ce882616a7573605363e7af1a70f4e37d6c1cd85e,12221,True,224,224,.jpg
+339148643a6c,dataset_batik/batik/SulawesiSelatan_Lontara/006.jpg,batik,1,SulawesiSelatan_Lontara,development,77f613ae254e131f33ff16b437c9fa40712a0fb504b1ba5fb1ed372de023f07a,19301,True,224,224,.jpg
+0cda161b73d8,dataset_batik/batik/SumateraBarat_Rumah_Minang/0010.jpg,batik,1,SumateraBarat_Rumah_Minang,development,1a23dfc564068d90115351c43321c2d2f8f57fb9840ee145de03b12d9e58b68c,19290,True,224,224,.jpg
+482d00c6689f,dataset_batik/batik/SumateraBarat_Rumah_Minang/0011.jpg,batik,1,SumateraBarat_Rumah_Minang,development,81effa223d912e7dc33c34c3a703b94a15fcd4fb84e35805694c6b6d98389eb8,15019,True,224,224,.jpg
+4296840cb96e,dataset_batik/batik/SumateraBarat_Rumah_Minang/0012.jpg,batik,1,SumateraBarat_Rumah_Minang,development,afd9b97686ee0831393902a6cd778a61a95ae420a0d500951563c520f5464d9a,22374,True,224,224,.jpg
+8bf4cb106e92,dataset_batik/batik/SumateraBarat_Rumah_Minang/0013.jpg,batik,1,SumateraBarat_Rumah_Minang,development,274b2c4d3a3f8bac1db71e10cc5ada3c41be1bd987c948cf960d1d7bc943615c,17187,True,224,224,.jpg
+2a17bd6593bc,dataset_batik/batik/SumateraBarat_Rumah_Minang/0014.jpg,batik,1,SumateraBarat_Rumah_Minang,development,28610b1fe5e751d369f40ba715365f37e39a10a5931f095a124a782cf6d4375f,17595,True,224,224,.jpg
+73e531fe1cee,dataset_batik/batik/SumateraBarat_Rumah_Minang/0015.jpg,batik,1,SumateraBarat_Rumah_Minang,development,6d36e80d76e503a44e448a52559bb42065a4074edd0c8b7d4f9550d63c8ecad7,19566,True,224,224,.jpg
+494cc5d151c0,dataset_batik/batik/SumateraBarat_Rumah_Minang/0017.jpg,batik,1,SumateraBarat_Rumah_Minang,development,308670e992a898b10ef19320d145e2e7886a7f613f0f11bdf8d230972952a79d,14464,True,224,224,.jpg
+8be73861e239,dataset_batik/batik/SumateraBarat_Rumah_Minang/0018.jpg,batik,1,SumateraBarat_Rumah_Minang,development,f95111d9f275c10e16546ba90fb81d3708c938f3706daa40eb380c6dae7fa87f,18449,True,224,224,.jpg
+95f29eea7980,dataset_batik/batik/SumateraBarat_Rumah_Minang/0019.jpg,batik,1,SumateraBarat_Rumah_Minang,development,e328f6fb4e91abb6d8201ecf56ad70e2efe6349e5999d8daf15f21e363f1c89b,20960,True,224,224,.jpg
+8302690a77c5,dataset_batik/batik/SumateraBarat_Rumah_Minang/002.jpg,batik,1,SumateraBarat_Rumah_Minang,development,e1f1521db0bf2246027d1310fe4177aed3ab4b9bcfc1b0e0beada73ca69fb773,15980,True,224,224,.jpg
+1a750a1ff1bb,dataset_batik/batik/SumateraBarat_Rumah_Minang/0020.jpg,batik,1,SumateraBarat_Rumah_Minang,development,597c3cf0c6d5354c2827cc14e63dd0578f5c86f2b072a0a233543dee37c9c360,19463,True,224,224,.jpg
+a291e5c48a49,dataset_batik/batik/SumateraBarat_Rumah_Minang/0021.jpg,batik,1,SumateraBarat_Rumah_Minang,development,af43e1e6f1c5f7def52fc9f7afd18a930dacba01020daa1e4eb7687df4e03d1a,16011,True,224,224,.jpg
+e29a2b8d50fa,dataset_batik/batik/SumateraBarat_Rumah_Minang/0022.jpg,batik,1,SumateraBarat_Rumah_Minang,development,d6426aa4f18117b3e6b1b75db969c4b68fac1accc6fb7d488b1c7584b3315180,14420,True,224,224,.jpg
+c8389f7774ca,dataset_batik/batik/SumateraBarat_Rumah_Minang/0023.jpg,batik,1,SumateraBarat_Rumah_Minang,development,5e699914d6877e9ffd324d594c7d567c6c3eaf81124b248511a2cca73bf27a8f,20569,True,224,224,.jpg
+5fbb49767a26,dataset_batik/batik/SumateraBarat_Rumah_Minang/0024.jpg,batik,1,SumateraBarat_Rumah_Minang,development,fe19e889c12d93ca6f3e5fa13255a588b5e822704a201c236f42dee7f418958d,22383,True,224,224,.jpg
+49e6fc0351e9,dataset_batik/batik/SumateraBarat_Rumah_Minang/0025.jpg,batik,1,SumateraBarat_Rumah_Minang,development,3cf9c3c620a5f5c0015f729142d602c4231b206e49afc156d1072a99bd20c077,21369,True,224,224,.jpg
+35db741433f7,dataset_batik/batik/SumateraBarat_Rumah_Minang/0027.jpg,batik,1,SumateraBarat_Rumah_Minang,development,84cec6a03f0e885615fc3f3de3c127f1efeee910c705fc19f4cf37e7a789d788,15245,True,224,224,.jpg
+9cc5012e3077,dataset_batik/batik/SumateraBarat_Rumah_Minang/0029.jpg,batik,1,SumateraBarat_Rumah_Minang,development,c2b9be6a408b7dd7302298332f113710b8a376a75feaaf118b16f059a05b2316,17896,True,224,224,.jpg
+20802bdd836c,dataset_batik/batik/SumateraBarat_Rumah_Minang/0033.jpg,batik,1,SumateraBarat_Rumah_Minang,development,613538137495875a64514ed52bbfaab85aba4e298706fe0f733f53f12754d3de,20247,True,224,224,.jpg
+be07729e8e4c,dataset_batik/batik/SumateraBarat_Rumah_Minang/0036.jpg,batik,1,SumateraBarat_Rumah_Minang,development,5644af1d78143cd47630e04372730e2c8d3daf4b57a2c4085d90bfea757f18b1,19293,True,224,224,.jpg
+56fa039f7fcf,dataset_batik/batik/SumateraBarat_Rumah_Minang/0037.jpg,batik,1,SumateraBarat_Rumah_Minang,development,7d48d5f92722f029df2ac21f1f1e00f86f01367b05c4744f83bdcbb317bab2c6,17971,True,224,224,.jpg
+94870fc592ab,dataset_batik/batik/SumateraBarat_Rumah_Minang/0038.jpg,batik,1,SumateraBarat_Rumah_Minang,development,5f47f34b90549e72cbd51af860867f4a44455e12eb7fa5e4437be517cb4753ec,16420,True,224,224,.jpg
+861b084216ea,dataset_batik/batik/SumateraBarat_Rumah_Minang/005.jpg,batik,1,SumateraBarat_Rumah_Minang,development,ffa01d791913a47d8fac50ecaffc313c3e325f6a00f9571fa03d9a41693bf790,18287,True,224,224,.jpg
+4378ec5c01d7,dataset_batik/batik/SumateraBarat_Rumah_Minang/007.jpg,batik,1,SumateraBarat_Rumah_Minang,development,90be3426804933beceeb82e5ef84ad5387ddcfe6db48e9b70a210aafad1a0ba7,14300,True,224,224,.jpg
+32d72ffa72f3,dataset_batik/batik/SumateraBarat_Rumah_Minang/008.jpg,batik,1,SumateraBarat_Rumah_Minang,development,fe11223170f0dae2560cf8aa99e4b5eb181697db2620dd7f992742dcd19d348e,18160,True,224,224,.jpg
+8c566ec9c05a,dataset_batik/batik/SumateraBarat_Rumah_Minang/009.jpg,batik,1,SumateraBarat_Rumah_Minang,development,16375dbe4254e0720d61e0153531226c7deb684b38667bc7640f814a1b871a36,11350,True,224,224,.jpg
+4685b3b6f662,dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,batik,1,Yogyakarta_Kawung,development,9ca2aa83fcbc31ef62389d0007962ceeff11e88fc9b01096423db64efa5f73a0,19792,True,224,224,.jpg
+c2b746a6af12,dataset_batik/batik/Yogyakarta_Kawung/0014.jpg,batik,1,Yogyakarta_Kawung,development,6fba39af3ff9feaca880ebb70d119ade993d3d9beee18adbda646e9633bf324a,15702,True,224,224,.jpg
+f74bb111b026,dataset_batik/batik/Yogyakarta_Kawung/0015.jpg,batik,1,Yogyakarta_Kawung,development,2e0b2bdcfd9096b0bdc6a0f9da616f6710bf7da135438bf62e017ff6a4c38219,18545,True,224,224,.jpg
+ba741b615b90,dataset_batik/batik/Yogyakarta_Kawung/0016.jpg,batik,1,Yogyakarta_Kawung,development,859e9facb9649f28842bd9f351ce4db075b2e459259d5b739caec453583221df,21382,True,224,224,.jpg
+01423db2bf4d,dataset_batik/batik/Yogyakarta_Kawung/0018.jpg,batik,1,Yogyakarta_Kawung,development,7de6ee5f91c321087e75de1bfe9ae8302ed087308e8739fcf33a3e4799623719,14847,True,224,224,.jpg
+7cb908544ba8,dataset_batik/batik/Yogyakarta_Kawung/0019.jpg,batik,1,Yogyakarta_Kawung,development,542430cc203c68931481a318e1da2002a2d69a4e6ecc2828eeb7d0c86241603b,18005,True,224,224,.jpg
+975d095d1710,dataset_batik/batik/Yogyakarta_Kawung/002.jpg,batik,1,Yogyakarta_Kawung,development,8f5b28c8dfb15cf649de102cb53437410388d265c16b19cb245cd9d7692c0356,18614,True,224,224,.jpg
+d508f4f2374c,dataset_batik/batik/Yogyakarta_Kawung/0020.jpg,batik,1,Yogyakarta_Kawung,development,d152c3dcb28dd36fc9d8a85eb6abf8bf2f9be0855f0932c4eda8227d955eb696,21165,True,224,224,.jpg
+dbb32ee71649,dataset_batik/batik/Yogyakarta_Kawung/0021.jpg,batik,1,Yogyakarta_Kawung,development,32aff20bd1c7768409fb916a3cb828c09526aa0546df4501a30868ed5be9d11f,18702,True,224,224,.jpg
+7a6a08371391,dataset_batik/batik/Yogyakarta_Kawung/0022.jpg,batik,1,Yogyakarta_Kawung,development,91148a7d9be3827b92ef07f3629f71ce7a4964d4080112987b028fb684566a93,24794,True,224,224,.jpg
+c8a756244bdd,dataset_batik/batik/Yogyakarta_Kawung/0024.jpg,batik,1,Yogyakarta_Kawung,development,5558161acd3921c1039d11b7a376ab83b01652269ad042f93f7826a23ef91c1a,15867,True,224,224,.jpg
+15c3a3af00f1,dataset_batik/batik/Yogyakarta_Kawung/0025.jpg,batik,1,Yogyakarta_Kawung,development,ab5b90de8157d293726c86e67c1aea5f73cc0d893038823764e861fbdab627ae,20798,True,224,224,.jpg
+8cd33e274e4d,dataset_batik/batik/Yogyakarta_Kawung/0026.jpg,batik,1,Yogyakarta_Kawung,development,971adecce84c7f97c8faa56b0fa1bda66017d2b08aa0cd5393d11383c0c77877,21257,True,224,224,.jpg
+bd730be873eb,dataset_batik/batik/Yogyakarta_Kawung/0027.jpg,batik,1,Yogyakarta_Kawung,development,1b86a7da00c0db886e07a5ddf024923ec37511519c3265e4630ad9be8b8b7681,26410,True,224,224,.jpg
+5f3323d49daf,dataset_batik/batik/Yogyakarta_Kawung/0029.jpg,batik,1,Yogyakarta_Kawung,development,7d384ba321ee571cab11d340cc776ae56951fc17b7f7e152951c9785a1ba4996,15044,True,224,224,.jpg
+318560941f39,dataset_batik/batik/Yogyakarta_Kawung/003.jpg,batik,1,Yogyakarta_Kawung,development,ad3f11567214a805ae0391ba67e59593e0fa9875e07d969bbd698a5b3f849b1b,15227,True,224,224,.jpg
+821b217c3490,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,batik,1,Yogyakarta_Kawung,development,20535297cfa22e9c84e94243cbdaecdbf6c61d7c1fb446a929b27be15fb14935,19234,True,224,224,.jpg
+c23c92dfb3a6,dataset_batik/batik/Yogyakarta_Kawung/0031.jpg,batik,1,Yogyakarta_Kawung,development,69ffeac17d6d158f6b77af49c2812bbcb09c6ad030c2180f37f30a4b9201f2b2,20262,True,224,224,.jpg
+5a0b830d2c1b,dataset_batik/batik/Yogyakarta_Kawung/0032.jpg,batik,1,Yogyakarta_Kawung,development,87b07d282c34908043c308cbb81c8c30b1e012b5db34cfd334a5dee55e4623e6,14404,True,224,224,.jpg
+973f90f1c799,dataset_batik/batik/Yogyakarta_Kawung/0033.jpg,batik,1,Yogyakarta_Kawung,development,8d11b80cddfeeb92e9f483fe5fa8772deebf0edc737c46242d906c7f3f6def0d,12144,True,224,224,.jpg
+bbdb13d788e1,dataset_batik/batik/Yogyakarta_Kawung/0035.jpg,batik,1,Yogyakarta_Kawung,development,d47a3fb6c73ef2a26b77d219ca6e0c4999305440c87f9264fed99284ddfa33d5,22529,True,224,224,.jpg
+9c55efc8bc01,dataset_batik/batik/Yogyakarta_Kawung/0036.jpg,batik,1,Yogyakarta_Kawung,development,db8a021cb47f88994beb3f0016d6a0fb1b6086b3d743901573757ce2ff4f8459,15075,True,224,224,.jpg
+c54620730f2e,dataset_batik/batik/Yogyakarta_Kawung/0037.jpg,batik,1,Yogyakarta_Kawung,development,bf8cfdcc753ea39f1a4504e647381e91a95863ee7d88efcfac847694367ff090,20226,True,224,224,.jpg
+46224a6951cd,dataset_batik/batik/Yogyakarta_Kawung/0039.jpg,batik,1,Yogyakarta_Kawung,development,ab230d346307524f02c27547712a5959782101f19b13bda52057bd39691f281c,15025,True,224,224,.jpg
+eb2a2549a57f,dataset_batik/batik/Yogyakarta_Kawung/004.jpg,batik,1,Yogyakarta_Kawung,development,322a5009ed87c02f3747930a6b0dbd97010386dc3d50bdebed6105a408cc4ed9,19063,True,224,224,.jpg
+1ae0673d1fc2,dataset_batik/batik/Yogyakarta_Kawung/0040.jpg,batik,1,Yogyakarta_Kawung,development,906a93d6b1a078b24ddc996b48bbd8a1e81cab16724d61570af5bd81da12b332,22634,True,224,224,.jpg
+2a2a23410a51,dataset_batik/batik/Yogyakarta_Kawung/005.jpg,batik,1,Yogyakarta_Kawung,development,e17e3ab854f729ae2a402a175137768e77aded1232075d0fba4404c5a8664a1a,13527,True,224,224,.jpg
+8e278f004798,dataset_batik/batik/Yogyakarta_Kawung/006.jpg,batik,1,Yogyakarta_Kawung,development,2f07e21c36489ca338b5751b4162260f6dcb073a0cdda3d3215420149aa66ba9,19909,True,224,224,.jpg
+cccca1ba3cae,dataset_batik/batik/Yogyakarta_Kawung/009.jpg,batik,1,Yogyakarta_Kawung,development,47b68d64680b1c265e02025132e8e646d6c0a798e6e0a0d02ff64ad043cafbb3,22225,True,224,224,.jpg
+9c71e54f91f9,dataset_batik/batik/Yogyakarta_Parang/0010.jpg,batik,1,Yogyakarta_Parang,development,5d691ff24ff8e54888d9363094e6ada94dfeb3ae46d33b4847303ce7ff5a5067,19800,True,224,224,.jpg
+cd0513428af6,dataset_batik/batik/Yogyakarta_Parang/0012.jpg,batik,1,Yogyakarta_Parang,development,14a7b6e2094c5c9b1f5c1ea51090bc9d738d1678ee96f0663d6750bbad196442,19801,True,224,224,.jpg
+224b3baae42f,dataset_batik/batik/Yogyakarta_Parang/0016.jpg,batik,1,Yogyakarta_Parang,development,93e0949059f0595cee106c2dd9dd4cc765176b1701df9a5a880ae0ebd17c5f0f,20136,True,224,224,.jpg
+a3833f8e9773,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,batik,1,Yogyakarta_Parang,development,114a88efc1fd0006ca0b9f09f87efa6f7c33ecfec8c97337867328a2526aac4a,19852,True,224,224,.jpg
+72cc088c4040,dataset_batik/batik/Yogyakarta_Parang/0018.jpg,batik,1,Yogyakarta_Parang,development,5594772a88b9d74597546d81af90c19d0c9a2dc256b8b08b05df107709f2eb1c,13843,True,224,224,.jpg
+7a71ef3f3ade,dataset_batik/batik/Yogyakarta_Parang/0019.jpg,batik,1,Yogyakarta_Parang,development,841bd6d681c0d04fe19200461f92743e158ac9491de51395c1c18b64cac1ff82,19576,True,224,224,.jpg
+cef09f780063,dataset_batik/batik/Yogyakarta_Parang/002.jpg,batik,1,Yogyakarta_Parang,development,6eaf638df165a75a32cb5fdbc4d8f7783bee82c3f4c25e3cee373b44e6cc1626,14367,True,224,224,.jpg
+0f8e0b867151,dataset_batik/batik/Yogyakarta_Parang/0020.jpg,batik,1,Yogyakarta_Parang,development,4f5943618f992780a081802c155ce18d1817282aebbc9397d1c1f54a7003246c,19786,True,224,224,.jpg
+64c221c7e69e,dataset_batik/batik/Yogyakarta_Parang/0024.jpg,batik,1,Yogyakarta_Parang,development,16f863cfbd0f59599089e5a6f39e92da263ff9ba02af282efa61e47359db5c7e,16869,True,224,224,.jpg
+7556e7595482,dataset_batik/batik/Yogyakarta_Parang/0025.jpg,batik,1,Yogyakarta_Parang,development,5f1596b818d556d65fd5e6fce57dd2176b2f9c5553ca0a1f59748fc898f2f6ac,18703,True,224,224,.jpg
+5417f1939333,dataset_batik/batik/Yogyakarta_Parang/0028.jpg,batik,1,Yogyakarta_Parang,development,e0edcd611713d2d689d8cc0c00befdb3b29e930e65f344a2afb77412da882067,21615,True,224,224,.jpg
+7bdd4895a8f4,dataset_batik/batik/Yogyakarta_Parang/0029.jpg,batik,1,Yogyakarta_Parang,development,0c8c859a72b81c179804b1bb6c466d09e161ec4d4afa0d6b34d15d59cfdadb24,20103,True,224,224,.jpg
+05ccbfc92105,dataset_batik/batik/Yogyakarta_Parang/003.jpg,batik,1,Yogyakarta_Parang,development,a9897accbe7a753af72d7d75d2bc4c8f309759b1fc1d49a4f350f29a1d8c22fc,17472,True,224,224,.jpg
+71b47ddc1aef,dataset_batik/batik/Yogyakarta_Parang/0030.jpg,batik,1,Yogyakarta_Parang,development,c904f6fffa7f396db7e2103075cd589da9317092409e6e441edc67f1131cb73f,16861,True,224,224,.jpg
+b9f0bcdd4ffc,dataset_batik/batik/Yogyakarta_Parang/0032.jpg,batik,1,Yogyakarta_Parang,development,becf3eee836f900bc34b674fe7193731973d12219cdb3890e0f4e805ac0b5cba,19072,True,224,224,.jpg
+a24266798391,dataset_batik/batik/Yogyakarta_Parang/0034.jpg,batik,1,Yogyakarta_Parang,development,3c3fa03e34cf1bb401ac4eac7b8143e85dc4a94e47f43c772a147ec3ea11bc9e,24060,True,224,224,.jpg
+e7708ac8cb87,dataset_batik/batik/Yogyakarta_Parang/0036.jpg,batik,1,Yogyakarta_Parang,development,efa9186e347e385503b8a712c8d0193d725bfbaf516e029e8f6da14cee69b977,16535,True,224,224,.jpg
+3c68bb5f2327,dataset_batik/batik/Yogyakarta_Parang/0038.jpg,batik,1,Yogyakarta_Parang,development,c79a40e61c8917b2483a8b57b0479dde3c89ba8f5f3e232d8e3c4c3030a539ff,18169,True,224,224,.jpg
+519b6e1dfbd9,dataset_batik/batik/Yogyakarta_Parang/0039.jpg,batik,1,Yogyakarta_Parang,development,eb4cdae5b0d472a18e92121d5dfc2687ce46799ca344868d1645c22c1212bf17,19163,True,224,224,.jpg
+9710a61c2b42,dataset_batik/batik/Yogyakarta_Parang/004.jpg,batik,1,Yogyakarta_Parang,development,57260992d328d0c2194fb7ff10b2b27512e5a32107b6ec9b8bb05d654754d525,19946,True,224,224,.jpg
+0c9036a66a5e,dataset_batik/batik/Yogyakarta_Parang/0040.jpg,batik,1,Yogyakarta_Parang,development,15d2ae67534e3db83b16fef85f10eba5312bf5e241bd38a80d2c4b5ecb499ce8,17579,True,224,224,.jpg
+a940ff920c6c,dataset_batik/batik/Yogyakarta_Parang/005.jpg,batik,1,Yogyakarta_Parang,development,bbbfccbb23db96abf7aae0f30bc518cf03781a717a5868f33dc27457d12cd888,16589,True,224,224,.jpg
+fd0c795decdf,dataset_batik/batik/Yogyakarta_Parang/006.jpg,batik,1,Yogyakarta_Parang,development,35b09811a12e72df7757c09a6f26fb933fbf10ce5943b496b19945486efd3077,18526,True,224,224,.jpg
+bdad9f0a9e63,dataset_batik/batik/Yogyakarta_Parang/007.jpg,batik,1,Yogyakarta_Parang,development,8a35bbde2b93d59033472e3472606fb94446e6f447c13a4707ad277b5f351b96,18962,True,224,224,.jpg
+fb19d7075d8a,dataset_batik/batik/Yogyakarta_Parang/008.jpg,batik,1,Yogyakarta_Parang,development,1693fee15fc579dd81877a09edad7d333174242144f041548d32b62c24f688a5,17038,True,224,224,.jpg
+aa85c99944f2,dataset_batik/batik/Yogyakarta_Parang/009.jpg,batik,1,Yogyakarta_Parang,development,43b1a27aefe8d83210c971f53fddeef8d2523f946a9a558196ffbf76173dfcef,19790,True,224,224,.jpg
+1c522c3d0bdc,dataset_batik/non_batik/bunga_nonbatik/bunga (1).png,non_batik,0,bunga_nonbatik,development,133b35b695a466a8c611d2ccbeba5010da79eba99c9d0b21f75d712116a54cf8,2711861,True,1086,1448,.png
+3424f5620431,dataset_batik/non_batik/bunga_nonbatik/bunga (10).png,non_batik,0,bunga_nonbatik,development,c5fa20578d7c69689619864c78d9e9fc064562d581a60e4abe62d9c1869bf649,2697239,True,1086,1448,.png
+ed293cabd087,dataset_batik/non_batik/bunga_nonbatik/bunga (2).png,non_batik,0,bunga_nonbatik,development,d8b5bade50b17b38532b0cdd4f1cf13d3764e39cbd284720460a9a3676286ae5,2517286,True,1086,1448,.png
+f190f4ab82fd,dataset_batik/non_batik/bunga_nonbatik/bunga (3).png,non_batik,0,bunga_nonbatik,development,12b55490dc893d48b5aed6a5114493633e61047051e5c5580025b5bdda099956,3077082,True,1086,1448,.png
+7a26d7e18b89,dataset_batik/non_batik/bunga_nonbatik/bunga (4).png,non_batik,0,bunga_nonbatik,development,17967ec456d64ae13a1d400eed0fbd317464719a3845b1117c86abb1f947f052,2598733,True,1086,1448,.png
+21b7b85d4086,dataset_batik/non_batik/bunga_nonbatik/bunga (5).png,non_batik,0,bunga_nonbatik,development,bd35d89557f3d7c250402603a66f43c6df63fbf6eaa9d68d9aa7c696094ed90f,2881615,True,1086,1448,.png
+bc0863dfd9c1,dataset_batik/non_batik/bunga_nonbatik/bunga (6).png,non_batik,0,bunga_nonbatik,development,7fe78b8672fd641063d26c279ed7249b01dcf34069c06f375932758a6eb97627,2709538,True,1086,1448,.png
+eac540cba307,dataset_batik/non_batik/bunga_nonbatik/bunga (7).png,non_batik,0,bunga_nonbatik,development,aa04d6f4ce9bbc3385383af1402d4fd8b631932ec2b213b4dadd0d436c500a03,3100709,True,1086,1448,.png
+db4135d30eec,dataset_batik/non_batik/bunga_nonbatik/bunga (8).png,non_batik,0,bunga_nonbatik,development,7f3c21948c619216f6ffc14dfdc51babcb87d55032d6d65fe6ac3cceedf86119,2738562,True,1086,1448,.png
+c9420c985ea9,dataset_batik/non_batik/bunga_nonbatik/bunga (9).png,non_batik,0,bunga_nonbatik,development,09f713172bf47d4aa1a9a8ee89cc7c04a0520cc879b0285a2ec5d949c60a287b,2874762,True,1086,1448,.png
+3d5238641255,dataset_batik/non_batik/bunga_nonbatik/bunga1.jpg,non_batik,0,bunga_nonbatik,development,7c5c7aa70f10f9a517bcbb24eaa4c4947fb4045fd0bb3daede1abb933338a114,93032,True,688,687,.jpg
+62ac50dcc85a,dataset_batik/non_batik/bunga_nonbatik/bunga2.jpg,non_batik,0,bunga_nonbatik,development,3887789ff77a89863dcda262dff368af4e07f94298755a13ea1ba692e1421358,564668,True,1024,1024,.jpg
+1f9fa02cb0e6,dataset_batik/non_batik/bunga_nonbatik/bunga3.webp,non_batik,0,bunga_nonbatik,development,f868a926d2aa8d691e45ea9e2c2876ef6b329d8111a667d160b0ebfde183ac58,66860,True,800,800,.webp
+c5761d229b6c,dataset_batik/non_batik/garis/garis1 (1).jpg,non_batik,0,garis,development,0fac4ac71ca9846fadd00b9c696c51690adee7da0404825d9351b3762f6b1c99,14303,True,300,168,.jpg
+e7a78b6680b5,dataset_batik/non_batik/garis/garis1 (2).jpg,non_batik,0,garis,development,51da20bc7e67dc6ace8c6da03dd74446f8e2a9024e5cfb500cf5d953b3c895bf,579585,True,1280,1280,.jpg
+bbcc043171d4,dataset_batik/non_batik/garis/garis1 (3).jpg,non_batik,0,garis,development,ee225519c5fd45d51b576b848cd1e6bbb5e97defe49214e92540e0a62702f711,42497273,True,7360,4912,.jpg
+c11183e9d1cd,dataset_batik/non_batik/garis/garis1 (4).jpg,non_batik,0,garis,development,725638fc3d97b43319435777c59945f2bd82488e46bce94be4a3e59e60c1c6f9,15555908,True,6000,4000,.jpg
+c1afa12764cf,dataset_batik/non_batik/garis/garis1 (5).jpg,non_batik,0,garis,development,43bb96e7b32742aad8b36bfa180594b864950bf98a2a8dd5d118015a4f1050e5,18960880,True,6000,4000,.jpg
+4b2cb2577a69,dataset_batik/non_batik/geometris/geometris (1).png,non_batik,0,geometris,development,a9bf6d6d2a388f38343d391a7a578f1d27f01209581eb5631bdf98ab2e48c115,2130274,True,1086,1448,.png
+92deccab5470,dataset_batik/non_batik/geometris/geometris (10).png,non_batik,0,geometris,development,37ddeb8772a7dd150f8a12853d65552c6635e54ffacd6dc899f4217222585b07,2715993,True,1086,1448,.png
+f6b3418e39a1,dataset_batik/non_batik/geometris/geometris (2).png,non_batik,0,geometris,development,4fa947cedb8c58ced4e31086ea857ba10c38888fce27e1f75dcd69bcda003908,2821341,True,1086,1448,.png
+9dd396e5e2cf,dataset_batik/non_batik/geometris/geometris (3).png,non_batik,0,geometris,development,c4480ad242f01f05fd9a32c9d90acdd248b657bd93250d0ac82be7b721bfee8b,3400980,True,1086,1448,.png
+d9276d559999,dataset_batik/non_batik/geometris/geometris (4).png,non_batik,0,geometris,development,2622dfb9d83aabf3fed5f24c137ec6f809f9aacfb47ee39e159062e29fb7addd,2705845,True,1086,1448,.png
+2147c3827a53,dataset_batik/non_batik/geometris/geometris (5).png,non_batik,0,geometris,development,ec56dbfba54c84d96a15dd9225f51149af86782c36161d5ab256f3e1439920f4,3255757,True,1086,1448,.png
+41c663680f51,dataset_batik/non_batik/geometris/geometris (6).png,non_batik,0,geometris,development,30cb82ed43a6565902a6b410479aaccdbd77e43f7117caf683c77e9cc35b41c1,2885116,True,1086,1448,.png
+fc6da929304d,dataset_batik/non_batik/geometris/geometris (7).png,non_batik,0,geometris,development,f3843a77d1f62687b3ecbb81287ed1ee6241277e081748a26927e0cd007b2f45,1974388,True,1086,1448,.png
+f88b483bd98e,dataset_batik/non_batik/geometris/geometris (8).png,non_batik,0,geometris,development,39de58770dbdc68f569318d37e27022350db5de7b12cfe3b779a277b1d235724,3168887,True,1086,1448,.png
+3d11a9f87152,dataset_batik/non_batik/geometris/geometris (9).png,non_batik,0,geometris,development,d6a18c2b8b5eb7563483ef5233c0130b8f43a3f970c22f29df732c92982b6912,2177552,True,1086,1448,.png
+b742ba0efad4,dataset_batik/non_batik/kotak/kotak1.jpg,non_batik,0,kotak,development,c642bfe78cded16d9bf80effcb9f3efa98cbdd652de15bf7e25c58de351b72bc,295070,True,1200,675,.jpg
+0ce96dcf1e27,dataset_batik/non_batik/kotak/kotak2.jpg,non_batik,0,kotak,development,c088a48530b35666ba62bda006117496bcafdfa843d80400fe87d998119ccd0d,59500,True,500,500,.jpg
+9a27b470f78d,dataset_batik/non_batik/kotak/kotak3.png,non_batik,0,kotak,development,740aba9bad6927b9e575e2e7c51b9a2e60fe3d443ddeb3aa21bca01c1d6fcc56,18928,True,192,256,.png
+bcabfe0310f4,dataset_batik/non_batik/kotak/kotak4.jpg,non_batik,0,kotak,development,59a7f5423773742513c7474dde409b1b2e5499e3a05375cc806345fad54c35b5,662182,True,1200,1200,.jpg
+648259d35596,dataset_batik/non_batik/kotak/kotak5.jpg,non_batik,0,kotak,development,6338266d495c33b597a4655095ba6b499d48d0e617dd50a40bd822a367520e09,61457,True,360,360,.jpg
+8050e3061ee9,dataset_batik/non_batik/modern/modern (1).png,non_batik,0,modern,development,1cfd012cc020921cdb66192e78fe0186b395b1d040e634583759226929836104,2028386,True,1086,1448,.png
+5749ecfbcd39,dataset_batik/non_batik/modern/modern (10).png,non_batik,0,modern,development,32eb7e997e55ea25560391fee1e7b2651445545f1f8345ea627c865bcf3ac5d9,2837483,True,1086,1448,.png
+bb5154fad02f,dataset_batik/non_batik/modern/modern (2).png,non_batik,0,modern,development,a1c45a1f00f95e66df8143ab33e6535699ad3ee0d9ab7b30caaf4c12960e7c92,1984975,True,1086,1448,.png
+33eb73d4c302,dataset_batik/non_batik/modern/modern (3).png,non_batik,0,modern,development,be9ed07205adcc862b4d49b2745b45bfbfc932052f63ea7587e28c78d10d69d4,2828226,True,1086,1448,.png
+a7f92f18470f,dataset_batik/non_batik/modern/modern (4).png,non_batik,0,modern,development,0cd06f66ec63fd94e570ad4b0b3334adcd077d31a0de962dc103bb4550f2c969,2077271,True,1086,1448,.png
+3ca855a91edc,dataset_batik/non_batik/modern/modern (5).png,non_batik,0,modern,development,42d954e25b1f5d1ad96600d0c8dd6dbd7ccef416ed7365867f06ee8e91225224,2063151,True,1086,1448,.png
+699c4602a8e0,dataset_batik/non_batik/modern/modern (6).png,non_batik,0,modern,development,e67c51df5b81a5f7b77e8f752b92274e6ea3cf8abe685009d1887a494efaabb4,2689973,True,1086,1448,.png
+ad3de2744108,dataset_batik/non_batik/modern/modern (7).png,non_batik,0,modern,development,1ef920a74079f6e11058b61bb8f408f533af20abe4e3d2beed12f7afea7cb12a,2058811,True,1086,1448,.png
+3f3ad4376dd0,dataset_batik/non_batik/modern/modern (8).png,non_batik,0,modern,development,5605a38355faeedadf7db89b113aee3c675c54672c33cbffd9d47d012d4ab91e,2271057,True,1086,1448,.png
+6a5fca546dc0,dataset_batik/non_batik/modern/modern (9).png,non_batik,0,modern,development,13fffb86b3efcef0077dfdeaefe1da209b1ad8571f5a5bcc1b2477757b7e5877,2741459,True,1086,1448,.png
+7b79e27b18d5,dataset_batik/non_batik/polkadot/polkadot1.jpg,non_batik,0,polkadot,development,3b2064dde9fe2ec694a486a7e952d8707044639a6d9c14ddaec707ef2a9db372,7892,True,197,256,.jpg
+dbba48aeadb1,dataset_batik/non_batik/polkadot/polkadot2.jpg,non_batik,0,polkadot,development,110417799ce1c45cadcf039f9cb5a2334356fdaf34fa5cf85ed4d137f3764731,13058,True,259,194,.jpg
+5d66bc328332,dataset_batik/non_batik/polkadot/polkadot3.jpg,non_batik,0,polkadot,development,374f02410dfc820fa3b543e90c53ce2ca5369a2c6b3283738d57fc1db3291216,131194,True,509,339,.jpg
+ffeae644af12,dataset_batik/non_batik/polkadot/polkadot4.jpg,non_batik,0,polkadot,development,ff57f17e318776e9e62dfdbdac8edb82f733caafc2589ddf8779961095ebc23f,10816,True,225,225,.jpg
+4bd0134802da,dataset_batik/non_batik/polkadot/polkadot5.jpg,non_batik,0,polkadot,development,287bfcd5ad247c22b96fc66fd59d864cac15214af61f0a5125a674a0fb436f43,33834,True,626,418,.jpg
+3c1f730579dc,dataset_batik/non_batik/polos/polos (1).png,non_batik,0,polos,development,aa5cd4c6fd23fa9f365e90816e34cd5887150ec0a15b2f67cc519a99784c9731,2131792,True,1086,1448,.png
+5f82b8c47ed9,dataset_batik/non_batik/polos/polos (10).png,non_batik,0,polos,development,37817dcd15dcfbca6c5f7705581723699e4cf66a1de3b1a565270861fdb872ed,3127311,True,1086,1448,.png
+1937342e6d3a,dataset_batik/non_batik/polos/polos (2).png,non_batik,0,polos,development,2346f66fb1394a79dde34210952ece6189910e23adaac528846fbf040a0c3432,2517734,True,1086,1448,.png
+51819fbbc26f,dataset_batik/non_batik/polos/polos (3).png,non_batik,0,polos,development,b56118e2634a391f8ca3773e10d9d4f9659a836289a5d4d31b7cc58eb4ef810b,2950346,True,1086,1448,.png
+378df26e0ccb,dataset_batik/non_batik/polos/polos (4).png,non_batik,0,polos,development,6edb95473b630d1230097c7d68b6304b9db6dae0d4b0452cd56ea079cf072a52,2424636,True,1086,1448,.png
+d5ce7ee1e352,dataset_batik/non_batik/polos/polos (5).png,non_batik,0,polos,development,26d8b5bef530c65458d56c0967559f4f8b0dcc9f0732089fd4a55fa2d4dc564a,2819922,True,1086,1448,.png
+27a1a686fc67,dataset_batik/non_batik/polos/polos (6).png,non_batik,0,polos,development,fe4d86046259e14f94b9cb1a64932ca77fa347a27cf55290f0b3a51eda7d02e6,2868341,True,1086,1448,.png
+6b6b7bdfe34a,dataset_batik/non_batik/polos/polos (7).png,non_batik,0,polos,development,a1b2d72228081cf09342281bbf98b24e65e624f84affeee58487a90d872423f4,2731934,True,1086,1448,.png
+3b5356f36723,dataset_batik/non_batik/polos/polos (8).png,non_batik,0,polos,development,9ab52283047649d4bfb392d17668fb95487f4d12d3cb22eed1650610199b8aa7,2167209,True,1086,1448,.png
+0ed496d9169c,dataset_batik/non_batik/polos/polos (9).png,non_batik,0,polos,development,8fadd2a30efb537f832ca3d79c54ff0e4a8b3d442f73f3393dcea3572d587aa1,2892951,True,1086,1448,.png
+ca96998cdbfd,dataset_batik/non_batik/polos/polos1.jpg,non_batik,0,polos,development,90ecb4d42c4ed6f9aeeb046444d28bc726cf1de5879a782dd90d54ac4417c773,7469,True,259,194,.jpg
+a36166a4b3b9,dataset_batik/non_batik/polos/polos2.jpg,non_batik,0,polos,development,38e1d2ff083475f09057b95dd172bdc112e0948a1d4cc2cbd2e867452b01e0e5,10036,True,225,225,.jpg
+bd288971ff27,dataset_batik/non_batik/polos/polos3.webp,non_batik,0,polos,development,6ab74c920d68244c3bdf8e3a46a863f584844568f6e4ef4f929186aa928abebd,8818,True,700,700,.webp
+4a942f3a9ba7,dataset_batik/non_batik/polos/polos4.webp,non_batik,0,polos,development,4aa7cc9f11756b076c3222b359b984a30ed769cfbe0242d70daa084f443f4055,17140,True,600,600,.webp
+8b46900cf444,dataset_batik/non_batik/polos/polos5.jpg,non_batik,0,polos,development,ace838bf7178f61a4fd80bd4fa40f2b319e9f3b6aaa53deb48699e45a73dd087,256165,True,1000,1000,.jpg
+c9fffdb4983d,dataset_batik/non_batik/tenun/tenun (1).png,non_batik,0,tenun,development,7f7b90ae3e053da445a19aee2d1a7f0266985ad9cabb734d5ddd15ea8cc7a345,2694677,True,1086,1448,.png
+0b857a24ecf0,dataset_batik/non_batik/tenun/tenun (10).png,non_batik,0,tenun,development,80d04ba7d7aaec39c79808311c8e244fc219f6f88d3befdb82f0fc423626b614,3450044,True,1086,1448,.png
+b2131a29e3e4,dataset_batik/non_batik/tenun/tenun (2).png,non_batik,0,tenun,development,d1a67f32d890c9c17272022f1072d8b8a0dd8c1cbfa5ebedbbcf3c5489e0e1d0,2930002,True,1086,1448,.png
+d916f3c4756e,dataset_batik/non_batik/tenun/tenun (3).png,non_batik,0,tenun,development,51a0610c4c92c5e8f6337892292f5fc6ffadcfec0d700f995fdb9fe6e8a191b7,2955685,True,1086,1448,.png
+3db82daf6e86,dataset_batik/non_batik/tenun/tenun (4).png,non_batik,0,tenun,development,a8686b576b1adb6320559cb87c9f05b22606c26e339c05745487e0f432d0fa09,2651538,True,1086,1448,.png
+e6a8630feb76,dataset_batik/non_batik/tenun/tenun (5).png,non_batik,0,tenun,development,d7ea1fc2fdaba8e1d94376cf00bf730d6d17386a1183efbb0f84295aa22c80cc,2828185,True,1086,1448,.png
+be63966ec5ec,dataset_batik/non_batik/tenun/tenun (6).png,non_batik,0,tenun,development,09afc696eff1dee4af0ce80ae510921a6fc3dfbd468def895911a67c6af5f4fa,2819879,True,1086,1448,.png
+31a7bede42b0,dataset_batik/non_batik/tenun/tenun (7).png,non_batik,0,tenun,development,d5a05a92d53b02599660f43b66437fce95e5c250163e1491cb160f9883b0be3e,3663117,True,1086,1448,.png
+372c786cc900,dataset_batik/non_batik/tenun/tenun (8).png,non_batik,0,tenun,development,badeb011142e9b349164d6c29c21db8a995b6b227e00cd43117d468975473b00,2930962,True,1086,1448,.png
+dac06cb81326,dataset_batik/non_batik/tenun/tenun (9).png,non_batik,0,tenun,development,c4b340d8853e97d9bdc7e7def9cfbc3dc577ffe5a770f08ba8d4dc6bee9d47a5,2253887,True,1086,1448,.png

@@ -1,0 +1,29 @@
+{
+  "analysis_role": "submission sensitivity diagnostic for R2.7",
+  "arms": [
+    "augmented_balanced",
+    "class_weighted_originals",
+    "balanced_original_sampling"
+  ],
+  "baseline_arm": "augmented_balanced",
+  "repeats": 5,
+  "outer_splits": 5,
+  "inner_splits": 4,
+  "candidate_space": "4 feature groups x 3 model families",
+  "split_grain": "development source photo group_id (tahap 24)",
+  "validation_rule": "inner validation and outer test use originals only",
+  "augmentation_rule": "only descendants of current training sources",
+  "external_data_used": false,
+  "base_random_seed": 42,
+  "assertions_passed": [
+    "setiap lengan menghasilkan 25 outer fold",
+    "setiap original diprediksi tepat sekali per repeat di semua lengan",
+    "struktur fold identik pada ketiga lengan",
+    "setiap original jatuh di outer fold yang sama pada ketiga lengan",
+    "lengan augmentasi selalu 200 instance per kelas",
+    "lengan pembanding tidak memakai satu pun derivative",
+    "balanced-original sampling menghasilkan jumlah kelas yang sama",
+    "class weighting mempertahankan distribusi original yang timpang",
+    "lengan augmentasi mereproduksi tahap 14 (deviasi maks 1.11e-16)"
+  ]
+}

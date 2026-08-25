@@ -1,0 +1,14 @@
+kelas,subjenis,n,benar,salah,error_rate,recall_subjenis
+non_batik,tenun_ikat,4,0,4,1.0,0.0
+batik,megamendung,5,1,4,0.8,0.2
+batik,betawi,5,2,3,0.6,0.4
+batik,kawung,5,2,3,0.6,0.4
+batik,sogan,5,3,2,0.4,0.6
+non_batik,bunga,4,3,1,0.25,0.75
+batik,kalimantan_dayak,5,4,1,0.2,0.8
+batik,parang,5,4,1,0.2,0.8
+non_batik,kotak,7,6,1,0.14285714285714285,0.8571428571428571
+non_batik,polos,5,5,0,0.0,1.0
+non_batik,salur,4,4,0,0.0,1.0
+non_batik,fabric,3,3,0,0.0,1.0
+non_batik,polkadot,3,3,0,0.0,1.0

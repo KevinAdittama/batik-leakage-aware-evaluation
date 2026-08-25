@@ -1,0 +1,9 @@
+left,right,patch_corr,align_score,dx,dy,overlap_w,overlap_h,residual_rgb
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,dataset_batik/batik/Yogyakarta_Parang/0017.jpg,0.9981,0.9982160329818726,-32,0,224,256,4.720098495483398
+dataset_batik/batik/batik semarangan/semarangan3.jpg,dataset_batik/batik/batik semarangan/semarangan5.jpg,0.9932,0.992943525314331,0,0,256,256,5.565633296966553
+dataset_batik/batik/Solo_Parang/0032.jpg,dataset_batik/batik/Solo_Parang/0040.jpg,0.9766,0.9741871953010559,0,-36,256,220,5.946567058563232
+dataset_batik/batik/Yogyakarta_Kawung/0010.jpg,dataset_batik/batik/Yogyakarta_Kawung/0030.jpg,0.9959,0.9958248734474182,-24,0,232,256,6.241395950317383
+dataset_batik/batik/Solo_Parang/0028.jpg,dataset_batik/batik/Solo_Parang/0034.jpg,0.9868,0.9869329333305359,-51,0,205,256,7.452547073364258
+dataset_batik/batik/Solo_Parang/0017.jpg,dataset_batik/batik/Solo_Parang/0021.jpg,0.9707,0.9690274596214294,21,0,235,256,13.287505149841309
+dataset_batik/batik/Yogyakarta_Parang/0012.jpg,dataset_batik/batik/Yogyakarta_Parang/009.jpg,0.97,0.9653975367546082,-48,-21,208,235,14.450183868408203
+dataset_batik/batik/Yogyakarta_Parang/0017.jpg,dataset_batik/batik/Yogyakarta_Parang/009.jpg,0.9703,0.9697048664093018,-36,0,220,256,14.782693862915039

@@ -1,0 +1,12 @@
+source_set,kelas,extension,n
+development,batik,.jpg,136
+development,batik,.png,1
+development,non_batik,.jpg,12
+development,non_batik,.png,51
+development,non_batik,.webp,1
+external,batik,.jpg,28
+external,batik,.png,1
+external,batik,.webp,1
+external,non_batik,.jpg,26
+external,non_batik,.png,1
+external,non_batik,.webp,3
