@@ -17,7 +17,7 @@ authors:
     given-names: Fairizal
 title: "Leakage-Aware Evaluation Reveals Acquisition Bias and External Degradation in Binary Batik Recognition"
 type: software
-repository-code: https://github.com/<akun>/batik-leakage-aware-evaluation
+repository-code: https://github.com/KevinAdittama/batik-leakage-aware-evaluation
 preferred-citation:
   type: article
   title: "Leakage-Aware Evaluation Reveals Acquisition Bias and External Degradation in Binary Batik Recognition"
